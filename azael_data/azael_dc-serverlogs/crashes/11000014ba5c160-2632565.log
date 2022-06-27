@@ -1,0 +1,7 @@
+================================================================
+======== SteamID64 (Hex): 11000014ba5c160 | Date: 26/3/2565
+================================================================
+[22:24:18] [ERROR] [125] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":"Noah Blackcalen ซื้อรถ -974922913 ทะเบียน BNO 113 ราคา $5,000","date":"26/3/2565 22:24:16"}
+[22:24:40] [ERROR] [125] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":"Noah Blackcalen ซื้อรถ 1416125959 ทะเบียน DKO 872 ราคา $5,000","date":"26/3/2565 22:24:38"}
+[22:26:48] [ERROR] [125] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 22:26:46"}
+[22:26:48] [ERROR] [125] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Noah Blackcalen ทำการรักษา Enjoys Kwon","date":"26/3/2565 22:26:46"}

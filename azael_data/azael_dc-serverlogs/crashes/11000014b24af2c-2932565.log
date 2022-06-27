@@ -1,0 +1,12 @@
+================================================================
+======== SteamID64 (Hex): 11000014b24af2c | Date: 29/3/2565
+================================================================
+[19:04:08] [ERROR] [19] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Enjoys Kwon เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 19:04:06"}
+[19:55:01] [ERROR] [43] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Enjoys Kwon เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 19:54:59"}
+[20:31:53] [ERROR] [55] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Enjoys Kwon ถูก Shindo Hassadin ชุบชีวิต","date":"29/3/2565 20:31:49"}
+[20:42:14] [ERROR] [55] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Enjoys Kwon เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 20:42:12"}
+[21:09:46] [ERROR] [80] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Enjoys Kwon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"29/3/2565 21:09:44"}
+[21:09:46] [ERROR] [80] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Enjoys Kwon ชุบชีวิต Shindo Hassadin ได้รับ $0","date":"29/3/2565 21:09:44"}
+[22:02:09] [ERROR] [100] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Enjoys Kwon ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"29/3/2565 22:02:07"}
+[22:02:10] [ERROR] [100] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Enjoys Kwon ทำการรักษา Some Orochi","date":"29/3/2565 22:02:08"}
+[22:19:25] [ERROR] [100] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Enjoys Kwon ได้รับการรักษา จาก Atom Demon","date":"29/3/2565 22:19:21"}

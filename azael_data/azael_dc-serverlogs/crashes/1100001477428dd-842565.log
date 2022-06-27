@@ -1,0 +1,6 @@
+================================================================
+======== SteamID64 (Hex): 1100001477428dd | Date: 8/4/2565
+================================================================
+[21:41:58] [ERROR] [23] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Lloris Marshal เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"8/4/2565 21:41:56"}
+[21:43:43] [ERROR] [23] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Lloris Marshal ซื้อ หน้ากาก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"8/4/2565 21:43:41"}
+[21:47:38] [ERROR] [23] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Lloris Marshal เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"8/4/2565 21:47:36"}

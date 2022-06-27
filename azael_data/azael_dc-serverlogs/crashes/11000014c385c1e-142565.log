@@ -1,0 +1,9 @@
+================================================================
+======== SteamID64 (Hex): 11000014c385c1e | Date: 1/4/2565
+================================================================
+[19:05:51] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"1/4/2565 19:05:49"}
+[19:05:51] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Atom Demon ทำการรักษา Friedrice Norice","date":"1/4/2565 19:05:49"}
+[19:10:24] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Atom Demon เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"1/4/2565 19:10:22"}
+[19:13:19] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Atom Demon ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"1/4/2565 19:13:17"}
+[19:14:04] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Atom Demon ซื้อ ตุ้มหู เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"1/4/2565 19:14:02"}
+[19:14:42] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Atom Demon ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"1/4/2565 19:14:40"}

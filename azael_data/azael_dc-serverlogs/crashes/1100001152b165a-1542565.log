@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 1100001152b165a | Date: 15/4/2565
+================================================================
+[17:25:04] [ERROR] [34] Discord: request to https://discordapp.com/api/webhooks/939495243731050536/rhXHbKYXutrlOR7yZPC-DXwqdZHXa3vTmSZ-oBhqhbR0PGkJN-8RYkNm_S10hvAZ0bgb failed, reason: connect ETIMEDOUT 162.159.129.233:443 Data: {"event":"Logout","content":"ออกจากเซิร์ฟเวอร์ (Server->client connection timed out. Pending commands: 82.\nCommand list:\nazael_dc-richpresence:setPlayerData (73 B, 26190 msec ago)\nxCJShop_Admin:updateTime (45 B, 6744 msec ago)\nxCJShop_Admin:updateTime (45 B, 26872 msec ago)\nxCJShop_Admin:updateTime (45 B, 33799 msec ago)\nxCJShop_Admin:updateTime (45 B, 16821 msec ago)\nxCJShop_Admin:updateTime (45 B, 33799 msec ago)\nxCJShop_Admin:updateTime (45 B, 1697 msec ago)\n)","date":"15/4/2565 17:24:41"}

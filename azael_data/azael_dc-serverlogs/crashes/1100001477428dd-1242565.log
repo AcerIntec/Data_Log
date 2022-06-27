@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 1100001477428dd | Date: 12/4/2565
+================================================================
+[22:38:07] [ERROR] [19] Discord: request to https://discordapp.com/api/webhooks/951768849752133633/cvMOJjWZOA_lkF062As8aU1gW5sCm2d61ZbDbAzK0z1uSFYnK91RNh5mWeNC9UE4GFf3 failed, reason: connect ETIMEDOUT 162.159.135.233:443 Data: {"event":"VaultGetItem","content":"Lloris Marshal นำ หิน จำนวน 120 ออกจากตู้นิรภัย","date":"12/4/2565 22:37:44"}
+[22:38:09] [ERROR] [19] Discord: request to https://discordapp.com/api/webhooks/951768849752133633/cvMOJjWZOA_lkF062As8aU1gW5sCm2d61ZbDbAzK0z1uSFYnK91RNh5mWeNC9UE4GFf3 failed, reason: connect ETIMEDOUT 162.159.135.233:443 Data: {"event":"VaultGetItem","content":"Lloris Marshal นำ แท่งทองแดง จำนวน 50 ออกจากตู้นิรภัย","date":"12/4/2565 22:37:48"}

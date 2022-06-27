@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 110000146d3e863 | Date: 29/3/2565
+================================================================
+[16:03:21] [ERROR] [65] No player data found. Data: {"event":"Dead","content":"เสียชีวิต โดย ตกจากที่สูง หรือ ขาดอาหาร","date":"29/3/2565 16:03:21"}
+[16:06:38] [ERROR] [65] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"MHEE KHUN KHUN ถูก Mark Angel ชุบชีวิต","date":"29/3/2565 16:06:34"}
+[16:06:56] [ERROR] [65] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"MHEE KHUN KHUN ได้รับการรักษา จาก Mark Angel","date":"29/3/2565 16:06:52"}
+[22:36:32] [ERROR] [88] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"MHEE KHUN KHUN ถูก Srithan Jidpong ชุบชีวิต","date":"29/3/2565 22:36:24"}
+[22:36:54] [ERROR] [88] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"MHEE KHUN KHUN ได้รับการรักษา จาก Srithan Jidpong","date":"29/3/2565 22:36:50"}

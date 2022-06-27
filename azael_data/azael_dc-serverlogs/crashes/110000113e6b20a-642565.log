@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 110000113e6b20a | Date: 6/4/2565
+================================================================
+[01:48:01] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Karoft Magma เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"6/4/2565 01:47:59"}
+[01:59:37] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Karoft Magma สัก Toxic Spider เสียค่าใช้จ่าย $295 ให้ ร้านสัก","date":"6/4/2565 01:59:35"}
+[02:00:02] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Karoft Magma ลบรอยสัก","date":"6/4/2565 02:00:00"}
+[02:00:14] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Karoft Magma สัก Sad เสียค่าใช้จ่าย $93 ให้ ร้านสัก","date":"6/4/2565 02:00:12"}
+[02:03:26] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Karoft Magma สัก Dragon's Fury เสียค่าใช้จ่าย $898 ให้ ร้านสัก","date":"6/4/2565 02:03:24"}

@@ -1,0 +1,7 @@
+================================================================
+======== SteamID64 (Hex): 11000013f1ca1b8 | Date: 20/3/2565
+================================================================
+[20:04:09] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Wodwild Lynn เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"20/3/2565 20:04:07"}
+[20:05:22] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Wodwild Lynn ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"20/3/2565 20:05:20"}
+[20:05:45] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Wodwild Lynn ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"20/3/2565 20:05:43"}
+[20:07:17] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Wodwild Lynn เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"20/3/2565 20:07:15"}

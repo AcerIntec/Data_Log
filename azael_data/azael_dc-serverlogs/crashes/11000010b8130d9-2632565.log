@@ -1,0 +1,7 @@
+================================================================
+======== SteamID64 (Hex): 11000010b8130d9 | Date: 26/3/2565
+================================================================
+[19:37:28] [ERROR] [34] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Tony  Kataak ซื้อ ตุ้มหู เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"26/3/2565 19:37:26"}
+[19:40:33] [ERROR] [34] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Tony  Kataak เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"26/3/2565 19:40:31"}
+[19:41:48] [ERROR] [34] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Tony  Kataak ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"26/3/2565 19:41:46"}
+[19:43:46] [ERROR] [34] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Tony  Kataak เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"26/3/2565 19:43:44"}

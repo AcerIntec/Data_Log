@@ -1,0 +1,26 @@
+================================================================
+======== SteamID64 (Hex): 11000014b3939bc | Date: 24/3/2565
+================================================================
+[12:20:47] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Chanom Iris ใช้ Aed จำนวน 1","date":"24/3/2565 12:20:45"}
+[12:42:43] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Chanom Iris ใช้ Aed จำนวน 1","date":"24/3/2565 12:42:41"}
+[14:23:43] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Chanom Iris ใช้ Aed จำนวน 1","date":"24/3/2565 14:23:41"}
+[15:11:21] [ERROR] [15] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"24/3/2565 15:11:19"}
+[15:11:25] [ERROR] [15] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"24/3/2565 15:11:19"}
+[15:24:07] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Chanom Iris ใช้ Aed จำนวน 1","date":"24/3/2565 15:24:05"}
+[15:30:35] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Chanom Iris ถูก Samon Kajornkli ชุบชีวิต","date":"24/3/2565 15:30:31"}
+[15:31:02] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Chanom Iris ได้รับการรักษา จาก Samon Kajornkli","date":"24/3/2565 15:30:58"}
+[15:45:46] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Chanom Iris ใช้ Aed จำนวน 1","date":"24/3/2565 15:45:44"}
+[16:30:48] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Chanom Iris ใช้ Aed จำนวน 1","date":"24/3/2565 16:30:46"}
+[16:38:09] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Chanom Iris ใช้ Aed จำนวน 1","date":"24/3/2565 16:38:07"}
+[16:40:53] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Chanom Iris ถูก Samon Kajornkli ชุบชีวิต","date":"24/3/2565 16:40:49"}
+[16:41:07] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Chanom Iris ได้รับการรักษา จาก Samon Kajornkli","date":"24/3/2565 16:41:03"}
+[16:42:50] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Chanom Iris ถูก Samon Kajornkli ชุบชีวิต","date":"24/3/2565 16:42:46"}
+[16:43:04] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Chanom Iris ได้รับการรักษา จาก Samon Kajornkli","date":"24/3/2565 16:43:00"}
+[16:46:42] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Chanom Iris ใช้ Aed จำนวน 1","date":"24/3/2565 16:46:40"}
+[20:50:27] [ERROR] [46] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Chanom Iris ใช้ Aed จำนวน 1","date":"24/3/2565 20:50:25"}
+[20:52:24] [ERROR] [46] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Chanom Iris ถูก Enjoys Kwon ชุบชีวิต","date":"24/3/2565 20:52:20"}
+[20:52:37] [ERROR] [46] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Chanom Iris ได้รับการรักษา จาก Enjoys Kwon","date":"24/3/2565 20:52:33"}
+[20:54:37] [ERROR] [46] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Chanom Iris ใช้ Aed จำนวน 1","date":"24/3/2565 20:54:35"}
+[21:09:35] [ERROR] [46] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Chanom Iris ใช้ Aed จำนวน 1","date":"24/3/2565 21:09:33"}
+[23:02:48] [ERROR] [46] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Chanom Iris ถูก Bug Sarauri ชุบชีวิต","date":"24/3/2565 23:02:44"}
+[23:55:57] [ERROR] [46] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Chanom Iris ถูก Escobar Escobar ส่งตัวไปยังเรือนจำ เป็นเวลา 10 นาที ในข้อหา สายไฟ3+ปูน4","date":"24/3/2565 23:55:54"}

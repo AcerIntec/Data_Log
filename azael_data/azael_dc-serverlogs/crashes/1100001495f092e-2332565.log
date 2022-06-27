@@ -1,0 +1,7 @@
+================================================================
+======== SteamID64 (Hex): 1100001495f092e | Date: 23/3/2565
+================================================================
+[00:27:49] [ERROR] [21] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"TigonMEELA Ratchaseecity เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"23/3/2565 00:27:47"}
+[00:36:07] [ERROR] [21] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"TigonMEELA Ratchaseecity เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"23/3/2565 00:36:05"}
+[23:39:27] [ERROR] [136] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"TigonMEELA Ratchaseecity ถูก Shindo Hassadin ชุบชีวิต","date":"23/3/2565 23:39:23"}
+[23:39:58] [ERROR] [136] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"TigonMEELA Ratchaseecity ได้รับการรักษา จาก Shindo Hassadin","date":"23/3/2565 23:39:54"}

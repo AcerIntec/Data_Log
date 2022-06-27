@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 11000013e772190 | Date: 1/5/2565
+================================================================
+[21:55:13] [ERROR] [95] Discord: request to https://discordapp.com/api/webhooks/939495243731050536/rhXHbKYXutrlOR7yZPC-DXwqdZHXa3vTmSZ-oBhqhbR0PGkJN-8RYkNm_S10hvAZ0bgb failed, reason: read ECONNRESET Data: {"event":"Logout","content":"ออกจากเซิร์ฟเวอร์ (Disconnected.)","date":"1/5/2565 21:55:07"}

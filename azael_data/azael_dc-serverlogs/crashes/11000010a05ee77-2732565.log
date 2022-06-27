@@ -1,0 +1,9 @@
+================================================================
+======== SteamID64 (Hex): 11000010a05ee77 | Date: 27/3/2565
+================================================================
+[01:03:13] [ERROR] [19] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samain Kajornklai ถูก Mark Angel ชุบชีวิต","date":"27/3/2565 01:03:09"}
+[01:03:29] [ERROR] [19] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samain Kajornklai ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 01:03:26"}
+[01:04:02] [ERROR] [19] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samain Kajornklai ถูก Mark Angel ชุบชีวิต","date":"27/3/2565 01:03:58"}
+[01:04:18] [ERROR] [19] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samain Kajornklai ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 01:04:14"}
+[18:56:41] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samain Kajornklai ถูก Mark Angel ชุบชีวิต","date":"27/3/2565 18:56:37"}
+[22:08:02] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samain Kajornklai ถูก Xuan HaaLai ชุบชีวิต","date":"27/3/2565 22:07:58"}

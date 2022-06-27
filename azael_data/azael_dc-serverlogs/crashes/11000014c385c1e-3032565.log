@@ -1,0 +1,25 @@
+================================================================
+======== SteamID64 (Hex): 11000014c385c1e | Date: 30/3/2565
+================================================================
+[11:38:12] [ERROR] [42] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Atom Demon เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"30/3/2565 11:38:10"}
+[12:48:22] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Atom Demon สัก Angel เสียค่าใช้จ่าย $620 ให้ ร้านสัก","date":"30/3/2565 12:48:20"}
+[12:48:56] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Atom Demon สัก Skeleton Party เสียค่าใช้จ่าย $550 ให้ ร้านสัก","date":"30/3/2565 12:48:54"}
+[12:49:45] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Atom Demon สัก Dragons เสียค่าใช้จ่าย $625 ให้ ร้านสัก","date":"30/3/2565 12:49:43"}
+[12:50:29] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Atom Demon สัก Dog Tags เสียค่าใช้จ่าย $449 ให้ ร้านสัก","date":"30/3/2565 12:50:27"}
+[12:58:47] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Atom Demon ซื้อ หน้ากาก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"30/3/2565 12:58:45"}
+[19:48:30] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"30/3/2565 19:48:28"}
+[19:48:30] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ชุบชีวิต Lupin Intaro ได้รับ $0","date":"30/3/2565 19:48:28"}
+[21:01:28] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ถูก Enjoys Kwon ชุบชีวิต","date":"30/3/2565 21:01:24"}
+[21:02:40] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Atom Demon เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"30/3/2565 21:02:38"}
+[21:09:03] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"30/3/2565 21:09:01"}
+[21:09:03] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ชุบชีวิต Johny Dev ได้รับ $0","date":"30/3/2565 21:09:01"}
+[21:09:19] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"30/3/2565 21:09:17"}
+[21:09:28] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Atom Demon ทำการรักษา Johny Dev","date":"30/3/2565 21:09:26"}
+[21:41:27] [ERROR] [50] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"30/3/2565 21:41:25"}
+[21:41:28] [ERROR] [50] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ชุบชีวิต Xuan HaaLai ได้รับ $0","date":"30/3/2565 21:41:26"}
+[21:42:11] [ERROR] [50] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"30/3/2565 21:42:09"}
+[21:42:11] [ERROR] [50] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ชุบชีวิต Gorge Howdy ได้รับ $0","date":"30/3/2565 21:42:09"}
+[21:42:39] [ERROR] [50] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"30/3/2565 21:42:37"}
+[21:42:39] [ERROR] [50] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Atom Demon ทำการรักษา Gorge Howdy","date":"30/3/2565 21:42:37"}
+[21:42:56] [ERROR] [50] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"30/3/2565 21:42:54"}
+[21:42:57] [ERROR] [50] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Atom Demon ทำการรักษา Xuan HaaLai","date":"30/3/2565 21:42:55"}

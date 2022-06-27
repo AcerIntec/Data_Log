@@ -1,0 +1,32 @@
+================================================================
+======== SteamID64 (Hex): 110000134279393 | Date: 23/3/2565
+================================================================
+[01:14:56] [ERROR] [8] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yuji Kimita ถูก Samon Kajornkli ชุบชีวิต","date":"23/3/2565 01:14:52"}
+[01:15:23] [ERROR] [8] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yuji Kimita ได้รับการรักษา จาก Samon Kajornkli","date":"23/3/2565 01:15:19"}
+[01:23:36] [ERROR] [8] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yuji Kimita ได้รับการรักษา จาก Samon Kajornkli","date":"23/3/2565 01:23:32"}
+[01:25:09] [ERROR] [8] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Yuji Kimita ถูก Friedrice  Norice ส่งตัวไปยังเรือนจำ เป็นเวลา 3 นาที ในข้อหา ืืืืืืปูน1ถุง+หลบหนี","date":"23/3/2565 01:25:05"}
+[02:29:00] [ERROR] [8] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yuji Kimita ถูก Bug Sarauri ชุบชีวิต","date":"23/3/2565 02:28:56"}
+[02:29:35] [ERROR] [8] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yuji Kimita ได้รับการรักษา จาก Bug Sarauri","date":"23/3/2565 02:29:31"}
+[02:36:25] [ERROR] [42] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Yuji Kimita ถูก Friedrice  Norice ส่งตัวไปยังเรือนจำ เป็นเวลา 10 นาที ในข้อหา ปูน1ถุง + หลบหนี + ทำลายหลักฐาน","date":"23/3/2565 02:36:21"}
+[02:40:19] [ERROR] [42] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yuji Kimita ถูก Bug Sarauri ชุบชีวิต","date":"23/3/2565 02:40:16"}
+[02:40:40] [ERROR] [42] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yuji Kimita ได้รับการรักษา จาก Bug Sarauri","date":"23/3/2565 02:40:36"}
+[03:26:02] [ERROR] [42] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Yuji Kimita เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"23/3/2565 03:26:00"}
+[03:32:50] [ERROR] [42] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yuji Kimita ได้รับการรักษา จาก Bug Sarauri","date":"23/3/2565 03:32:46"}
+[03:53:52] [ERROR] [42] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Yuji Kimita เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"23/3/2565 03:53:50"}
+[03:54:12] [ERROR] [42] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Yuji Kimita ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"23/3/2565 03:54:10"}
+[03:54:31] [ERROR] [42] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Yuji Kimita ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"23/3/2565 03:54:29"}
+[03:54:49] [ERROR] [42] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Yuji Kimita ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"23/3/2565 03:54:47"}
+[16:14:16] [ERROR] [74] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yuji Kimita ถูก Bug Sarauri ชุบชีวิต","date":"23/3/2565 16:14:12"}
+[16:14:28] [ERROR] [74] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yuji Kimita ได้รับการรักษา จาก Bug Sarauri","date":"23/3/2565 16:14:24"}
+[16:15:34] [ERROR] [74] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Yuji Kimita ถูก Friedrice  Norice ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา ปูน1ถุง + หลบหนี","date":"23/3/2565 16:15:30"}
+[16:45:41] [ERROR] [74] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yuji Kimita ได้รับการรักษา จาก Bug Sarauri","date":"23/3/2565 16:45:37"}
+[17:00:08] [ERROR] [74] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yuji Kimita ได้รับการรักษา จาก Bug Sarauri","date":"23/3/2565 17:00:04"}
+[22:03:46] [ERROR] [123] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yuji Kimita ถูก M  Moris ชุบชีวิต","date":"23/3/2565 22:03:42"}
+[22:04:04] [ERROR] [123] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yuji Kimita ได้รับการรักษา จาก M  Moris","date":"23/3/2565 22:04:01"}
+[22:13:22] [ERROR] [123] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Yuji Kimita ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"23/3/2565 22:13:20"}
+[23:20:48] [ERROR] [123] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yuji Kimita ถูก M  Moris ชุบชีวิต","date":"23/3/2565 23:20:44"}
+[23:21:07] [ERROR] [123] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yuji Kimita ได้รับการรักษา จาก M  Moris","date":"23/3/2565 23:21:04"}
+[23:22:34] [ERROR] [123] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Yuji Kimita ถูก Friedrice  Norice ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา ปูน1ถุง + หลบหนี","date":"23/3/2565 23:22:30"}
+[23:55:31] [ERROR] [123] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yuji Kimita ถูก M  Moris ชุบชีวิต","date":"23/3/2565 23:55:27"}
+[23:55:45] [ERROR] [123] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yuji Kimita ได้รับการรักษา จาก M  Moris","date":"23/3/2565 23:55:41"}
+[23:57:47] [ERROR] [123] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Yuji Kimita ถูก Escobar Escobar ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา ปูร1ถุง","date":"23/3/2565 23:57:43"}

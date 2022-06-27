@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 110000116bdee95 | Date: 1/6/2565
+================================================================
+[16:55:07] [ERROR] [32] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 613} Data: {"event":"VaultGetItem","content":"Mabel  JR นำ เนื้อวัว จำนวน 50 ออกจากตู้นิรภัย","date":"1/6/2565 16:55:05"}

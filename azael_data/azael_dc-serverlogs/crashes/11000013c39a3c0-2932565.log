@@ -1,0 +1,16 @@
+================================================================
+======== SteamID64 (Hex): 11000013c39a3c0 | Date: 29/3/2565
+================================================================
+[09:37:00] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Geostis Noir หน่วยงาน: ambulance ประกาศ: หมอไปธุระ3นาทีนะครับ","date":"29/3/2565 09:36:58"}
+[09:58:21] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Noir ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"29/3/2565 09:58:19"}
+[09:58:21] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Geostis Noir ชุบชีวิต Naruto Demlo ได้รับ $0","date":"29/3/2565 09:58:19"}
+[09:58:36] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Noir ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"29/3/2565 09:58:34"}
+[09:58:36] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Geostis Noir ทำการรักษา Naruto Demlo","date":"29/3/2565 09:58:35"}
+[11:17:39] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Noir ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"29/3/2565 11:17:37"}
+[11:17:40] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Geostis Noir ชุบชีวิต Tokyo Paradise ได้รับ $0","date":"29/3/2565 11:17:38"}
+[11:17:57] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Noir ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"29/3/2565 11:17:55"}
+[11:17:57] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Geostis Noir ทำการรักษา Tokyo Paradise","date":"29/3/2565 11:17:55"}
+[12:08:20] [ERROR] [67] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Noir ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"29/3/2565 12:08:18"}
+[12:08:21] [ERROR] [67] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Geostis Noir ชุบชีวิต Hin Lu ได้รับ $0","date":"29/3/2565 12:08:19"}
+[12:08:43] [ERROR] [67] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Noir ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"29/3/2565 12:08:41"}
+[12:08:43] [ERROR] [67] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Geostis Noir ทำการรักษา Hin Lu","date":"29/3/2565 12:08:41"}

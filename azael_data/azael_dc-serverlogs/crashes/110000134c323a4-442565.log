@@ -1,0 +1,13 @@
+================================================================
+======== SteamID64 (Hex): 110000134c323a4 | Date: 4/4/2565
+================================================================
+[15:54:05] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Arjeck Jinna เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"4/4/2565 15:54:03"}
+[15:55:20] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Arjeck Jinna เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"4/4/2565 15:55:18"}
+[15:56:55] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Arjeck Jinna ซื้อ ตุ้มหู เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"4/4/2565 15:56:53"}
+[18:36:13] [ERROR] [5] No player data found. Data: {"event":"Chat","content":"/quit\\","date":"4/4/2565 18:36:13"}
+[19:24:46] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Arjeck Jinna ถูก Enjoys Kwon ชุบชีวิต","date":"4/4/2565 19:24:42"}
+[19:25:04] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Arjeck Jinna ได้รับการรักษา จาก Enjoys Kwon","date":"4/4/2565 19:25:00"}
+[19:31:06] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Arjeck Jinna ถูก Enjoys Kwon ชุบชีวิต","date":"4/4/2565 19:31:02"}
+[19:31:27] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Arjeck Jinna ได้รับการรักษา จาก Enjoys Kwon","date":"4/4/2565 19:31:23"}
+[20:42:20] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Arjeck Jinna ถูก Enjoys Kwon ชุบชีวิต","date":"4/4/2565 20:42:17"}
+[20:42:34] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Arjeck Jinna ได้รับการรักษา จาก Enjoys Kwon","date":"4/4/2565 20:42:30"}

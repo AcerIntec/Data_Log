@@ -1,0 +1,13 @@
+================================================================
+======== SteamID64 (Hex): 1100001472dee4b | Date: 30/3/2565
+================================================================
+[13:56:43] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Tony    Jareansuk เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"30/3/2565 13:56:41"}
+[14:00:49] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Tony    Jareansuk เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"30/3/2565 14:00:49"}
+[15:43:37] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"30/3/2565 15:43:35"}
+[15:43:37] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tony    Jareansuk ทำการรักษา Yellow Demlo","date":"30/3/2565 15:43:35"}
+[15:51:18] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Tony    Jareansuk เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"30/3/2565 15:51:16"}
+[16:41:28] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"30/3/2565 16:41:26"}
+[16:41:28] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tony    Jareansuk ชุบชีวิต Shindo Hassadin ได้รับ $0","date":"30/3/2565 16:41:26"}
+[16:53:06] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tony    Jareansuk ถูก Shindo Hassadin ชุบชีวิต","date":"30/3/2565 16:53:02"}
+[17:21:48] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"30/3/2565 17:21:46"}
+[17:21:48] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tony    Jareansuk ชุบชีวิต Arjeck Jinna ได้รับ $0","date":"30/3/2565 17:21:46"}

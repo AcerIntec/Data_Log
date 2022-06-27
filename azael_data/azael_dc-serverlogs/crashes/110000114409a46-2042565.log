@@ -1,0 +1,6 @@
+================================================================
+======== SteamID64 (Hex): 110000114409a46 | Date: 20/4/2565
+================================================================
+[09:32:33] [ERROR] [50] Discord: request to https://discordapp.com/api/webhooks/951768849752133633/cvMOJjWZOA_lkF062As8aU1gW5sCm2d61ZbDbAzK0z1uSFYnK91RNh5mWeNC9UE4GFf3 failed, reason: connect ETIMEDOUT 162.159.133.233:443 Data: {"event":"VaultGetItem","content":"Tako Yaki นำ น้ำมันดิบ จำนวน 1 ออกจากตู้นิรภัย","date":"20/4/2565 09:32:10"}
+[09:32:45] [ERROR] [50] Discord: request to https://discordapp.com/api/webhooks/962005472687308840/cAdYNpKVL7Rt25qwiuQMSfGEuKImqGJhlQPii9ZQcPS_q7nNSg7S6FawP8jcWzwSunVo failed, reason: connect ETIMEDOUT 162.159.134.233:443 Data: {"event":"NC_RemoveItem","content":"Tako Yaki ทิ้ง น้ำมันดิบ จำนวน 1","date":"20/4/2565 09:32:22"}
+[19:49:01] [ERROR] [45] No player data found. Data: {"event":"Login","content":"เข้าสู่เซิร์ฟเวอร์","date":"20/4/2565 19:49:01"}

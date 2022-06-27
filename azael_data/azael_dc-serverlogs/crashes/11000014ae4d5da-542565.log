@@ -1,0 +1,18 @@
+================================================================
+======== SteamID64 (Hex): 11000014ae4d5da | Date: 5/4/2565
+================================================================
+[10:44:11] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Srithan Jidpong ซื้อ หน้ากาก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"5/4/2565 10:44:09"}
+[10:49:53] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Srithan Jidpong เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"5/4/2565 10:49:51"}
+[10:51:36] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Srithan Jidpong เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"5/4/2565 10:51:34"}
+[11:58:58] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Srithan Jidpong เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"5/4/2565 11:58:56"}
+[17:49:03] [ERROR] [37] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Srithan Jidpong เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"5/4/2565 17:49:02"}
+[19:01:33] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Srithan Jidpong เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"5/4/2565 19:01:31"}
+[19:15:29] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Srithan Jidpong เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"5/4/2565 19:15:27"}
+[19:35:17] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Srithan Jidpong เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"5/4/2565 19:35:15"}
+[19:38:28] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Srithan Jidpong เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"5/4/2565 19:38:26"}
+[20:18:59] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Srithan Jidpong ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"5/4/2565 20:18:57"}
+[20:18:59] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Srithan Jidpong ทำการรักษา Johny Dev","date":"5/4/2565 20:18:57"}
+[20:26:30] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Srithan Jidpong ถูก Enjoys Kwon ชุบชีวิต","date":"5/4/2565 20:26:27"}
+[20:26:43] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Srithan Jidpong ได้รับการรักษา จาก Enjoys Kwon","date":"5/4/2565 20:26:40"}
+[20:51:58] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Srithan Jidpong ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"5/4/2565 20:51:56"}
+[20:51:58] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Srithan Jidpong ทำการรักษา Yellow Demlo","date":"5/4/2565 20:51:56"}

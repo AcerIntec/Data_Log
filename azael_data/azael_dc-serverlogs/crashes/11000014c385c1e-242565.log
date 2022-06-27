@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 11000014c385c1e | Date: 2/4/2565
+================================================================
+[17:50:42] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ถูก Mark Angel ชุบชีวิต","date":"2/4/2565 17:50:38"}
+[17:51:11] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"2/4/2565 17:51:09"}
+[17:51:11] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Atom Demon ทำการรักษา Mark Angel","date":"2/4/2565 17:51:09"}
+[20:45:42] [ERROR] [36] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Atom Demon เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"2/4/2565 20:45:40"}
+[20:49:43] [ERROR] [36] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Atom Demon เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"2/4/2565 20:49:41"}

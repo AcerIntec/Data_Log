@@ -1,0 +1,32 @@
+================================================================
+======== SteamID64 (Hex): 11000011b50b226 | Date: 21/5/2565
+================================================================
+[16:22:34] [ERROR] [13] No player data found. Data: {"event":"NC_GiveItem","content":"AogOot Jidpong ส่ง unjail10 ให้กับ Naruto Demlo จำนวน 1","date":"21/5/2565 16:22:34"}
+[16:22:41] [ERROR] [13] No player data found. Data: {"event":"SendBill","content":"AogOot Jidpong ค้างชำระค่า Police: หลบหนี กับ Naruto Demlo จำนวน $1,500 Target: [society_police]","date":"21/5/2565 16:22:41"}
+[16:25:23] [ERROR] [13] No player data found. Data: {"event":"PayBill","content":"AogOot Jidpong ชำระเงินค่า Police: หลบหนี จำนวน $1,500 เข้าหน่วยงาน $750 Target: [society_police]","date":"21/5/2565 16:25:23"}
+[16:31:09] [ERROR] [13] No player data found. Data: {"event":"NC_GiveItem","content":"AogOot Jidpong ได้รับ กล่องซ่อมรถ จาก AongAaj Smit จำนวน 5","date":"21/5/2565 16:31:09"}
+[16:40:31] [ERROR] [13] No player data found. Data: {"event":"DocHeal","content":"AogOot Jidpong ได้รับการรักษา จาก Bug Sarauri","date":"21/5/2565 16:40:31"}
+[16:45:46] [ERROR] [13] No player data found. Data: {"event":"NC_GiveItem","content":"AogOot Jidpong ส่ง unjail10 ให้กับ  M Moris จำนวน 1","date":"21/5/2565 16:45:46"}
+[16:46:19] [ERROR] [13] No player data found. Data: {"event":"SendBill","content":"AogOot Jidpong ค้างชำระค่า Police: หลบหนี กับ  M Moris จำนวน $1,000 Target: [society_police]","date":"21/5/2565 16:46:19"}
+[16:46:28] [ERROR] [13] No player data found. Data: {"event":"PayBill","content":"AogOot Jidpong ชำระเงินค่า Police: หลบหนี จำนวน $1,000 เข้าหน่วยงาน $500 Target: [society_police]","date":"21/5/2565 16:46:28"}
+[16:55:36] [ERROR] [13] No player data found. Data: {"event":"VaultGetItem","content":"AogOot Jidpong นำ แท่งทองแดง จำนวน 50 ออกจากตู้นิรภัย","date":"21/5/2565 16:55:36"}
+[16:55:38] [ERROR] [13] No player data found. Data: {"event":"VaultGetItem","content":"AogOot Jidpong นำ หิน จำนวน 50 ออกจากตู้นิรภัย","date":"21/5/2565 16:55:38"}
+[16:57:30] [ERROR] [13] No player data found. Data: {"event":"VaultGetItem","content":"AogOot Jidpong นำ แท่งทองแดง จำนวน 2 ออกจากตู้นิรภัย","date":"21/5/2565 16:57:30"}
+[16:57:38] [ERROR] [13] No player data found. Data: {"event":"NC_GiveItem","content":"AogOot Jidpong ส่ง แท่งทองแดง ให้กับ AongAaj Smit จำนวน 1","date":"21/5/2565 16:57:38"}
+[16:57:43] [ERROR] [13] No player data found. Data: {"event":"VaultGetItem","content":"AogOot Jidpong นำ Amethyst จำนวน 1 ออกจากตู้นิรภัย","date":"21/5/2565 16:57:43"}
+[16:57:44] [ERROR] [13] No player data found. Data: {"event":"VaultGetItem","content":"AogOot Jidpong นำ Clearquartz จำนวน 1 ออกจากตู้นิรภัย","date":"21/5/2565 16:57:44"}
+[16:57:48] [ERROR] [13] No player data found. Data: {"event":"VaultGetItem","content":"AogOot Jidpong นำ BlueQuartz จำนวน 2 ออกจากตู้นิรภัย","date":"21/5/2565 16:57:48"}
+[16:57:51] [ERROR] [13] No player data found. Data: {"event":"VaultGetItem","content":"AogOot Jidpong นำ สายไฟ จำนวน 3 ออกจากตู้นิรภัย","date":"21/5/2565 16:57:51"}
+[16:57:56] [ERROR] [13] No player data found. Data: {"event":"VaultGetItem","content":"AogOot Jidpong นำ Stonepack จำนวน 1 ออกจากตู้นิรภัย","date":"21/5/2565 16:57:56"}
+[16:58:02] [ERROR] [13] No player data found. Data: {"event":"VaultGetItem","content":"AogOot Jidpong นำ ปูน จำนวน 6 ออกจากตู้นิรภัย","date":"21/5/2565 16:58:02"}
+[16:58:52] [ERROR] [13] No player data found. Data: {"event":"VaultGetItem","content":"AogOot Jidpong นำ Onyx จำนวน 3 ออกจากตู้นิรภัย","date":"21/5/2565 16:58:52"}
+[16:59:23] [ERROR] [13] No player data found. Data: {"event":"NC_GiveItem","content":"AogOot Jidpong ได้รับ Amethyst จาก AongAaj Smit จำนวน 2","date":"21/5/2565 16:59:23"}
+[16:59:59] [ERROR] [13] No player data found. Data: {"event":"VaultPutItem","content":"AogOot Jidpong ฝาก BlueQuartz จำนวน 1 เข้าตู้นิรภัย","date":"21/5/2565 16:59:59"}
+[17:00:01] [ERROR] [13] No player data found. Data: {"event":"VaultPutItem","content":"AogOot Jidpong ฝาก Stonepack จำนวน 1 เข้าตู้นิรภัย","date":"21/5/2565 17:00:01"}
+[17:00:04] [ERROR] [13] No player data found. Data: {"event":"VaultPutItem","content":"AogOot Jidpong ฝาก สายไฟ จำนวน 2 เข้าตู้นิรภัย","date":"21/5/2565 17:00:04"}
+[17:00:07] [ERROR] [13] No player data found. Data: {"event":"VaultPutItem","content":"AogOot Jidpong ฝาก ปูน จำนวน 4 เข้าตู้นิรภัย","date":"21/5/2565 17:00:07"}
+[17:00:10] [ERROR] [13] No player data found. Data: {"event":"VaultPutItem","content":"AogOot Jidpong ฝาก ถุงพลาสติก จำนวน 1 เข้าตู้นิรภัย","date":"21/5/2565 17:00:10"}
+[17:00:12] [ERROR] [13] No player data found. Data: {"event":"VaultPutItem","content":"AogOot Jidpong ฝาก ถุงพลาสติก จำนวน 9 เข้าตู้นิรภัย","date":"21/5/2565 17:00:12"}
+[17:00:16] [ERROR] [13] No player data found. Data: {"event":"VaultPutItem","content":"AogOot Jidpong ฝาก Ironroll จำนวน 1 เข้าตู้นิรภัย","date":"21/5/2565 17:00:16"}
+[17:00:18] [ERROR] [13] No player data found. Data: {"event":"VaultPutItem","content":"AogOot Jidpong ฝาก แท่งทองแดง จำนวน 1 เข้าตู้นิรภัย","date":"21/5/2565 17:00:18"}
+[17:00:39] [ERROR] [13] No player data found. Data: {"event":"Dead","content":"ฆ่า AongAaj โดย Explosion (แรงระเบิด)","date":"21/5/2565 17:00:39"}

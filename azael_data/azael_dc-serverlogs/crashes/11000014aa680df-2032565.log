@@ -1,0 +1,32 @@
+================================================================
+======== SteamID64 (Hex): 11000014aa680df | Date: 20/3/2565
+================================================================
+[14:03:49] [ERROR] [2] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"20/3/2565 14:03:47"}
+[14:03:49] [ERROR] [2] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ชุบชีวิต Friedrice  Norice ได้รับ $0","date":"20/3/2565 14:03:47"}
+[14:09:28] [ERROR] [2] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"20/3/2565 14:09:26"}
+[14:09:28] [ERROR] [2] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ชุบชีวิต Friedrice  Norice ได้รับ $0","date":"20/3/2565 14:09:26"}
+[14:10:09] [ERROR] [2] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"20/3/2565 14:10:07"}
+[14:10:09] [ERROR] [2] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ทำการรักษา Friedrice  Norice","date":"20/3/2565 14:10:07"}
+[14:16:23] [ERROR] [4] No player data found. Data: {"event":"Dead","content":"เสียชีวิต โดย ตกจากที่สูง หรือ ขาดอาหาร","date":"20/3/2565 14:16:23"}
+[14:25:20] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก M  Moris ชุบชีวิต","date":"20/3/2565 14:25:17"}
+[14:26:59] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก M  Moris ชุบชีวิต","date":"20/3/2565 14:26:55"}
+[14:36:51] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"20/3/2565 14:36:49"}
+[14:36:51] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ชุบชีวิต Tokyo Paradise ได้รับ $0","date":"20/3/2565 14:36:49"}
+[14:58:33] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"20/3/2565 14:58:31"}
+[14:58:33] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ชุบชีวิต M  Moris ได้รับ $0","date":"20/3/2565 14:58:31"}
+[14:58:48] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"20/3/2565 14:58:46"}
+[14:58:48] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ทำการรักษา M  Moris","date":"20/3/2565 14:58:46"}
+[15:22:50] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก M  Moris ชุบชีวิต","date":"20/3/2565 15:22:46"}
+[15:23:23] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก M  Moris ชุบชีวิต","date":"20/3/2565 15:23:19"}
+[21:12:50] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก M  Moris ชุบชีวิต","date":"20/3/2565 21:12:46"}
+[21:28:13] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"20/3/2565 21:28:11"}
+[21:28:13] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ชุบชีวิต Somchan Delacour ได้รับ $0","date":"20/3/2565 21:28:11"}
+[21:29:03] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"20/3/2565 21:29:01"}
+[21:29:03] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ชุบชีวิต Somchan Delacour ได้รับ $0","date":"20/3/2565 21:29:01"}
+[21:32:09] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"20/3/2565 21:32:07"}
+[21:32:09] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ชุบชีวิต Enjoys Kwon ได้รับ $0","date":"20/3/2565 21:32:07"}
+[21:33:02] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"20/3/2565 21:33:00"}
+[21:33:02] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ชุบชีวิต Enjoys Kwon ได้รับ $0","date":"20/3/2565 21:33:00"}
+[21:34:04] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Tokyo Paradise ชุบชีวิต","date":"20/3/2565 21:34:00"}
+[22:07:04] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก M  Moris ชุบชีวิต","date":"20/3/2565 22:07:00"}
+[22:07:29] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก M  Moris ชุบชีวิต","date":"20/3/2565 22:07:25"}

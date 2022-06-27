@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 110000101da6e6b | Date: 31/3/2565
+================================================================
+[22:03:01] [ERROR] [38] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Logout","content":"ออกจากเซิร์ฟเวอร์ (Exiting)","date":"31/3/2565 22:02:59"}

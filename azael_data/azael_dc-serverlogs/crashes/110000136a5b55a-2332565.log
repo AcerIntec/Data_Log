@@ -1,0 +1,9 @@
+================================================================
+======== SteamID64 (Hex): 110000136a5b55a | Date: 23/3/2565
+================================================================
+[11:45:50] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Tokyo Paradise เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"23/3/2565 11:45:48"}
+[11:48:17] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Tokyo Paradise เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"23/3/2565 11:48:15"}
+[11:50:47] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Tokyo Paradise เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"23/3/2565 11:50:45"}
+[14:52:23] [ERROR] [55] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Tokyo Paradise ส่ง Chanom Iris ไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา ปูน1+หลบหนี+ทำลายหลักฐาน+ทำลายจ้าหน้าที่","date":"23/3/2565 14:52:21"}
+[14:55:19] [ERROR] [55] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tokyo Paradise ถูก Bug Sarauri ชุบชีวิต","date":"23/3/2565 14:55:16"}
+[14:55:32] [ERROR] [55] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tokyo Paradise ได้รับการรักษา จาก Bug Sarauri","date":"23/3/2565 14:55:28"}

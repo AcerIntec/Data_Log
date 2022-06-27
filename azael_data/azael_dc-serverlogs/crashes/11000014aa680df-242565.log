@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 11000014aa680df | Date: 2/4/2565
+================================================================
+[00:34:42] [ERROR] [1] No player data found. Data: {"event":"Dead","content":"เสียชีวิต โดย ตกจากที่สูง หรือ ขาดอาหาร","date":"2/4/2565 00:34:42"}
+[00:49:57] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Shindo Hassadin","date":"2/4/2565 00:49:53"}
+[01:10:05] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Shindo Hassadin ชุบชีวิต","date":"2/4/2565 01:10:01"}
+[01:10:24] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Shindo Hassadin","date":"2/4/2565 01:10:20"}
+[21:00:41] [ERROR] [13] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Enjoys Kwon","date":"2/4/2565 21:00:37"}

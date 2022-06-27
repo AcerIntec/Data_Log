@@ -1,0 +1,19 @@
+================================================================
+======== SteamID64 (Hex): 11000014c6f2616 | Date: 7/4/2565
+================================================================
+[10:36:44] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Bug Sarauri เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"7/4/2565 10:36:42"}
+[11:00:02] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"7/4/2565 11:00:00"}
+[11:00:02] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ชุบชีวิต BOY LONDON ได้รับ $0","date":"7/4/2565 11:00:00"}
+[11:00:58] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"7/4/2565 11:00:56"}
+[11:00:58] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Bug Sarauri ทำการรักษา BOY LONDON","date":"7/4/2565 11:00:56"}
+[11:34:07] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Bug Sarauri หน่วยงาน: ambulance ประกาศ: หมอขอนุญาติออกเวรนะค้าย ดูแลรักษา สุขภาพกันด้วย","date":"7/4/2565 11:34:05"}
+[16:11:43] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Bug Sarauri เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"7/4/2565 16:11:41"}
+[17:22:44] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Bug Sarauri หน่วยงาน: ambulance ประกาศ: หมอขออนุญาติ ออกเวรไปรับประทานอาเช้าก่อนนะค้าบ เจอกันค้าบ","date":"7/4/2565 17:22:42"}
+[20:40:05] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"7/4/2565 20:40:03"}
+[20:40:05] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ชุบชีวิต Somkid JP ได้รับ $0","date":"7/4/2565 20:40:03"}
+[20:41:15] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"7/4/2565 20:41:13"}
+[20:41:15] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Bug Sarauri ทำการรักษา Somkid JP","date":"7/4/2565 20:41:13"}
+[20:47:50] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Bug Sarauri เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"7/4/2565 20:47:48"}
+[21:11:06] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Bug Sarauri เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"7/4/2565 21:11:04"}
+[22:48:09] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"7/4/2565 22:48:07"}
+[22:48:09] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Bug Sarauri ทำการรักษา Friedrice Norice","date":"7/4/2565 22:48:07"}

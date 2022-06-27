@@ -1,0 +1,10 @@
+================================================================
+======== SteamID64 (Hex): 11000014eb8cb08 | Date: 25/5/2565
+================================================================
+[19:18:19] [ERROR] [8] No player data found. Data: {"event":"withdraw","content":"**Sinchai Kaiju** ได้ถอนเงินจำนวน`` 10000 `` บาท","date":"25/5/2565 19:18:19"}
+[19:41:04] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"Sinchai Kaiju ฝาก แร่เหล็ก จำนวน 22 เข้าตู้นิรภัย","date":"25/5/2565 19:41:04"}
+[19:41:07] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"Sinchai Kaiju ฝาก แท่งทองแดง จำนวน 25 เข้าตู้นิรภัย","date":"25/5/2565 19:41:07"}
+[19:41:09] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"Sinchai Kaiju ฝาก แท่งทองคำ จำนวน 18 เข้าตู้นิรภัย","date":"25/5/2565 19:41:09"}
+[19:41:12] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"Sinchai Kaiju ฝาก เพชร จำนวน 8 เข้าตู้นิรภัย","date":"25/5/2565 19:41:12"}
+[19:41:15] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"Sinchai Kaiju ฝาก หิน จำนวน 100 เข้าตู้นิรภัย","date":"25/5/2565 19:41:15"}
+[19:41:28] [ERROR] [8] No player data found. Data: {"event":"VaultGetItem","content":"Sinchai Kaiju นำ แร่ดิบ จำนวน 300 ออกจากตู้นิรภัย","date":"25/5/2565 19:41:28"}

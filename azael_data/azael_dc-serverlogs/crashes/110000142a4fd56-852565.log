@@ -1,0 +1,32 @@
+================================================================
+======== SteamID64 (Hex): 110000142a4fd56 | Date: 8/5/2565
+================================================================
+[13:43:02] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก เพชร จำนวน 7 เข้าตู้นิรภัย","date":"8/5/2565 13:43:02"}
+[13:43:05] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก แท่งทองคำ จำนวน 23 เข้าตู้นิรภัย","date":"8/5/2565 13:43:05"}
+[13:43:08] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก หิน จำนวน 100 เข้าตู้นิรภัย","date":"8/5/2565 13:43:08"}
+[13:43:10] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก แท่งทองแดง จำนวน 39 เข้าตู้นิรภัย","date":"8/5/2565 13:43:10"}
+[13:43:13] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก แร่เหล็ก จำนวน 27 เข้าตู้นิรภัย","date":"8/5/2565 13:43:13"}
+[13:43:18] [ERROR] [10] No player data found. Data: {"event":"VaultGetItem","content":"BOY LONDON นำ แร่ดิบ จำนวน 300 ออกจากตู้นิรภัย","date":"8/5/2565 13:43:18"}
+[13:54:40] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก แร่เหล็ก จำนวน 29 เข้าตู้นิรภัย","date":"8/5/2565 13:54:40"}
+[13:54:42] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก หิน จำนวน 100 เข้าตู้นิรภัย","date":"8/5/2565 13:54:42"}
+[13:54:45] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก เพชร จำนวน 11 เข้าตู้นิรภัย","date":"8/5/2565 13:54:45"}
+[13:54:48] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก แท่งทองคำ จำนวน 27 เข้าตู้นิรภัย","date":"8/5/2565 13:54:48"}
+[13:54:54] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก แท่งทองแดง จำนวน 41 เข้าตู้นิรภัย","date":"8/5/2565 13:54:54"}
+[13:55:18] [ERROR] [10] No player data found. Data: {"event":"VaultGetItem","content":"BOY LONDON นำ แร่ดิบ จำนวน 100 ออกจากตู้นิรภัย","date":"8/5/2565 13:55:18"}
+[13:55:25] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก แร่ดิบ จำนวน 100 เข้าตู้นิรภัย","date":"8/5/2565 13:55:25"}
+[13:55:25] [ERROR] [10] No player data found. Data: {"event":"NC_GiveItem","content":"BOY LONDON ได้รับ แร่ดิบ จาก Primrose  JR จำนวน 300","date":"8/5/2565 13:55:25"}
+[14:09:57] [ERROR] [10] No player data found. Data: {"event":"Dead","content":"ฆ่า Kongla Ezaki โดย Fist","date":"8/5/2565 14:09:57"}
+[14:35:43] [ERROR] [10] No player data found. Data: {"event":"AccessoriesShop","content":"BOY LONDON ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"8/5/2565 14:35:43"}
+[14:36:08] [ERROR] [10] No player data found. Data: {"event":"AccessoriesShop","content":"BOY LONDON ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"8/5/2565 14:36:08"}
+[14:37:45] [ERROR] [10] No player data found. Data: {"event":"AccessoriesShop","content":"BOY LONDON ซื้อ ตุ้มหู เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"8/5/2565 14:37:45"}
+[14:43:29] [ERROR] [10] No player data found. Data: {"event":"NC_GiveItem","content":"BOY LONDON ส่ง แร่เหล็ก ให้กับ Primrose  JR จำนวน 29","date":"8/5/2565 14:43:29"}
+[14:43:33] [ERROR] [10] No player data found. Data: {"event":"NC_GiveItem","content":"BOY LONDON ส่ง แท่งทองแดง ให้กับ Primrose  JR จำนวน 43","date":"8/5/2565 14:43:33"}
+[14:43:37] [ERROR] [10] No player data found. Data: {"event":"NC_GiveItem","content":"BOY LONDON ส่ง แท่งทองคำ ให้กับ Primrose  JR จำนวน 26","date":"8/5/2565 14:43:37"}
+[14:43:41] [ERROR] [10] No player data found. Data: {"event":"NC_GiveItem","content":"BOY LONDON ส่ง เพชร ให้กับ Primrose  JR จำนวน 16","date":"8/5/2565 14:43:41"}
+[14:43:51] [ERROR] [10] No player data found. Data: {"event":"NC_GiveItem","content":"BOY LONDON ส่ง หิน ให้กับ Primrose  JR จำนวน 100","date":"8/5/2565 14:43:51"}
+[14:44:11] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก ปูน จำนวน 2 เข้าตู้นิรภัย","date":"8/5/2565 14:44:11"}
+[14:44:17] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก สายไฟ จำนวน 2 เข้าตู้นิรภัย","date":"8/5/2565 14:44:17"}
+[14:44:20] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก โคเคน จำนวน 2 เข้าตู้นิรภัย","date":"8/5/2565 14:44:20"}
+[14:44:24] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก ถุงพลาสติก จำนวน 6 เข้าตู้นิรภัย","date":"8/5/2565 14:44:24"}
+[14:44:27] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก กัญชา จำนวน 2 เข้าตู้นิรภัย","date":"8/5/2565 14:44:27"}
+[14:44:41] [ERROR] [10] No player data found. Data: {"event":"VaultPutItem","content":"BOY LONDON ฝาก กล่องตีอาวุธ จำนวน 1 เข้าตู้นิรภัย","date":"8/5/2565 14:44:41"}

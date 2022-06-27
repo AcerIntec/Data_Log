@@ -1,0 +1,6 @@
+================================================================
+======== SteamID64 (Hex): 11000014926981d | Date: 24/3/2565
+================================================================
+[14:51:12] [ERROR] [28] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"24/3/2565 14:50:59"}
+[14:57:08] [ERROR] [28] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Bung Smiths สัก Thief เสียค่าใช้จ่าย $536 ให้ ร้านสัก","date":"24/3/2565 14:57:06"}
+[14:57:33] [ERROR] [28] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Bung Smiths สัก Stop เสียค่าใช้จ่าย $475 ให้ ร้านสัก","date":"24/3/2565 14:57:31"}

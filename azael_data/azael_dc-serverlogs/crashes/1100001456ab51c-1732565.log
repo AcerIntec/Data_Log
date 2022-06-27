@@ -1,0 +1,14 @@
+================================================================
+======== SteamID64 (Hex): 1100001456ab51c | Date: 17/3/2565
+================================================================
+[01:51:21] [ERROR] [3] Discord: Only absolute URLs are supported Data: {"event":"MechanicHijack","content":"[AD] Somkid JP งัดรถ ทะเบียน AIG 914 ","date":"17/3/2565 01:51:19"}
+[01:51:48] [ERROR] [3] Discord: Only absolute URLs are supported Data: {"event":"MechanicHijack","content":"[AD] Somkid JP งัดรถ ทะเบียน AIG 914 ","date":"17/3/2565 01:51:46"}
+[14:40:47] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"MechanicHijack","content":"[AD] Somkid JP งัดรถ ทะเบียน ZNC 343 ","date":"17/3/2565 14:40:45"}
+[18:19:22] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Somkid JP หน่วยงาน: ambulance ประกาศ: ...","date":"17/3/2565 18:19:20"}
+[18:22:16] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Somkid JP หน่วยงาน: mechanic ประกาศ: ...","date":"17/3/2565 18:22:14"}
+[21:38:47] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"MechanicRepair","content":"[AD] Somkid JP ซ่อมรถ ทะเบียน NLM 783 ","date":"17/3/2565 21:38:45"}
+[21:41:08] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"MechanicRepair","content":"[AD] Somkid JP ซ่อมรถ ทะเบียน NLM 783 ","date":"17/3/2565 21:41:06"}
+[21:42:48] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"MechanicRepair","content":"[AD] Somkid JP ซ่อมรถ ทะเบียน NLM 783 ","date":"17/3/2565 21:42:46"}
+[21:45:11] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"MechanicClean","content":"[AD] Somkid JP ล้างรถ ทะเบียน NCC 993 ","date":"17/3/2565 21:45:09"}
+[21:45:35] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"MechanicHijack","content":"[AD] Somkid JP งัดรถ ทะเบียน NCC 993 ","date":"17/3/2565 21:45:33"}
+[21:46:28] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"MechanicHijack","content":"[AD] Somkid JP งัดรถ ทะเบียน NLM 783 ","date":"17/3/2565 21:46:26"}

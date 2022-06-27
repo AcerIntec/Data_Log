@@ -1,0 +1,6 @@
+================================================================
+======== SteamID64 (Hex): 11000014c7a1d81 | Date: 26/3/2565
+================================================================
+[18:50:27] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":"Shindo Hassadin ซื้อรถ -974922913 ทะเบียน DLM 201 ราคา $5,000","date":"26/3/2565 18:50:25"}
+[20:43:20] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 20:43:18"}
+[20:43:20] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Shark Paradise ได้รับ $0","date":"26/3/2565 20:43:19"}

@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 11000014b4ebf6c | Date: 13/4/2565
+================================================================
+[20:24:30] [ERROR] [29] Discord: request to https://discordapp.com/api/webhooks/962005472687308840/cAdYNpKVL7Rt25qwiuQMSfGEuKImqGJhlQPii9ZQcPS_q7nNSg7S6FawP8jcWzwSunVo failed, reason: connect ETIMEDOUT 162.159.135.233:443 Data: {"event":"NC_GiveItem","content":"PIPO CONNER ได้รับ หิน จาก Albo Zeno จำนวน 20","date":"13/4/2565 20:24:05"}
+[20:26:02] [ERROR] [29] Discord: request to https://discordapp.com/api/webhooks/945997986931048448/CSn3PO40gz7OoXCOLs-tOWrLvkdSe3NXb7_gP-RsOe5L952zNZALFqSVcS3jO-OF9oZM failed, reason: read ECONNRESET Data: {"event":"BankDeposit","content":"PIPO CONNER ฝากเงิน จำนวน $1,000 คงเหลือในกระเป๋า $400 มีเงินในบัญชี $1,650","date":"13/4/2565 20:25:11"}

@@ -1,0 +1,10 @@
+================================================================
+======== SteamID64 (Hex): 110000143fc2618 | Date: 21/5/2565
+================================================================
+[15:50:16] [ERROR] [7] No player data found. Data: {"event":"NC_GiveItem","content":"Slan Sanchez ส่ง ปูน ให้กับ Sofia Everest จำนวน 1","date":"21/5/2565 15:50:16"}
+[15:50:21] [ERROR] [7] No player data found. Data: {"event":"NC_GiveItem","content":"Slan Sanchez ส่ง ข้าว ให้กับ Sofia Everest จำนวน 25","date":"21/5/2565 15:50:21"}
+[15:50:25] [ERROR] [7] No player data found. Data: {"event":"NC_GiveItem","content":"Slan Sanchez ส่ง BlueQuartz ให้กับ Sofia Everest จำนวน 1","date":"21/5/2565 15:50:25"}
+[15:50:31] [ERROR] [7] No player data found. Data: {"event":"NC_GiveItem","content":"Slan Sanchez ส่ง ฟักทอง ให้กับ Sofia Everest จำนวน 25","date":"21/5/2565 15:50:31"}
+[15:50:35] [ERROR] [7] No player data found. Data: {"event":"NC_GiveItem","content":"Slan Sanchez ส่ง แตงโม ให้กับ Sofia Everest จำนวน 25","date":"21/5/2565 15:50:35"}
+[15:50:43] [ERROR] [7] No player data found. Data: {"event":"NC_GiveItem","content":"Slan Sanchez ส่ง ชาบู ให้กับ Sofia Everest จำนวน 6","date":"21/5/2565 15:50:43"}
+[16:15:19] [ERROR] [7] No player data found. Data: {"event":"VaultGetItem","content":"Slan Sanchez นำ ปูน จำนวน 10 ออกจากตู้นิรภัย","date":"21/5/2565 16:15:19"}

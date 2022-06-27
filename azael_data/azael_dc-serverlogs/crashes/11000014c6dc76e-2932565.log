@@ -1,0 +1,17 @@
+================================================================
+======== SteamID64 (Hex): 11000014c6dc76e | Date: 29/3/2565
+================================================================
+[12:34:56] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Martin Peraony เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 12:34:54"}
+[12:35:55] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Martin Peraony เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"29/3/2565 12:35:53"}
+[12:41:52] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Martin Peraony เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 12:41:50"}
+[12:46:05] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Martin Peraony ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"29/3/2565 12:46:03"}
+[13:50:59] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Martin Peraony ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"29/3/2565 13:50:57"}
+[13:51:00] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Martin Peraony ชุบชีวิต Arthur Lu ได้รับ $0","date":"29/3/2565 13:50:58"}
+[13:51:46] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Martin Peraony ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"29/3/2565 13:51:44"}
+[13:51:46] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Martin Peraony ทำการรักษา Arthur Lu","date":"29/3/2565 13:51:44"}
+[14:00:45] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Martin Peraony เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"29/3/2565 14:00:43"}
+[14:01:43] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Martin Peraony สัก Time's Up Color เสียค่าใช้จ่าย $188 ให้ ร้านสัก","date":"29/3/2565 14:01:41"}
+[14:02:10] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Martin Peraony สัก Mesh Band เสียค่าใช้จ่าย $200 ให้ ร้านสัก","date":"29/3/2565 14:02:08"}
+[14:22:15] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Martin Peraony ถูก  M Moris ชุบชีวิต","date":"29/3/2565 14:22:12"}
+[14:34:19] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Martin Peraony ถูก Noah Blackcalen ชุบชีวิต","date":"29/3/2565 14:34:15"}
+[14:34:35] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Martin Peraony ได้รับการรักษา จาก Noah Blackcalen","date":"29/3/2565 14:34:31"}

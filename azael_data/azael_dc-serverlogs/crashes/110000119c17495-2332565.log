@@ -1,0 +1,10 @@
+================================================================
+======== SteamID64 (Hex): 110000119c17495 | Date: 23/3/2565
+================================================================
+[22:13:33] [ERROR] [124] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Takumi Kiminoto เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"23/3/2565 22:13:31"}
+[22:34:58] [ERROR] [124] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Takumi Kiminoto ได้รับการรักษา จาก M  Moris","date":"23/3/2565 22:34:54"}
+[22:51:57] [ERROR] [124] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Takumi Kiminoto ถูก Naruto Demlo ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา ปูน 1 ถุง","date":"23/3/2565 22:51:53"}
+[23:22:00] [ERROR] [124] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Takumi Kiminoto ถูก M  Moris ชุบชีวิต","date":"23/3/2565 23:21:56"}
+[23:22:16] [ERROR] [124] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Takumi Kiminoto ได้รับการรักษา จาก M  Moris","date":"23/3/2565 23:22:12"}
+[23:22:59] [ERROR] [124] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Takumi Kiminoto ถูก Naruto Demlo ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา หลบหนี","date":"23/3/2565 23:22:55"}
+[23:53:32] [ERROR] [124] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Takumi Kiminoto ถูก Naruto Demlo ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา หลบหนี + ปูน 1 ถุง","date":"23/3/2565 23:53:28"}

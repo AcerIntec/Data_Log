@@ -1,0 +1,7 @@
+================================================================
+======== SteamID64 (Hex): 11000013c36b6a2 | Date: 28/3/2565
+================================================================
+[21:06:15] [ERROR] [44] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Arthur Lu เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 21:06:13"}
+[21:09:31] [ERROR] [44] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Arthur Lu ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"28/3/2565 21:09:29"}
+[21:10:26] [ERROR] [44] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Arthur Lu ซื้อ ตุ้มหู เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"28/3/2565 21:10:24"}
+[21:12:35] [ERROR] [44] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Arthur Lu เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"28/3/2565 21:12:33"}

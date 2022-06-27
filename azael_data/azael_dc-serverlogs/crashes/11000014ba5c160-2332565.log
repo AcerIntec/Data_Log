@@ -1,0 +1,44 @@
+================================================================
+======== SteamID64 (Hex): 11000014ba5c160 | Date: 23/3/2565
+================================================================
+[12:06:31] [ERROR] [54] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Noah Blackcalen เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"23/3/2565 12:06:29"}
+[12:08:14] [ERROR] [54] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Noah Blackcalen ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"23/3/2565 12:08:12"}
+[15:39:31] [ERROR] [72] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Noah Blackcalen ถูก Friedrice  Norice ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา ปูน1ถุง + หลบหนี","date":"23/3/2565 15:39:27"}
+[16:31:00] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"23/3/2565 16:30:58"}
+[16:31:00] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Noah Blackcalen ทำการรักษา AJINO MOTO","date":"23/3/2565 16:30:58"}
+[16:39:11] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Noah Blackcalen หน่วยงาน: ambulance ประกาศ: รอสักครู่ครับหมอกำลังไป","date":"23/3/2565 16:39:09"}
+[16:47:04] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"23/3/2565 16:47:02"}
+[16:47:04] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Noah Blackcalen ชุบชีวิต Yellow Demlo ได้รับ $0","date":"23/3/2565 16:47:02"}
+[16:48:28] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"23/3/2565 16:48:26"}
+[16:48:28] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Noah Blackcalen ชุบชีวิต Yellow Demlo ได้รับ $0","date":"23/3/2565 16:48:26"}
+[16:59:35] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Noah Blackcalen ถูก Bug Sarauri ชุบชีวิต","date":"23/3/2565 16:59:31"}
+[17:07:47] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"23/3/2565 17:07:45"}
+[17:07:47] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Noah Blackcalen ชุบชีวิต Arthur Lu ได้รับ $0","date":"23/3/2565 17:07:45"}
+[17:08:05] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"23/3/2565 17:08:03"}
+[17:08:05] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Noah Blackcalen ทำการรักษา Arthur Lu","date":"23/3/2565 17:08:03"}
+[17:17:29] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"23/3/2565 17:17:27"}
+[17:17:29] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Noah Blackcalen ชุบชีวิต Bob WiseJworawej ได้รับ $0","date":"23/3/2565 17:17:27"}
+[17:17:54] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"23/3/2565 17:17:52"}
+[17:17:54] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Noah Blackcalen ทำการรักษา Bob WiseJworawej","date":"23/3/2565 17:17:52"}
+[18:24:48] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"23/3/2565 18:24:46"}
+[18:24:48] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Noah Blackcalen ชุบชีวิต Chanom Iris ได้รับ $0","date":"23/3/2565 18:24:46"}
+[18:25:03] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"23/3/2565 18:25:01"}
+[18:25:03] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Noah Blackcalen ทำการรักษา Chanom Iris","date":"23/3/2565 18:25:01"}
+[18:26:03] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"23/3/2565 18:26:01"}
+[18:26:03] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Noah Blackcalen ชุบชีวิต Chanom Iris ได้รับ $0","date":"23/3/2565 18:26:01"}
+[18:26:16] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"23/3/2565 18:26:14"}
+[18:26:16] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Noah Blackcalen ทำการรักษา Chanom Iris","date":"23/3/2565 18:26:14"}
+[18:26:53] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"23/3/2565 18:26:51"}
+[18:26:53] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Noah Blackcalen ชุบชีวิต Bob WiseJworawej ได้รับ $0","date":"23/3/2565 18:26:51"}
+[18:27:08] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"23/3/2565 18:27:06"}
+[18:27:08] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Noah Blackcalen ทำการรักษา Bob WiseJworawej","date":"23/3/2565 18:27:06"}
+[18:28:24] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"23/3/2565 18:28:22"}
+[18:28:24] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Noah Blackcalen ชุบชีวิต Bob WiseJworawej ได้รับ $0","date":"23/3/2565 18:28:22"}
+[18:28:39] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"23/3/2565 18:28:37"}
+[18:28:39] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Noah Blackcalen ทำการรักษา Bob WiseJworawej","date":"23/3/2565 18:28:37"}
+[18:36:27] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Noah Blackcalen หน่วยงาน: ambulance ประกาศ: หมอซ่อมรถแปปนะครับ","date":"23/3/2565 18:36:25"}
+[18:42:21] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Noah Blackcalen หน่วยงาน: ambulance ประกาศ: ลองเด้งศพหน่อยได้มั้ยครับบนเขา หมอหาศพไม่เจอ","date":"23/3/2565 18:42:19"}
+[19:02:17] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"23/3/2565 19:02:15"}
+[19:02:17] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Noah Blackcalen ชุบชีวิต Deemo Grandiwall ได้รับ $0","date":"23/3/2565 19:02:15"}
+[19:02:33] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Noah Blackcalen ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"23/3/2565 19:02:31"}
+[19:02:33] [ERROR] [94] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Noah Blackcalen ทำการรักษา Deemo Grandiwall","date":"23/3/2565 19:02:31"}

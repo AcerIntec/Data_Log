@@ -1,0 +1,17 @@
+================================================================
+======== SteamID64 (Hex): 11000011afb5ede | Date: 29/3/2565
+================================================================
+[19:36:45] [ERROR] [25] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Mix Elwan ได้รับการรักษา จาก Mark Angel","date":"29/3/2565 19:36:41"}
+[19:37:37] [ERROR] [25] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Mix Elwan ได้รับการรักษา จาก Mark Angel","date":"29/3/2565 19:37:33"}
+[20:00:20] [ERROR] [25] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Mix Elwan เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 20:00:18"}
+[20:06:52] [ERROR] [25] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Mix Elwan เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"29/3/2565 20:06:50"}
+[20:10:53] [ERROR] [25] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Mix Elwan ซื้อ หน้ากาก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"29/3/2565 20:10:51"}
+[20:11:38] [ERROR] [25] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Mix Elwan ซื้อ หน้ากาก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"29/3/2565 20:11:36"}
+[21:30:24] [ERROR] [25] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Mix Elwan ถูก Atom Demon ชุบชีวิต","date":"29/3/2565 21:30:20"}
+[21:30:53] [ERROR] [25] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Mix Elwan ได้รับการรักษา จาก Atom Demon","date":"29/3/2565 21:30:49"}
+[21:31:18] [ERROR] [25] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Mix Elwan ถูก Atom Demon ชุบชีวิต","date":"29/3/2565 21:31:14"}
+[21:31:42] [ERROR] [25] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Mix Elwan ได้รับการรักษา จาก Atom Demon","date":"29/3/2565 21:31:38"}
+[21:54:41] [ERROR] [25] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Mix Elwan ถูก Atom Demon ชุบชีวิต","date":"29/3/2565 21:54:38"}
+[21:55:04] [ERROR] [25] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Mix Elwan ได้รับการรักษา จาก Atom Demon","date":"29/3/2565 21:55:00"}
+[21:58:38] [ERROR] [25] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Mix Elwan ถูก Atom Demon ชุบชีวิต","date":"29/3/2565 21:58:34"}
+[21:58:55] [ERROR] [25] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Mix Elwan ได้รับการรักษา จาก Atom Demon","date":"29/3/2565 21:58:51"}

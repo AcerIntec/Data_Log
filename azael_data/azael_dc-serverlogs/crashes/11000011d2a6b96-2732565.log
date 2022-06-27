@@ -1,0 +1,12 @@
+================================================================
+======== SteamID64 (Hex): 11000011d2a6b96 | Date: 27/3/2565
+================================================================
+[00:44:19] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tee Magma ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 00:44:15"}
+[00:56:19] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tee Magma ถูก Mark Angel ชุบชีวิต","date":"27/3/2565 00:56:16"}
+[00:56:34] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tee Magma ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 00:56:30"}
+[01:26:36] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tee Magma ถูก Mark Angel ชุบชีวิต","date":"27/3/2565 01:26:32"}
+[01:37:37] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tee Magma ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 01:37:33"}
+[01:41:01] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tee Magma ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 01:40:58"}
+[03:10:24] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tee Magma ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 03:10:20"}
+[23:38:03] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tee Magma ถูก Mac Torres ชุบชีวิต","date":"27/3/2565 23:37:59"}
+[23:38:40] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tee Magma ได้รับการรักษา จาก Mac Torres","date":"27/3/2565 23:38:36"}

@@ -1,0 +1,33 @@
+================================================================
+======== SteamID64 (Hex): 11000013c39a3c0 | Date: 27/3/2565
+================================================================
+[11:27:37] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":"Geostis Ge ซื้อรถ -974922913 ทะเบียน HUF 765 ราคา $5,000","date":"27/3/2565 11:27:35"}
+[11:36:36] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Geostis Ge เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"27/3/2565 11:36:34"}
+[13:30:51] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Ge ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"27/3/2565 13:30:49"}
+[13:30:51] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Geostis Ge ชุบชีวิต Enjoys Kwon ได้รับ $0","date":"27/3/2565 13:30:49"}
+[14:01:16] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Ge ใช้ ผ้าพันแผล จำนวน 1","date":"27/3/2565 14:01:14"}
+[14:01:16] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Geostis Ge ทำการรักษา Arjeck Jinna","date":"27/3/2565 14:01:14"}
+[14:04:26] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Ge ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"27/3/2565 14:04:24"}
+[14:04:26] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Geostis Ge ชุบชีวิต Johnwick Wickwick ได้รับ $0","date":"27/3/2565 14:04:24"}
+[14:04:44] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Ge ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"27/3/2565 14:04:42"}
+[14:04:44] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Geostis Ge ทำการรักษา Johnwick Wickwick","date":"27/3/2565 14:04:42"}
+[14:05:49] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Ge ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"27/3/2565 14:05:47"}
+[14:05:49] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Geostis Ge ชุบชีวิต Mix Elwan ได้รับ $0","date":"27/3/2565 14:05:47"}
+[14:06:02] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Ge ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"27/3/2565 14:06:00"}
+[14:06:02] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Geostis Ge ทำการรักษา Mix Elwan","date":"27/3/2565 14:06:00"}
+[14:06:19] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Ge ใช้ ผ้าพันแผล จำนวน 1","date":"27/3/2565 14:06:17"}
+[14:06:19] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Geostis Ge ทำการรักษา DOME ELWAN","date":"27/3/2565 14:06:17"}
+[14:13:11] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Ge ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"27/3/2565 14:13:09"}
+[14:13:11] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Geostis Ge ชุบชีวิต Hin Lu ได้รับ $0","date":"27/3/2565 14:13:09"}
+[15:26:57] [ERROR] [66] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Ge ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"27/3/2565 15:26:55"}
+[15:26:57] [ERROR] [66] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Geostis Ge ชุบชีวิต Xuan HaaLai ได้รับ $0","date":"27/3/2565 15:26:55"}
+[15:29:22] [ERROR] [66] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Geostis Ge หน่วยงาน: ambulance ประกาศ: หมอออกเวร รักษาสุขภาพด้วยครับ","date":"27/3/2565 15:29:20"}
+[17:13:39] [ERROR] [83] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Ge ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"27/3/2565 17:13:37"}
+[17:13:39] [ERROR] [83] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Geostis Ge ชุบชีวิต Yellow Demlo ได้รับ $0","date":"27/3/2565 17:13:37"}
+[17:14:02] [ERROR] [83] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Ge ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"27/3/2565 17:14:00"}
+[17:14:02] [ERROR] [83] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Geostis Ge ทำการรักษา Yellow Demlo","date":"27/3/2565 17:14:00"}
+[17:21:18] [ERROR] [83] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Ge ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"27/3/2565 17:21:16"}
+[17:21:18] [ERROR] [83] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Geostis Ge ชุบชีวิต Xuan HaaLai ได้รับ $0","date":"27/3/2565 17:21:16"}
+[17:28:56] [ERROR] [83] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Ge ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"27/3/2565 17:28:54"}
+[17:28:56] [ERROR] [83] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Geostis Ge ชุบชีวิต Samon Kajornklai ได้รับ $0","date":"27/3/2565 17:28:54"}
+[17:31:10] [ERROR] [83] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Geostis Ge ถูก Mark Angel ชุบชีวิต","date":"27/3/2565 17:31:06"}

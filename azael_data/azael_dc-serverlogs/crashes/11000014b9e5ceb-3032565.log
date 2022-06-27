@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 11000014b9e5ceb | Date: 30/3/2565
+================================================================
+[20:58:31] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Popcorn  Mumu เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"30/3/2565 20:58:29"}
+[21:02:59] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Popcorn  Mumu เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"30/3/2565 21:02:57"}
+[21:09:50] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Popcorn  Mumu ซื้อ หน้ากาก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"30/3/2565 21:09:48"}
+[21:16:46] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Popcorn  Mumu ถูก Enjoys Kwon ชุบชีวิต","date":"30/3/2565 21:16:42"}
+[21:17:01] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Popcorn  Mumu ได้รับการรักษา จาก Enjoys Kwon","date":"30/3/2565 21:16:57"}

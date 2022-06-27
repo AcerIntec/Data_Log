@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 1100001353964e4 | Date: 21/4/2565
+================================================================
+[11:45:45] [ERROR] [77] No player data found. Data: {"event":"Login","content":"เข้าสู่เซิร์ฟเวอร์","date":"21/4/2565 11:45:45"}
+[11:47:12] [ERROR] [77] Discord: request to https://discordapp.com/api/webhooks/939495243731050536/rhXHbKYXutrlOR7yZPC-DXwqdZHXa3vTmSZ-oBhqhbR0PGkJN-8RYkNm_S10hvAZ0bgb failed, reason: connect ETIMEDOUT 162.159.130.233:443 Data: {"event":"Logout","content":"ออกจากเซิร์ฟเวอร์ (Exiting)","date":"21/4/2565 11:46:49"}

@@ -1,0 +1,7 @@
+================================================================
+======== SteamID64 (Hex): 11000014ad56e3d | Date: 4/4/2565
+================================================================
+[17:46:26] [ERROR] [17] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Johny Dev หน่วยงาน: police ประกาศ: งดทำงานดำก่อนประเทศรี","date":"4/4/2565 17:46:24"}
+[18:57:50] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Johny Dev เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"4/4/2565 18:57:48"}
+[19:01:23] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Johny Dev เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"4/4/2565 19:01:21"}
+[19:13:40] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Johny Dev ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"4/4/2565 19:13:38"}

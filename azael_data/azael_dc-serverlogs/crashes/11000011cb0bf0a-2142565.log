@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 11000011cb0bf0a | Date: 21/4/2565
+================================================================
+[11:25:28] [ERROR] [55] Discord: request to https://discordapp.com/api/webhooks/962005472687308840/cAdYNpKVL7Rt25qwiuQMSfGEuKImqGJhlQPii9ZQcPS_q7nNSg7S6FawP8jcWzwSunVo failed, reason: connect ETIMEDOUT 162.159.133.233:443 Data: {"event":"NC_GiveItem","content":"Jingabell Zeno ส่ง กล้วยดิบ ให้กับ Sammer Zeno จำนวน 2","date":"21/4/2565 11:25:05"}
+[11:40:24] [ERROR] [55] Discord: request to https://discordapp.com/api/webhooks/939495243731050536/rhXHbKYXutrlOR7yZPC-DXwqdZHXa3vTmSZ-oBhqhbR0PGkJN-8RYkNm_S10hvAZ0bgb failed, reason: connect ETIMEDOUT 162.159.133.233:443 Data: {"event":"Logout","content":"ออกจากเซิร์ฟเวอร์ (Exiting)","date":"21/4/2565 11:40:01"}

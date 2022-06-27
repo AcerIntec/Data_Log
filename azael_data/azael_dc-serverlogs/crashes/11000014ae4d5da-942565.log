@@ -1,0 +1,15 @@
+================================================================
+======== SteamID64 (Hex): 11000014ae4d5da | Date: 9/4/2565
+================================================================
+[17:00:22] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Srithan Jidpong ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"9/4/2565 17:00:20"}
+[17:00:23] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Srithan Jidpong ชุบชีวิต Mac Torres ได้รับ $0","date":"9/4/2565 17:00:21"}
+[17:00:35] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Srithan Jidpong ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/4/2565 17:00:33"}
+[17:00:35] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Srithan Jidpong ทำการรักษา Mac Torres","date":"9/4/2565 17:00:33"}
+[17:24:12] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Srithan Jidpong ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"9/4/2565 17:24:10"}
+[17:24:12] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Srithan Jidpong ชุบชีวิต Sears  Demlo ได้รับ $0","date":"9/4/2565 17:24:10"}
+[17:24:27] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Srithan Jidpong ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/4/2565 17:24:25"}
+[17:24:27] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Srithan Jidpong ทำการรักษา Sears  Demlo","date":"9/4/2565 17:24:25"}
+[17:49:34] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Srithan Jidpong ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/4/2565 17:49:32"}
+[17:49:34] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Srithan Jidpong ทำการรักษา Friedrice Norice","date":"9/4/2565 17:49:32"}
+[17:50:01] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Srithan Jidpong ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/4/2565 17:49:59"}
+[17:50:01] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Srithan Jidpong ทำการรักษา  M Moris","date":"9/4/2565 17:49:59"}

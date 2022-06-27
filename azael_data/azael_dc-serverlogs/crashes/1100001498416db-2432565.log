@@ -1,0 +1,27 @@
+================================================================
+======== SteamID64 (Hex): 1100001498416db | Date: 24/3/2565
+================================================================
+[00:01:51] [ERROR] [116] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"M  Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 00:01:49"}
+[00:01:51] [ERROR] [116] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"M  Moris ชุบชีวิต Shindo Hassadin ได้รับ $0","date":"24/3/2565 00:01:49"}
+[00:03:31] [ERROR] [116] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"M  Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 00:03:29"}
+[00:03:31] [ERROR] [116] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"M  Moris ชุบชีวิต Shindo Hassadin ได้รับ $0","date":"24/3/2565 00:03:29"}
+[00:17:55] [ERROR] [116] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":"M  Moris ซื้อรถ 1416125959 ทะเบียน TJB 994 ราคา $5,000","date":"24/3/2565 00:17:53"}
+[00:31:03] [ERROR] [116] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"M  Moris ถูก Mac Torres ชุบชีวิต","date":"24/3/2565 00:30:59"}
+[14:48:12] [ERROR] [33] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Dead","content":"เสียชีวิต โดย ตกจากที่สูง หรือ ขาดอาหาร","date":"24/3/2565 14:48:00"}
+[14:51:12] [ERROR] [33] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"24/3/2565 14:51:08"}
+[15:11:05] [ERROR] [33] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Dead","content":"ถูก [HSD]YELLOW ฆ่า โดย FlasGolf Clubhlight","date":"24/3/2565 15:10:58"}
+[15:52:02] [ERROR] [33] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":"M  Moris ซื้อรถ 744705981 ทะเบียน HXQ 145 ราคา $50,000","date":"24/3/2565 15:52:00"}
+[16:04:20] [ERROR] [33] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"M  Moris ถูก Samon Kajornkli ชุบชีวิต","date":"24/3/2565 16:04:16"}
+[16:04:37] [ERROR] [33] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"M  Moris ได้รับการรักษา จาก Samon Kajornkli","date":"24/3/2565 16:04:33"}
+[16:19:42] [ERROR] [33] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"M  Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 16:19:40"}
+[16:19:42] [ERROR] [33] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"M  Moris ชุบชีวิต Tokyo Paradise ได้รับ $0","date":"24/3/2565 16:19:40"}
+[16:20:00] [ERROR] [33] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"M  Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 16:19:58"}
+[16:20:00] [ERROR] [33] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"M  Moris ทำการรักษา Tokyo Paradise","date":"24/3/2565 16:19:58"}
+[23:05:01] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"M  Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 23:04:59"}
+[23:05:01] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"M  Moris ชุบชีวิต MYMIND NOIR ได้รับ $0","date":"24/3/2565 23:04:59"}
+[23:05:59] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"M  Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 23:05:57"}
+[23:05:59] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"M  Moris ทำการรักษา MYMIND NOIR","date":"24/3/2565 23:05:57"}
+[23:42:19] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"M  Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 23:42:17"}
+[23:42:19] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"M  Moris ชุบชีวิต MEGA RCS ได้รับ $0","date":"24/3/2565 23:42:17"}
+[23:42:39] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"M  Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 23:42:37"}
+[23:42:39] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"M  Moris ทำการรักษา MEGA RCS","date":"24/3/2565 23:42:37"}

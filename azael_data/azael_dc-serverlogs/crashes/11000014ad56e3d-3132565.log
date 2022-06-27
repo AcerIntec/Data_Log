@@ -1,0 +1,11 @@
+================================================================
+======== SteamID64 (Hex): 11000014ad56e3d | Date: 31/3/2565
+================================================================
+[01:23:57] [ERROR] [23] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Johny Dev หน่วยงาน: police ประกาศ: ขอหมอมา สน 1 คนค้าบ","date":"31/3/2565 01:23:55"}
+[02:07:52] [ERROR] [23] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Johny Dev ถูก Mark Angel ชุบชีวิต","date":"31/3/2565 02:07:49"}
+[02:08:20] [ERROR] [23] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Johny Dev ได้รับการรักษา จาก Mark Angel","date":"31/3/2565 02:08:16"}
+[03:16:14] [ERROR] [23] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Johny Dev เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"31/3/2565 03:16:12"}
+[03:18:26] [ERROR] [23] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Johny Dev เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"31/3/2565 03:18:24"}
+[03:28:36] [ERROR] [23] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Johny Dev เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"31/3/2565 03:28:34"}
+[03:36:42] [ERROR] [23] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Johny Dev เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"31/3/2565 03:36:40"}
+[03:42:37] [ERROR] [23] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Johny Dev ถูก Martin Peraony ชุบชีวิต","date":"31/3/2565 03:42:33"}

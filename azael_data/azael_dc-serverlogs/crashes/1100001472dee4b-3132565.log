@@ -1,0 +1,29 @@
+================================================================
+======== SteamID64 (Hex): 1100001472dee4b | Date: 31/3/2565
+================================================================
+[02:23:36] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"31/3/2565 02:23:34"}
+[02:23:36] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tony    Jareansuk ชุบชีวิต DOME ELWAN ได้รับ $0","date":"31/3/2565 02:23:34"}
+[02:46:32] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"31/3/2565 02:46:30"}
+[02:46:32] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tony    Jareansuk ชุบชีวิต Tommy Magma ได้รับ $0","date":"31/3/2565 02:46:30"}
+[02:47:13] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"31/3/2565 02:47:11"}
+[02:47:13] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tony    Jareansuk ชุบชีวิต Sears  Demlo ได้รับ $0","date":"31/3/2565 02:47:11"}
+[02:48:21] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"31/3/2565 02:48:19"}
+[02:48:21] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tony    Jareansuk ทำการรักษา Sears  Demlo","date":"31/3/2565 02:48:19"}
+[03:07:37] [ERROR] [53] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"31/3/2565 03:07:35"}
+[03:07:37] [ERROR] [53] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tony    Jareansuk ชุบชีวิต DOME ELWAN ได้รับ $0","date":"31/3/2565 03:07:35"}
+[03:25:00] [ERROR] [53] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"31/3/2565 03:24:58"}
+[03:25:01] [ERROR] [53] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tony    Jareansuk ชุบชีวิต Kanom Krub ได้รับ $0","date":"31/3/2565 03:24:59"}
+[03:25:20] [ERROR] [53] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"31/3/2565 03:25:18"}
+[03:25:20] [ERROR] [53] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tony    Jareansuk ทำการรักษา Kanom Krub","date":"31/3/2565 03:25:18"}
+[03:25:56] [ERROR] [53] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"31/3/2565 03:25:54"}
+[03:25:57] [ERROR] [53] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tony    Jareansuk ทำการรักษา Tommy Magma","date":"31/3/2565 03:25:55"}
+[03:36:08] [ERROR] [53] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"31/3/2565 03:36:06"}
+[03:36:08] [ERROR] [53] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tony    Jareansuk ชุบชีวิต DOME ELWAN ได้รับ $0","date":"31/3/2565 03:36:06"}
+[13:33:54] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"31/3/2565 13:33:52"}
+[13:33:54] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tony    Jareansuk ชุบชีวิต Tako Yaki ได้รับ $0","date":"31/3/2565 13:33:52"}
+[13:34:11] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"31/3/2565 13:34:09"}
+[13:34:11] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tony    Jareansuk ทำการรักษา Tako Yaki","date":"31/3/2565 13:34:09"}
+[14:36:20] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"31/3/2565 14:36:18"}
+[14:36:20] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tony    Jareansuk ทำการรักษา Lupin Intaro","date":"31/3/2565 14:36:18"}
+[15:13:58] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"31/3/2565 15:13:56"}
+[15:13:58] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tony    Jareansuk ชุบชีวิต Leo  Nub ได้รับ $0","date":"31/3/2565 15:13:56"}

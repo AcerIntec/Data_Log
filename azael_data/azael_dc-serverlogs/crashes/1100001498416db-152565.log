@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 1100001498416db | Date: 1/5/2565
+================================================================
+[21:55:27] [ERROR] [48] Discord: request to https://discordapp.com/api/webhooks/954319473366675496/FfiWJgGBO-pWVnjupN_xBJ5Di9uqQMqGt7_cqjdsv8OTv3YGFphuriWTe9LeNFK5DIG4 failed, reason: socket hang up Data: {"event":"SendBill","content":" M Moris เรียกเก็บเงินค่า Police: หลบหนี+ปูน กับ ARN DEMONMOON จำนวน $1,500 Target: [society_police]","date":"1/5/2565 21:55:07"}
+[21:56:00] [ERROR] [48] Discord: request to https://discord.com/api/webhooks/957612705664106556/hamvH_2Q3m78F81pS7xS3yfrm9n7RafCGUl4oP2GamPTxRYtR-gKCSSSu4rWYBQxvJoZ failed, reason: connect ETIMEDOUT 162.159.128.233:443 Data: {"event":"PoliceJail","content":" M Moris ส่ง ARN DEMONMOON ไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา หลบหนี+ปูน 1","date":"1/5/2565 21:55:37"}

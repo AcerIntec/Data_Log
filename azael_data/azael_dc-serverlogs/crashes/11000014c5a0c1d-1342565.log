@@ -1,0 +1,6 @@
+================================================================
+======== SteamID64 (Hex): 11000014c5a0c1d | Date: 13/4/2565
+================================================================
+[23:35:15] [ERROR] [72] Discord: request to https://discordapp.com/api/webhooks/962005472687308840/cAdYNpKVL7Rt25qwiuQMSfGEuKImqGJhlQPii9ZQcPS_q7nNSg7S6FawP8jcWzwSunVo failed, reason: connect ETIMEDOUT 162.159.130.233:443 Data: {"event":"NC_GiveItem","content":"DukDik Zeno ได้รับ เศษเหล็ก จาก Albo Zeno จำนวน 20","date":"13/4/2565 23:34:50"}
+[23:35:37] [ERROR] [72] Discord: request to https://discordapp.com/api/webhooks/962005472687308840/cAdYNpKVL7Rt25qwiuQMSfGEuKImqGJhlQPii9ZQcPS_q7nNSg7S6FawP8jcWzwSunVo failed, reason: read ECONNRESET Data: {"event":"NC_GiveItem","content":"DukDik Zeno ได้รับ เศษเหล็ก จาก Albo Zeno จำนวน 3","date":"13/4/2565 23:34:06"}
+[23:36:20] [ERROR] [72] Discord: request to https://discordapp.com/api/webhooks/962005472687308840/cAdYNpKVL7Rt25qwiuQMSfGEuKImqGJhlQPii9ZQcPS_q7nNSg7S6FawP8jcWzwSunVo failed, reason: read ECONNRESET Data: {"event":"NC_GiveItem","content":"DukDik Zeno ได้รับ เศษเหล็ก จาก Sammer Zeno จำนวน 120","date":"13/4/2565 23:34:32"}

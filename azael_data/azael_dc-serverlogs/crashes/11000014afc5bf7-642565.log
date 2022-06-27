@@ -1,0 +1,7 @@
+================================================================
+======== SteamID64 (Hex): 11000014afc5bf7 | Date: 6/4/2565
+================================================================
+[21:15:17] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Alice  Kajornklai เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"6/4/2565 21:15:15"}
+[21:21:57] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Alice  Kajornklai เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"6/4/2565 21:21:55"}
+[21:26:26] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Alice  Kajornklai ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"6/4/2565 21:26:24"}
+[21:27:09] [ERROR] [48] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Alice  Kajornklai ซื้อ ตุ้มหู เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"6/4/2565 21:27:07"}

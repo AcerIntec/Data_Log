@@ -1,0 +1,12 @@
+================================================================
+======== SteamID64 (Hex): 11000014ad56e3d | Date: 29/3/2565
+================================================================
+[01:24:07] [ERROR] [24] Discord: Only absolute URLs are supported Data: {"event":"PoliceHijack","content":"[PL] Johny Dev งัดรถ ทะเบียน QEW 861 ","date":"29/3/2565 01:24:05"}
+[02:15:43] [ERROR] [24] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Johny Dev ได้รับการรักษา จาก Shindo Hassadin","date":"29/3/2565 02:15:39"}
+[21:24:42] [ERROR] [46] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Johny Dev เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 21:24:40"}
+[21:25:34] [ERROR] [46] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Johny Dev ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"29/3/2565 21:25:32"}
+[21:44:27] [ERROR] [46] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Johny Dev เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 21:44:25"}
+[22:38:30] [ERROR] [46] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Johny Dev ถูก Mac Torres ชุบชีวิต","date":"29/3/2565 22:38:26"}
+[22:39:08] [ERROR] [46] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Johny Dev ได้รับการรักษา จาก Mac Torres","date":"29/3/2565 22:39:04"}
+[23:35:37] [ERROR] [131] Discord: Only absolute URLs are supported Data: {"event":"PoliceHijack","content":"[PL] Johny Dev งัดรถ ทะเบียน SMK 150 ","date":"29/3/2565 23:35:35"}
+[23:36:12] [ERROR] [131] Discord: Only absolute URLs are supported Data: {"event":"PoliceHijack","content":"[PL] Johny Dev งัดรถ ทะเบียน SMK 150 ","date":"29/3/2565 23:36:10"}

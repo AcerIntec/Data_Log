@@ -1,0 +1,6 @@
+================================================================
+======== SteamID64 (Hex): 11000013c6c0c36 | Date: 5/5/2565
+================================================================
+[22:19:11] [ERROR] [70] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 7719} Data: {"event":"VaultPutItem","content":"ARN DEMONMOON ฝาก Albatross Coin จำนวน 1 เข้าตู้นิรภัย","date":"5/5/2565 22:19:08"}
+[22:19:13] [ERROR] [70] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 5724} Data: {"event":"VaultPutItem","content":"ARN DEMONMOON ฝาก ปูน จำนวน 2 เข้าตู้นิรภัย","date":"5/5/2565 22:19:11"}
+[22:19:17] [ERROR] [70] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 1647} Data: {"event":"VaultPutItem","content":"ARN DEMONMOON ฝาก สายไฟ จำนวน 2 เข้าตู้นิรภัย","date":"5/5/2565 22:19:14"}

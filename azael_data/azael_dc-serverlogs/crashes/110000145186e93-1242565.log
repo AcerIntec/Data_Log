@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 110000145186e93 | Date: 12/4/2565
+================================================================
+[22:38:08] [ERROR] [25] Discord: request to https://discordapp.com/api/webhooks/940505457536167997/nNeDDu91k7_7XqTBZpqb-fH9lzUSmY6vmSGeGRFsztrj_7QGDrmEvTy3GAbY6Bn7pSSM failed, reason: connect ETIMEDOUT 162.159.135.233:443 Data: {"event":"Dead","content":"ถูก Oshin Elwan ฆ่า โดย Fist","date":"12/4/2565 22:37:45"}

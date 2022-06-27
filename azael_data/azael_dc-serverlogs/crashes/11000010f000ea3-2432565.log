@@ -1,0 +1,84 @@
+================================================================
+======== SteamID64 (Hex): 11000010f000ea3 | Date: 24/3/2565
+================================================================
+[01:25:50] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"24/3/2565 01:25:48"}
+[02:02:38] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"24/3/2565 02:02:36"}
+[14:56:50] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"24/3/2565 14:56:48"}
+[14:57:24] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 14:57:22"}
+[14:57:24] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา REEB Kajornkai","date":"24/3/2565 14:57:22"}
+[15:03:14] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"24/3/2565 15:03:13"}
+[15:03:14] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต REEB Kajornkai ได้รับ $0","date":"24/3/2565 15:03:13"}
+[15:03:34] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"24/3/2565 15:03:32"}
+[15:03:34] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต REEB Kajornkai ได้รับ $0","date":"24/3/2565 15:03:32"}
+[15:03:54] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"24/3/2565 15:03:52"}
+[15:03:54] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต REEB Kajornkai ได้รับ $0","date":"24/3/2565 15:03:52"}
+[15:04:14] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 15:04:12"}
+[15:04:14] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา REEB Kajornkai","date":"24/3/2565 15:04:12"}
+[15:13:17] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"24/3/2565 15:13:15"}
+[15:13:17] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต REEB Kajornkai ได้รับ $0","date":"24/3/2565 15:13:15"}
+[15:13:34] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 15:13:32"}
+[15:13:34] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา REEB Kajornkai","date":"24/3/2565 15:13:32"}
+[15:16:21] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 15:16:19"}
+[15:16:21] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต REEB Kajornkai ได้รับ $0","date":"24/3/2565 15:16:19"}
+[15:16:36] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 15:16:34"}
+[15:16:36] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา REEB Kajornkai","date":"24/3/2565 15:16:34"}
+[15:26:52] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 15:26:50"}
+[15:26:52] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต Yellow Demlo ได้รับ $0","date":"24/3/2565 15:26:51"}
+[15:27:09] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 15:27:07"}
+[15:27:09] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา Yellow Demlo","date":"24/3/2565 15:27:07"}
+[15:30:33] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 15:30:31"}
+[15:30:33] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต Chanom Iris ได้รับ $0","date":"24/3/2565 15:30:31"}
+[15:31:00] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 15:30:58"}
+[15:31:00] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา Chanom Iris","date":"24/3/2565 15:30:58"}
+[15:37:42] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 15:37:40"}
+[15:37:42] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต Yellow Demlo ได้รับ $0","date":"24/3/2565 15:37:40"}
+[15:37:57] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 15:37:55"}
+[15:37:57] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา Yellow Demlo","date":"24/3/2565 15:37:55"}
+[15:43:47] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 15:43:45"}
+[15:43:47] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต Samain Kajornklai ได้รับ $0","date":"24/3/2565 15:43:45"}
+[15:44:00] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 15:43:58"}
+[15:44:00] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา Samain Kajornklai","date":"24/3/2565 15:43:58"}
+[15:44:17] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 15:44:15"}
+[15:44:17] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต Samain Kajornklai ได้รับ $0","date":"24/3/2565 15:44:15"}
+[15:46:12] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 15:46:10"}
+[15:46:12] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต Yellow Demlo ได้รับ $0","date":"24/3/2565 15:46:10"}
+[15:46:25] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 15:46:23"}
+[15:46:25] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา Yellow Demlo","date":"24/3/2565 15:46:23"}
+[15:46:47] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 15:46:45"}
+[15:46:47] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต REEB Kajornkai ได้รับ $0","date":"24/3/2565 15:46:45"}
+[15:47:03] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 15:47:01"}
+[15:47:03] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา REEB Kajornkai","date":"24/3/2565 15:47:01"}
+[15:49:38] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 15:49:36"}
+[15:49:38] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต Lloris Marshal ได้รับ $0","date":"24/3/2565 15:49:36"}
+[15:49:54] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 15:49:52"}
+[15:49:54] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา Lloris Marshal","date":"24/3/2565 15:49:52"}
+[15:51:13] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 15:51:12"}
+[15:51:13] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต Yellow Demlo ได้รับ $0","date":"24/3/2565 15:51:12"}
+[15:51:25] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 15:51:23"}
+[15:51:25] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา Yellow Demlo","date":"24/3/2565 15:51:23"}
+[15:51:41] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต Zeno Ravana ได้รับ $0","date":"24/3/2565 15:51:39"}
+[15:51:41] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 15:51:39"}
+[16:04:18] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 16:04:16"}
+[16:04:18] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต M  Moris ได้รับ $0","date":"24/3/2565 16:04:16"}
+[16:04:35] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 16:04:33"}
+[16:04:35] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา M  Moris","date":"24/3/2565 16:04:33"}
+[16:05:06] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 16:05:04"}
+[16:05:06] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา Folk Swagen","date":"24/3/2565 16:05:04"}
+[16:40:51] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 16:40:49"}
+[16:40:51] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต Chanom Iris ได้รับ $0","date":"24/3/2565 16:40:49"}
+[16:41:05] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 16:41:03"}
+[16:41:05] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา Chanom Iris","date":"24/3/2565 16:41:03"}
+[16:41:22] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 16:41:20"}
+[16:41:22] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต REEB Kajornkai ได้รับ $0","date":"24/3/2565 16:41:20"}
+[16:41:39] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 16:41:37"}
+[16:41:39] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา REEB Kajornkai","date":"24/3/2565 16:41:37"}
+[16:41:56] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 16:41:54"}
+[16:41:56] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต EAKO YAKI ได้รับ $0","date":"24/3/2565 16:41:54"}
+[16:42:09] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 16:42:07"}
+[16:42:09] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา EAKO YAKI","date":"24/3/2565 16:42:07"}
+[16:42:48] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 16:42:46"}
+[16:42:48] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต Chanom Iris ได้รับ $0","date":"24/3/2565 16:42:46"}
+[16:43:02] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"24/3/2565 16:43:00"}
+[16:43:02] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา Chanom Iris","date":"24/3/2565 16:43:00"}
+[18:21:18] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"24/3/2565 18:21:16"}
+[18:21:18] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต Tee Magma ได้รับ $0","date":"24/3/2565 18:21:16"}

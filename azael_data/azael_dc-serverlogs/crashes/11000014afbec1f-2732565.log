@@ -1,0 +1,15 @@
+================================================================
+======== SteamID64 (Hex): 11000014afbec1f | Date: 27/3/2565
+================================================================
+[17:20:59] [ERROR] [80] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Sears  Demlo ถูก Mark Angel ชุบชีวิต","date":"27/3/2565 17:20:56"}
+[19:12:32] [ERROR] [31] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Sears  Demlo ส่ง Xuan HaaLai ไปยังเรือนจำ เป็นเวลา 1 นาที ในข้อหา .","date":"27/3/2565 19:12:30"}
+[19:13:57] [ERROR] [31] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Sears  Demlo ถูก Mark Angel ชุบชีวิต","date":"27/3/2565 19:13:53"}
+[19:14:18] [ERROR] [31] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Sears  Demlo ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 19:14:14"}
+[19:16:44] [ERROR] [31] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Sears  Demlo ซื้อ ตุ้มหู เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"27/3/2565 19:16:42"}
+[19:17:02] [ERROR] [31] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Sears  Demlo ซื้อ ตุ้มหู เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"27/3/2565 19:17:00"}
+[19:20:06] [ERROR] [31] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Sears  Demlo เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"27/3/2565 19:20:04"}
+[19:20:32] [ERROR] [31] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Sears  Demlo ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"27/3/2565 19:20:30"}
+[23:45:12] [ERROR] [81] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Sears  Demlo ถูก Mac Torres ชุบชีวิต","date":"27/3/2565 23:45:09"}
+[23:45:26] [ERROR] [81] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Sears  Demlo ได้รับการรักษา จาก Mac Torres","date":"27/3/2565 23:45:22"}
+[23:54:39] [ERROR] [81] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Sears  Demlo ถูก Mac Torres ชุบชีวิต","date":"27/3/2565 23:54:35"}
+[23:54:52] [ERROR] [81] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Sears  Demlo ได้รับการรักษา จาก Mac Torres","date":"27/3/2565 23:54:49"}

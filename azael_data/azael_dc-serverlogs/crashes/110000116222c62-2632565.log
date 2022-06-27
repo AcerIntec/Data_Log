@@ -1,0 +1,6 @@
+================================================================
+======== SteamID64 (Hex): 110000116222c62 | Date: 26/3/2565
+================================================================
+[16:13:02] [ERROR] [111] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Mikey Larsen เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"26/3/2565 16:13:00"}
+[16:23:19] [ERROR] [111] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Mikey Larsen เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"26/3/2565 16:23:17"}
+[21:46:22] [ERROR] [58] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Mikey Larsen ถูก Matthew Sebastian Matthew Sebastian ส่งตัวไปยังเรือนจำ เป็นเวลา 20 นาที ในข้อหา หลบหนี+สายไฟ+ปูน","date":"26/3/2565 21:46:18"}

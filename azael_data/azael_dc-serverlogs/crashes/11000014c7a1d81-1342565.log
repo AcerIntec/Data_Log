@@ -1,0 +1,7 @@
+================================================================
+======== SteamID64 (Hex): 11000014c7a1d81 | Date: 13/4/2565
+================================================================
+[19:33:38] [ERROR] [53] No player data found. Data: {"event":"Login","content":"เข้าสู่เซิร์ฟเวอร์","date":"13/4/2565 19:33:38"}
+[20:29:41] [ERROR] [53] Discord: request to https://discordapp.com/api/webhooks/951768849752133633/cvMOJjWZOA_lkF062As8aU1gW5sCm2d61ZbDbAzK0z1uSFYnK91RNh5mWeNC9UE4GFf3 failed, reason: read ECONNRESET Data: {"event":"VaultPutItem","content":"Shindo Hassadin ฝาก หิน จำนวน 100 เข้าตู้นิรภัย","date":"13/4/2565 20:27:56"}
+[20:29:43] [ERROR] [53] Discord: request to https://discordapp.com/api/webhooks/951768849752133633/cvMOJjWZOA_lkF062As8aU1gW5sCm2d61ZbDbAzK0z1uSFYnK91RNh5mWeNC9UE4GFf3 failed, reason: connect ETIMEDOUT 162.159.134.233:443 Data: {"event":"VaultGetItem","content":"Shindo Hassadin นำ ชาบู จำนวน 2 ออกจากตู้นิรภัย","date":"13/4/2565 20:29:20"}
+[23:35:36] [ERROR] [53] Discord: request to https://discordapp.com/api/webhooks/939495243731050536/rhXHbKYXutrlOR7yZPC-DXwqdZHXa3vTmSZ-oBhqhbR0PGkJN-8RYkNm_S10hvAZ0bgb failed, reason: connect ETIMEDOUT 162.159.130.233:443 Data: {"event":"Logout","content":"ออกจากเซิร์ฟเวอร์ (Exiting)","date":"13/4/2565 23:35:13"}

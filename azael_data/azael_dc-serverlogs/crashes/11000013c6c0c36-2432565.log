@@ -1,0 +1,9 @@
+================================================================
+======== SteamID64 (Hex): 11000013c6c0c36 | Date: 24/3/2565
+================================================================
+[20:22:08] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"ARM DEMONMOON ซื้อ ตุ้มหู เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"24/3/2565 20:22:06"}
+[20:23:22] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"ARM DEMONMOON ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"24/3/2565 20:23:20"}
+[20:26:02] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"ARM DEMONMOON เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"24/3/2565 20:26:00"}
+[20:30:19] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"ARM DEMONMOON เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"24/3/2565 20:30:17"}
+[20:41:41] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"ARM DEMONMOON ซื้อ หน้ากาก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"24/3/2565 20:41:39"}
+[20:44:53] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"ARM DEMONMOON สัก FTW เสียค่าใช้จ่าย $195 ให้ ร้านสัก","date":"24/3/2565 20:44:51"}

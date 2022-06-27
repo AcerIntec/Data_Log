@@ -1,0 +1,6 @@
+================================================================
+======== SteamID64 (Hex): 1100001119e7ed4 | Date: 30/3/2565
+================================================================
+[21:41:22] [ERROR] [15] No player data found. Data: {"event":"Dead","content":"เสียชีวิต โดย ไม่ทราบสาเหตุ","date":"30/3/2565 21:41:22"}
+[21:41:30] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Xuan HaaLai ถูก Atom Demon ชุบชีวิต","date":"30/3/2565 21:41:26"}
+[21:42:59] [ERROR] [15] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Xuan HaaLai ได้รับการรักษา จาก Atom Demon","date":"30/3/2565 21:42:55"}

@@ -1,0 +1,9 @@
+================================================================
+======== SteamID64 (Hex): 11000014b24af2c | Date: 22/5/2565
+================================================================
+[22:51:24] [ERROR] [40] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 2266} Data: {"event":"VaultPutItem","content":"Enjoys Kwon ฝาก แร่เหล็ก จำนวน 10 เข้าตู้นิรภัย","date":"22/5/2565 22:51:20"}
+[22:52:28] [ERROR] [40] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 72} Data: {"event":"VaultPutItem","content":"Enjoys Kwon ฝาก ไม้ดิบ จำนวน 50 เข้าตู้นิรภัย","date":"22/5/2565 22:52:26"}
+[22:53:19] [ERROR] [40] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 10484} Data: {"event":"VaultPutItem","content":"Enjoys Kwon ฝาก แตงโม จำนวน 50 เข้าตู้นิรภัย","date":"22/5/2565 22:53:17"}
+[22:53:21] [ERROR] [40] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 8466} Data: {"event":"VaultPutItem","content":"Enjoys Kwon ฝาก ส้มดิบ จำนวน 50 เข้าตู้นิรภัย","date":"22/5/2565 22:53:20"}
+[22:53:23] [ERROR] [40] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 6512} Data: {"event":"VaultPutItem","content":"Enjoys Kwon ฝาก ไม้ดิบ จำนวน 50 เข้าตู้นิรภัย","date":"22/5/2565 22:53:22"}
+[22:53:28] [ERROR] [40] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 1677} Data: {"event":"VaultPutItem","content":"Enjoys Kwon ฝาก แร่เหล็ก จำนวน 16 เข้าตู้นิรภัย","date":"22/5/2565 22:53:26"}

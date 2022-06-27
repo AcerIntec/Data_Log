@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 11000014c595cda | Date: 21/4/2565
+================================================================
+[11:48:05] [ERROR] [58] Discord: request to https://discordapp.com/api/webhooks/945997986931048448/CSn3PO40gz7OoXCOLs-tOWrLvkdSe3NXb7_gP-RsOe5L952zNZALFqSVcS3jO-OF9oZM failed, reason: connect ETIMEDOUT 162.159.130.233:443 Data: {"event":"BankDeposit","content":"Mamel Kazami ฝากเงิน จำนวน $21,000 คงเหลือในกระเป๋า $958 มีเงินในบัญชี $32,050","date":"21/4/2565 11:47:42"}

@@ -1,0 +1,13 @@
+================================================================
+======== SteamID64 (Hex): 11000013e2f1008 | Date: 1/4/2565
+================================================================
+[19:26:21] [ERROR] [17] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Mark Angel ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"1/4/2565 19:26:20"}
+[19:26:22] [ERROR] [17] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Mark Angel ชุบชีวิต Johny Dev ได้รับ $0","date":"1/4/2565 19:26:20"}
+[19:26:42] [ERROR] [17] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Mark Angel ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"1/4/2565 19:26:40"}
+[19:26:42] [ERROR] [17] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Mark Angel ทำการรักษา Johny Dev","date":"1/4/2565 19:26:40"}
+[19:38:52] [ERROR] [17] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Mark Angel ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"1/4/2565 19:38:50"}
+[19:38:52] [ERROR] [17] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Mark Angel ชุบชีวิต Lupin Intaro ได้รับ $0","date":"1/4/2565 19:38:50"}
+[19:42:13] [ERROR] [17] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Mark Angel ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"1/4/2565 19:42:11"}
+[19:42:13] [ERROR] [17] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Mark Angel ชุบชีวิต Lupin Intaro ได้รับ $0","date":"1/4/2565 19:42:11"}
+[19:42:34] [ERROR] [17] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Mark Angel ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"1/4/2565 19:42:32"}
+[19:42:35] [ERROR] [17] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Mark Angel ทำการรักษา Lupin Intaro","date":"1/4/2565 19:42:33"}

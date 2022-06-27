@@ -1,0 +1,9 @@
+================================================================
+======== SteamID64 (Hex): 11000014c6f2616 | Date: 3/4/2565
+================================================================
+[18:52:40] [ERROR] [2] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Bug Sarauri ซื้อ หน้ากาก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"3/4/2565 18:52:38"}
+[19:31:46] [ERROR] [2] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Bug Sarauri เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"3/4/2565 19:31:44"}
+[19:54:39] [ERROR] [2] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Bug Sarauri เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"3/4/2565 19:54:37"}
+[19:59:40] [ERROR] [2] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Bug Sarauri เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"3/4/2565 19:59:38"}
+[22:58:04] [ERROR] [2] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ถูก Mac Torres ชุบชีวิต","date":"3/4/2565 22:58:00"}
+[22:58:26] [ERROR] [2] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Bug Sarauri ได้รับการรักษา จาก Mac Torres","date":"3/4/2565 22:58:22"}

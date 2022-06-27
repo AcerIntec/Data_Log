@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 11000014e6137ce | Date: 5/5/2565
+================================================================
+[22:19:17] [ERROR] [77] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 1745} Data: {"event":"VaultGetItem","content":"Somsak  Onfloy นำ เพชร จำนวน 40 ออกจากตู้นิรภัย","date":"5/5/2565 22:19:07"}

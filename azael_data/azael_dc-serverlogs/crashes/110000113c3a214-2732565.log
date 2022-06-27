@@ -1,0 +1,15 @@
+================================================================
+======== SteamID64 (Hex): 110000113c3a214 | Date: 27/3/2565
+================================================================
+[11:31:32] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Ninja Magma ถูก Enjoys Kwon ชุบชีวิต","date":"27/3/2565 11:31:28"}
+[11:31:53] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Ninja Magma ได้รับการรักษา จาก Enjoys Kwon","date":"27/3/2565 11:31:49"}
+[12:27:23] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Ninja Magma เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"27/3/2565 12:27:21"}
+[12:28:10] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Ninja Magma ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"27/3/2565 12:28:08"}
+[12:31:12] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Ninja Magma ซื้อ หน้ากาก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"27/3/2565 12:31:10"}
+[17:06:51] [ERROR] [87] No player data found. Data: {"event":"Dead","content":"เสียชีวิต โดย ตกจากที่สูง หรือ ขาดอาหาร","date":"27/3/2565 17:06:51"}
+[17:15:45] [ERROR] [87] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Ninja Magma ถูก Atom Demon ชุบชีวิต","date":"27/3/2565 17:15:41"}
+[17:16:04] [ERROR] [87] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Ninja Magma ได้รับการรักษา จาก Atom Demon","date":"27/3/2565 17:16:00"}
+[17:18:07] [ERROR] [87] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Ninja Magma ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 17:18:03"}
+[19:37:03] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Ninja Magma สัก Scorpion เสียค่าใช้จ่าย $318 ให้ ร้านสัก","date":"27/3/2565 19:37:01"}
+[19:37:05] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Ninja Magma สัก Toxic Spider เสียค่าใช้จ่าย $295 ให้ ร้านสัก","date":"27/3/2565 19:37:04"}
+[23:07:04] [ERROR] [49] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Ninja Magma ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 23:07:01"}

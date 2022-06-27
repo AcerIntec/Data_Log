@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 1100001472dee4b | Date: 17/3/2565
+================================================================
+[15:39:44] [ERROR] [24] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":"Tony Jareansuk ซื้อรถ 1416125959 ทะเบียน KHL 787 ราคา $5,000","date":"17/3/2565 15:39:42"}
+[15:50:09] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":"Tony Jareansuk ซื้อรถ -1860923259 ทะเบียน QTS 253 ราคา $10,000","date":"17/3/2565 15:50:07"}

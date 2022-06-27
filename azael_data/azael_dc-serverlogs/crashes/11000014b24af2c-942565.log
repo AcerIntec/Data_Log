@@ -1,0 +1,10 @@
+================================================================
+======== SteamID64 (Hex): 11000014b24af2c | Date: 9/4/2565
+================================================================
+[15:23:52] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Enjoys Kwon ได้รับการรักษา จาก Somchan Delacour","date":"9/4/2565 15:23:48"}
+[15:36:08] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Enjoys Kwon ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/4/2565 15:36:06"}
+[15:36:08] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Enjoys Kwon ทำการรักษา Sears  Demlo","date":"9/4/2565 15:36:06"}
+[16:24:05] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Enjoys Kwon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"9/4/2565 16:24:03"}
+[16:24:05] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Enjoys Kwon ชุบชีวิต Lookhin Klinglhunlhun ได้รับ $0","date":"9/4/2565 16:24:03"}
+[16:24:37] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Enjoys Kwon ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/4/2565 16:24:35"}
+[16:24:37] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Enjoys Kwon ทำการรักษา Lookhin Klinglhunlhun","date":"9/4/2565 16:24:35"}

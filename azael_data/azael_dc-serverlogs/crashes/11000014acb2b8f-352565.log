@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 11000014acb2b8f | Date: 3/5/2565
+================================================================
+[13:35:25] [ERROR] [2] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 2908} Data: {"event":"VaultGetItem","content":"Dan Skyfall นำ กะหล่ำปลี จำนวน 50 ออกจากตู้นิรภัย","date":"3/5/2565 13:35:23"}

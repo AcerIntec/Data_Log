@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 1100001477428dd | Date: 26/3/2565
+================================================================
+[19:53:46] [ERROR] [45] Discord: request to https://discordapp.com/api/webhooks/940522895887704094/STHSwiu-_oi1nazMTXUd3dnAFraveW9lCAkUbHUpkMeidy6Kfb3KLdYWDO9RC3ZkTgMW failed, reason: connect ETIMEDOUT 162.159.133.233:443 Data: {"event":"Chat","content":"/-ChangeStatus","date":"26/3/2565 19:53:23"}

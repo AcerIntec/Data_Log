@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 11000011af1da69 | Date: 1/5/2565
+================================================================
+[21:55:57] [ERROR] [8] Discord: request to https://discordapp.com/api/webhooks/948783770910204025/1vn8Bu-OmBIoX8Ql6EO_M7oATkwnXEi8C-sgtdaavIHr68Hn2KqemAbTHb3sTdTuGI-h failed, reason: connect ETIMEDOUT 162.159.129.233:443 Data: {"event":"Chat","content":"/e smoke","date":"1/5/2565 21:55:34"}

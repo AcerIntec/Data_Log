@@ -1,0 +1,16 @@
+================================================================
+======== SteamID64 (Hex): 11000014afbec1f | Date: 23/3/2565
+================================================================
+[00:57:45] [ERROR] [9] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Sears  Demlo ส่ง Chanom Iris ไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา หลบหนี + ปูน 9 ถุง","date":"23/3/2565 00:57:43"}
+[01:21:29] [ERROR] [9] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Sears  Demlo ส่ง Mix Kanita ไปยังเรือนจำ เป็นเวลา 20 นาที ในข้อหา หลบหนี + ปูน 4 ถุง","date":"23/3/2565 01:21:28"}
+[01:26:26] [ERROR] [9] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Sears  Demlo ส่ง Srithan Yimsayam ไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา หลบหนี + ปูน 3 ถุง","date":"23/3/2565 01:26:24"}
+[01:40:08] [ERROR] [9] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Sears  Demlo ถูก Bug Sarauri ชุบชีวิต","date":"23/3/2565 01:40:04"}
+[01:40:20] [ERROR] [9] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Sears  Demlo ได้รับการรักษา จาก Bug Sarauri","date":"23/3/2565 01:40:16"}
+[01:50:10] [ERROR] [9] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Sears  Demlo ส่ง Alice   Kajornklai ไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา หลบหนี + ปูน 1 ถุง","date":"23/3/2565 01:50:08"}
+[02:28:12] [ERROR] [39] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Sears  Demlo ถูก Bug Sarauri ชุบชีวิต","date":"23/3/2565 02:28:08"}
+[02:43:15] [ERROR] [39] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Sears  Demlo ส่ง REEB Kajornkai ไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา หลบหนี + ปูน 11 ถุง","date":"23/3/2565 02:43:13"}
+[02:52:27] [ERROR] [39] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Sears  Demlo ถูก Bug Sarauri ชุบชีวิต","date":"23/3/2565 02:52:23"}
+[02:52:39] [ERROR] [39] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Sears  Demlo ได้รับการรักษา จาก Bug Sarauri","date":"23/3/2565 02:52:35"}
+[03:06:13] [ERROR] [39] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Sears  Demlo ส่ง DOME ELWAN ไปยังเรือนจำ เป็นเวลา 15 นาที ในข้อหา หลบหนี + ปูน 1 ถุง +เจตนาทำร้ายเจ้าหน้าที่","date":"23/3/2565 03:06:11"}
+[22:05:14] [ERROR] [122] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Sears  Demlo ส่ง Niclolas  Kwon ไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา หลบหนี","date":"23/3/2565 22:05:12"}
+[23:10:08] [ERROR] [122] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Sears  Demlo ส่ง Mix Kanita ไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา หลบหนี + ปูน 1 ถุง","date":"23/3/2565 23:10:06"}

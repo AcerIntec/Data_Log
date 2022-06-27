@@ -1,0 +1,17 @@
+================================================================
+======== SteamID64 (Hex): 11000013e4317d5 | Date: 28/3/2565
+================================================================
+[20:34:10] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Hin Lu เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"28/3/2565 20:34:10"}
+[20:36:08] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Hin Lu เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"28/3/2565 20:36:06"}
+[20:52:45] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Hin Lu เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 20:52:43"}
+[20:53:59] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Hin Lu ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"28/3/2565 20:53:57"}
+[21:04:14] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Hin Lu ถูก Mac Torres ชุบชีวิต","date":"28/3/2565 21:04:11"}
+[21:04:31] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Hin Lu ได้รับการรักษา จาก Mac Torres","date":"28/3/2565 21:04:27"}
+[21:06:28] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Hin Lu เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 21:06:26"}
+[21:30:15] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Hin Lu ได้รับการรักษา จาก Mac Torres","date":"28/3/2565 21:30:12"}
+[21:30:30] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Hin Lu ได้รับการรักษา จาก Mac Torres","date":"28/3/2565 21:30:26"}
+[21:30:45] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Hin Lu ได้รับการรักษา จาก Mac Torres","date":"28/3/2565 21:30:41"}
+[22:16:39] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Hin Lu ถูก Mark Angel ชุบชีวิต","date":"28/3/2565 22:16:35"}
+[22:16:56] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Hin Lu ได้รับการรักษา จาก Mark Angel","date":"28/3/2565 22:16:52"}
+[22:56:34] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Hin Lu ถูก Mark Angel ชุบชีวิต","date":"28/3/2565 22:56:30"}
+[22:56:51] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Hin Lu ได้รับการรักษา จาก Mark Angel","date":"28/3/2565 22:56:47"}

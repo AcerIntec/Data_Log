@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 11000011afb1d01 | Date: 4/6/2565
+================================================================
+[03:43:18] [ERROR] [76] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 8425} Data: {"event":"VaultGetItem","content":"TEE YAI นำ แตงโม จำนวน 50 ออกจากตู้นิรภัย","date":"4/6/2565 03:43:15"}
+[03:43:25] [ERROR] [76] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 995} Data: {"event":"VaultGetItem","content":"TEE YAI นำ แตงโม จำนวน 50 ออกจากตู้นิรภัย","date":"4/6/2565 03:43:23"}
+[03:45:24] [ERROR] [76] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 3568} Data: {"event":"VaultGetItem","content":"TEE YAI นำ แตงโม จำนวน 50 ออกจากตู้นิรภัย","date":"4/6/2565 03:45:20"}
+[03:46:20] [ERROR] [76] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 8698} Data: {"event":"VaultGetItem","content":"TEE YAI นำ แตงโม จำนวน 50 ออกจากตู้นิรภัย","date":"4/6/2565 03:46:18"}
+[03:46:27] [ERROR] [76] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 1271} Data: {"event":"VaultGetItem","content":"TEE YAI นำ แตงโม จำนวน 50 ออกจากตู้นิรภัย","date":"4/6/2565 03:46:25"}

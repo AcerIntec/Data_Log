@@ -1,0 +1,9 @@
+================================================================
+======== SteamID64 (Hex): 1100001071b5440 | Date: 27/3/2565
+================================================================
+[00:39:11] [ERROR] [31] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Somtom Roti เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"27/3/2565 00:39:09"}
+[00:39:22] [ERROR] [31] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"27/3/2565 00:36:22"}
+[00:39:24] [ERROR] [31] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"27/3/2565 00:36:22"}
+[01:20:41] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Somtom Roti ถูก Mark Angel ชุบชีวิต","date":"27/3/2565 01:20:38"}
+[01:21:30] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Somtom Roti ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 01:21:26"}
+[01:59:28] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Somtom Roti ถูก Mark Angel ชุบชีวิต","date":"27/3/2565 01:59:25"}

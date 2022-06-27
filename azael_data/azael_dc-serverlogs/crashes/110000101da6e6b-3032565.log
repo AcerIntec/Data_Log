@@ -1,0 +1,6 @@
+================================================================
+======== SteamID64 (Hex): 110000101da6e6b | Date: 30/3/2565
+================================================================
+[21:41:22] [ERROR] [49] No player data found. Data: {"event":"Dead","content":"เสียชีวิต โดย ไม่ทราบสาเหตุ","date":"30/3/2565 21:41:22"}
+[21:42:13] [ERROR] [49] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Gorge Howdy ถูก Atom Demon ชุบชีวิต","date":"30/3/2565 21:42:10"}
+[21:42:41] [ERROR] [49] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Gorge Howdy ได้รับการรักษา จาก Atom Demon","date":"30/3/2565 21:42:37"}

@@ -1,0 +1,6 @@
+================================================================
+======== SteamID64 (Hex): 11000011afb1d01 | Date: 13/4/2565
+================================================================
+[19:33:48] [ERROR] [52] No player data found. Data: {"event":"Login","content":"เข้าสู่เซิร์ฟเวอร์","date":"13/4/2565 19:33:48"}
+[20:23:32] [ERROR] [52] Discord: request to https://discordapp.com/api/webhooks/951768849752133633/cvMOJjWZOA_lkF062As8aU1gW5sCm2d61ZbDbAzK0z1uSFYnK91RNh5mWeNC9UE4GFf3 failed, reason: connect ETIMEDOUT 162.159.135.233:443 Data: {"event":"VaultPutItem","content":"TEE YAI ฝาก แท่งทองแดง จำนวน 50 เข้าตู้นิรภัย","date":"13/4/2565 20:23:09"}
+[20:23:58] [ERROR] [52] Discord: request to https://discordapp.com/api/webhooks/951768849752133633/cvMOJjWZOA_lkF062As8aU1gW5sCm2d61ZbDbAzK0z1uSFYnK91RNh5mWeNC9UE4GFf3 failed, reason: read ECONNRESET Data: {"event":"VaultPutItem","content":"TEE YAI ฝาก หิน จำนวน 50 เข้าตู้นิรภัย","date":"13/4/2565 20:23:07"}

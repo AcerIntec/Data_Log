@@ -1,0 +1,19 @@
+================================================================
+======== SteamID64 (Hex): 11000014b24af2c | Date: 28/3/2565
+================================================================
+[20:37:18] [ERROR] [19] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Enjoys Kwon เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 20:37:16"}
+[20:49:40] [ERROR] [19] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Enjoys Kwon เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"28/3/2565 20:49:38"}
+[20:51:38] [ERROR] [19] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Enjoys Kwon เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"28/3/2565 20:51:36"}
+[21:12:35] [ERROR] [19] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Enjoys Kwon เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 21:12:33"}
+[21:51:01] [ERROR] [81] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Enjoys Kwon เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 21:50:59"}
+[21:54:50] [ERROR] [81] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Enjoys Kwon เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 21:54:48"}
+[22:25:27] [ERROR] [91] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Enjoys Kwon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"28/3/2565 22:25:25"}
+[22:25:27] [ERROR] [91] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Enjoys Kwon ชุบชีวิต Johny Dev ได้รับ $0","date":"28/3/2565 22:25:25"}
+[22:25:52] [ERROR] [91] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Enjoys Kwon ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"28/3/2565 22:25:50"}
+[22:25:52] [ERROR] [91] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Enjoys Kwon ทำการรักษา Johny Dev","date":"28/3/2565 22:25:50"}
+[22:26:37] [ERROR] [91] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Enjoys Kwon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"28/3/2565 22:26:37"}
+[22:26:39] [ERROR] [91] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Enjoys Kwon ชุบชีวิต White Roger ได้รับ $0","date":"28/3/2565 22:26:37"}
+[22:26:53] [ERROR] [91] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Enjoys Kwon ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"28/3/2565 22:26:51"}
+[22:26:53] [ERROR] [91] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Enjoys Kwon ทำการรักษา White Roger","date":"28/3/2565 22:26:51"}
+[22:38:42] [ERROR] [91] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Enjoys Kwon หน่วยงาน: ambulance ประกาศ: ใครเอาฮอหมอไป รบกวนเอามาคืนด้วยค่ะ","date":"28/3/2565 22:38:40"}
+[22:40:59] [ERROR] [91] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Enjoys Kwon หน่วยงาน: ambulance ประกาศ: ใครเอาฮอหมอไปที่จอดไว้หน้ารพ.ทะเลทราย รบกวนเอามาคืนด้วยนะคะ","date":"28/3/2565 22:40:57"}

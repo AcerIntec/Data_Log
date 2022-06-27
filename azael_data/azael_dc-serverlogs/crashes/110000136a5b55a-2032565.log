@@ -1,0 +1,22 @@
+================================================================
+======== SteamID64 (Hex): 110000136a5b55a | Date: 20/3/2565
+================================================================
+[14:36:53] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tokyo Paradise ถูก Yellow Demlo ชุบชีวิต","date":"20/3/2565 14:36:49"}
+[14:45:27] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tokyo Paradise ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"20/3/2565 14:45:25"}
+[14:45:27] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tokyo Paradise ชุบชีวิต Shark Paradise ได้รับ $0","date":"20/3/2565 14:45:25"}
+[14:45:43] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tokyo Paradise ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"20/3/2565 14:45:41"}
+[14:45:43] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tokyo Paradise ทำการรักษา Shark Paradise","date":"20/3/2565 14:45:41"}
+[14:47:49] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tokyo Paradise ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"20/3/2565 14:47:48"}
+[14:47:49] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tokyo Paradise ชุบชีวิต Shark Paradise ได้รับ $0","date":"20/3/2565 14:47:48"}
+[14:48:02] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tokyo Paradise ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"20/3/2565 14:48:00"}
+[14:48:02] [ERROR] [6] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tokyo Paradise ทำการรักษา Shark Paradise","date":"20/3/2565 14:48:00"}
+[18:38:43] [ERROR] [24] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tokyo Paradise ถูก M  Moris ชุบชีวิต","date":"20/3/2565 18:38:39"}
+[19:53:41] [ERROR] [24] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Tokyo Paradise ถูก Friedrice  Norice ส่งตัวไปยังเรือนจำ เป็นเวลา 2 นาที ในข้อหา ปูน1ถุง+หลบหนี","date":"20/3/2565 19:53:37"}
+[20:36:58] [ERROR] [24] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Tokyo Paradise ถูก Friedrice  Norice ส่งตัวไปยังเรือนจำ เป็นเวลา 2 นาที ในข้อหา หลบหนี","date":"20/3/2565 20:36:55"}
+[21:26:09] [ERROR] [24] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tokyo Paradise ถูก Enjoys Kwon ชุบชีวิต","date":"20/3/2565 21:26:05"}
+[21:30:53] [ERROR] [24] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tokyo Paradise ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"20/3/2565 21:30:51"}
+[21:30:53] [ERROR] [24] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tokyo Paradise ชุบชีวิต Somchan Delacour ได้รับ $0","date":"20/3/2565 21:30:51"}
+[21:31:06] [ERROR] [24] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tokyo Paradise ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"20/3/2565 21:31:04"}
+[21:31:06] [ERROR] [24] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tokyo Paradise ทำการรักษา Somchan Delacour","date":"20/3/2565 21:31:04"}
+[21:34:02] [ERROR] [24] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tokyo Paradise ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"20/3/2565 21:34:00"}
+[21:34:02] [ERROR] [24] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tokyo Paradise ชุบชีวิต Yellow Demlo ได้รับ $0","date":"20/3/2565 21:34:00"}

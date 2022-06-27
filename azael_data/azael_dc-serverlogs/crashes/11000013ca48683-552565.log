@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 11000013ca48683 | Date: 5/5/2565
+================================================================
+[22:19:12] [ERROR] [54] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 5921} Data: {"event":"VaultGetItem","content":"Saudi Arabia นำ ไม้อัด จำนวน 10 ออกจากตู้นิรภัย","date":"5/5/2565 22:19:06"}

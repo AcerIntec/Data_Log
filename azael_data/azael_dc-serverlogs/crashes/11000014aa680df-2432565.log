@@ -1,0 +1,28 @@
+================================================================
+======== SteamID64 (Hex): 11000014aa680df | Date: 24/3/2565
+================================================================
+[00:04:39] [ERROR] [118] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ Aed จำนวน 1","date":"24/3/2565 00:04:37"}
+[00:34:30] [ERROR] [118] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ Aed จำนวน 1","date":"24/3/2565 00:34:28"}
+[00:38:30] [ERROR] [118] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ Aed จำนวน 1","date":"24/3/2565 00:38:28"}
+[14:29:57] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ Aed จำนวน 1","date":"24/3/2565 14:29:55"}
+[14:48:10] [ERROR] [30] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Dead","content":"ฆ่า Deemo Grandiwall โดย Broken Bottle","date":"24/3/2565 14:47:56"}
+[14:49:44] [ERROR] [30] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Dead","content":"ถูก [PL] Tokyo paradise ฆ่า โดย Broken Bottle","date":"24/3/2565 14:49:32"}
+[14:52:15] [ERROR] [30] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Dead","content":"ฆ่า [PL] Tokyo paradise โดย Baseball Bat","date":"24/3/2565 14:52:05"}
+[14:52:59] [ERROR] [30] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Dead","content":"ฆ่า [PL] Tokyo paradise โดย Baseball Bat","date":"24/3/2565 14:52:46"}
+[14:54:11] [ERROR] [30] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"24/3/2565 14:54:08"}
+[14:55:02] [ERROR] [30] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"24/3/2565 14:54:59"}
+[14:55:05] [ERROR] [30] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Dead","content":"ฆ่า [PL] Tokyo paradise โดย Baseball Bat","date":"24/3/2565 14:55:01"}
+[15:23:42] [ERROR] [45] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ Aed จำนวน 1","date":"24/3/2565 15:23:40"}
+[15:24:21] [ERROR] [45] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ Aed จำนวน 1","date":"24/3/2565 15:24:19"}
+[15:26:55] [ERROR] [45] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Samon Kajornkli ชุบชีวิต","date":"24/3/2565 15:26:51"}
+[15:27:11] [ERROR] [45] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Samon Kajornkli","date":"24/3/2565 15:27:07"}
+[15:37:44] [ERROR] [45] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Samon Kajornkli ชุบชีวิต","date":"24/3/2565 15:37:40"}
+[15:37:59] [ERROR] [45] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Samon Kajornkli","date":"24/3/2565 15:37:56"}
+[15:46:14] [ERROR] [45] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Samon Kajornkli ชุบชีวิต","date":"24/3/2565 15:46:10"}
+[15:46:27] [ERROR] [45] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Samon Kajornkli","date":"24/3/2565 15:46:23"}
+[15:50:26] [ERROR] [45] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ Aed จำนวน 1","date":"24/3/2565 15:50:24"}
+[15:50:44] [ERROR] [45] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ Aed จำนวน 1","date":"24/3/2565 15:50:42"}
+[15:51:16] [ERROR] [45] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Samon Kajornkli ชุบชีวิต","date":"24/3/2565 15:51:12"}
+[15:51:27] [ERROR] [45] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Samon Kajornkli","date":"24/3/2565 15:51:23"}
+[22:53:02] [ERROR] [68] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ Aed จำนวน 1","date":"24/3/2565 22:53:00"}
+[22:55:37] [ERROR] [68] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Yellow Demlo ใช้ Aed จำนวน 1","date":"24/3/2565 22:55:35"}

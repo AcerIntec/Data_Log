@@ -1,0 +1,13 @@
+================================================================
+======== SteamID64 (Hex): 110000113c3a214 | Date: 30/3/2565
+================================================================
+[00:47:38] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Ninja Magma ถูก Mark Angel ชุบชีวิต","date":"30/3/2565 00:47:34"}
+[00:47:52] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Ninja Magma ได้รับการรักษา จาก Mark Angel","date":"30/3/2565 00:47:48"}
+[00:55:55] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Ninja Magma ถูก Mark Angel ชุบชีวิต","date":"30/3/2565 00:55:51"}
+[00:56:10] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Ninja Magma ได้รับการรักษา จาก Mark Angel","date":"30/3/2565 00:56:06"}
+[02:32:43] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Ninja Magma เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"30/3/2565 02:32:41"}
+[02:40:27] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Ninja Magma เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"30/3/2565 02:40:25"}
+[02:48:27] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Ninja Magma เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"30/3/2565 02:48:25"}
+[04:24:55] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Ninja Magma ถูก Mark Angel ชุบชีวิต","date":"30/3/2565 04:24:51"}
+[04:25:13] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Ninja Magma ได้รับการรักษา จาก Mark Angel","date":"30/3/2565 04:25:09"}
+[17:19:59] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Ninja Angel เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"30/3/2565 17:19:57"}

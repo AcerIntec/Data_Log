@@ -1,0 +1,7 @@
+================================================================
+======== SteamID64 (Hex): 110000134e61565 | Date: 3/4/2565
+================================================================
+[00:51:12] [ERROR] [13] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Seven Nightover เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"3/4/2565 00:51:11"}
+[00:58:23] [ERROR] [13] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Seven Nightover เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"3/4/2565 00:58:21"}
+[00:59:58] [ERROR] [13] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Seven Nightover ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"3/4/2565 00:59:56"}
+[01:00:22] [ERROR] [13] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Seven Nightover ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"3/4/2565 01:00:20"}

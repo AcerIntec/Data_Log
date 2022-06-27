@@ -1,0 +1,18 @@
+================================================================
+======== SteamID64 (Hex): 1100001119e7ed4 | Date: 23/3/2565
+================================================================
+[18:19:37] [ERROR] [77] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Xuan Haalai ถูก M  Moris ชุบชีวิต","date":"23/3/2565 18:19:33"}
+[18:19:49] [ERROR] [77] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Xuan Haalai ได้รับการรักษา จาก M  Moris","date":"23/3/2565 18:19:45"}
+[18:22:49] [ERROR] [77] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Xuan Haalai ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"23/3/2565 18:22:47"}
+[18:22:49] [ERROR] [77] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Xuan Haalai ทำการรักษา M  Moris","date":"23/3/2565 18:22:47"}
+[18:23:11] [ERROR] [77] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Xuan Haalai ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"23/3/2565 18:23:10"}
+[18:23:11] [ERROR] [77] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Xuan Haalai ชุบชีวิต Chanom Iris ได้รับ $0","date":"23/3/2565 18:23:10"}
+[18:23:33] [ERROR] [77] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Xuan Haalai ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"23/3/2565 18:23:31"}
+[18:23:33] [ERROR] [77] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Xuan Haalai ทำการรักษา Chanom Iris","date":"23/3/2565 18:23:31"}
+[18:31:56] [ERROR] [77] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Xuan Haalai ใช้ Aed จำนวน 1","date":"23/3/2565 18:31:54"}
+[21:49:53] [ERROR] [106] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Xuan Haalai ถูก Escobar Escobar ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา สายไฟ2 ปูน1","date":"23/3/2565 21:49:49"}
+[23:48:49] [ERROR] [106] Discord: Only absolute URLs are supported Data: {"event":"JobCoke","content":"Xuan Haalai ได้รับ โคเคน จำนวน 1","date":"23/3/2565 23:48:47"}
+[23:51:05] [ERROR] [106] Discord: Only absolute URLs are supported Data: {"event":"JobCoke","content":"Xuan Haalai ได้รับ โคเคน จำนวน 3","date":"23/3/2565 23:51:03"}
+[23:53:36] [ERROR] [106] Discord: Only absolute URLs are supported Data: {"event":"JobCoke","content":"Xuan Haalai ได้รับ โคเคน จำนวน 3","date":"23/3/2565 23:53:34"}
+[23:55:28] [ERROR] [106] Discord: Only absolute URLs are supported Data: {"event":"JobCoke","content":"Xuan Haalai ได้รับ โคเคน จำนวน 2","date":"23/3/2565 23:55:26"}
+[23:56:30] [ERROR] [106] Discord: Only absolute URLs are supported Data: {"event":"JobCoke","content":"Xuan Haalai ได้รับ โคเคน จำนวน 3","date":"23/3/2565 23:56:28"}

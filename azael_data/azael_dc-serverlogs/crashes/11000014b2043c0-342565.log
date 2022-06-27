@@ -1,0 +1,14 @@
+================================================================
+======== SteamID64 (Hex): 11000014b2043c0 | Date: 3/4/2565
+================================================================
+[17:45:19] [ERROR] [29] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Bob Sanchez เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"3/4/2565 17:45:17"}
+[17:48:09] [ERROR] [29] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Bob Sanchez เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"3/4/2565 17:48:07"}
+[17:50:03] [ERROR] [29] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Bob Sanchez เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"3/4/2565 17:50:01"}
+[17:50:52] [ERROR] [29] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Bob Sanchez ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"3/4/2565 17:50:50"}
+[17:51:05] [ERROR] [29] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Bob Sanchez ซื้อ ตุ้มหู เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"3/4/2565 17:51:03"}
+[19:57:20] [ERROR] [21] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bob Sanchez ถูก Enjoys Kwon ชุบชีวิต","date":"3/4/2565 19:57:16"}
+[19:57:42] [ERROR] [21] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Bob Sanchez ได้รับการรักษา จาก Enjoys Kwon","date":"3/4/2565 19:57:39"}
+[20:02:49] [ERROR] [21] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bob Sanchez ถูก Enjoys Kwon ชุบชีวิต","date":"3/4/2565 20:02:45"}
+[20:03:04] [ERROR] [21] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Bob Sanchez ได้รับการรักษา จาก Enjoys Kwon","date":"3/4/2565 20:03:00"}
+[21:48:03] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bob Sanchez ถูก Enjoys Kwon ชุบชีวิต","date":"3/4/2565 21:47:59"}
+[21:49:25] [ERROR] [40] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Bob Sanchez ได้รับการรักษา จาก Enjoys Kwon","date":"3/4/2565 21:49:21"}

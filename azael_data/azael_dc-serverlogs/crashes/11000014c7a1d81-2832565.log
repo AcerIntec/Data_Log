@@ -1,0 +1,13 @@
+================================================================
+======== SteamID64 (Hex): 11000014c7a1d81 | Date: 28/3/2565
+================================================================
+[22:34:55] [ERROR] [85] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Shindo Hassadin เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 22:34:53"}
+[22:36:00] [ERROR] [85] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Shindo Hassadin ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"28/3/2565 22:35:58"}
+[23:47:29] [ERROR] [85] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"28/3/2565 23:47:27"}
+[23:47:29] [ERROR] [85] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Samain Kajornklai ได้รับ $0","date":"28/3/2565 23:47:27"}
+[23:48:23] [ERROR] [85] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"28/3/2565 23:48:21"}
+[23:48:23] [ERROR] [85] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา Samain Kajornklai","date":"28/3/2565 23:48:21"}
+[23:48:36] [ERROR] [85] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"28/3/2565 23:48:34"}
+[23:48:36] [ERROR] [85] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา Samain Kajornklai","date":"28/3/2565 23:48:34"}
+[23:51:51] [ERROR] [85] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"28/3/2565 23:51:49"}
+[23:51:51] [ERROR] [85] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Neptune Ellis ได้รับ $0","date":"28/3/2565 23:51:49"}

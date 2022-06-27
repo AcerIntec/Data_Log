@@ -1,0 +1,17 @@
+================================================================
+======== SteamID64 (Hex): 11000014b702e05 | Date: 23/3/2565
+================================================================
+[20:56:52] [ERROR] [112] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Escobar Escobar เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"23/3/2565 20:56:50"}
+[20:58:20] [ERROR] [112] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Escobar Escobar ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"23/3/2565 20:58:18"}
+[21:15:22] [ERROR] [112] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Escobar Escobar ส่ง Some Body ไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา ปูน13","date":"23/3/2565 21:15:20"}
+[21:42:04] [ERROR] [112] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Escobar Escobar ส่ง Samon Kajornkli ไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา สายไฟ2","date":"23/3/2565 21:42:03"}
+[21:49:51] [ERROR] [112] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Escobar Escobar ส่ง Xuan Haalai ไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา สายไฟ2 ปูน1","date":"23/3/2565 21:49:49"}
+[22:00:23] [ERROR] [112] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Escobar Escobar ส่ง Samain Kajornklai ไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา ปูน4","date":"23/3/2565 22:00:21"}
+[22:29:06] [ERROR] [112] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Escobar Escobar ถูก M  Moris ชุบชีวิต","date":"23/3/2565 22:29:02"}
+[22:50:23] [ERROR] [112] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Escobar Escobar ส่ง DOME ELWAN ไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา ปูน1","date":"23/3/2565 22:50:21"}
+[23:33:49] [ERROR] [112] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Escobar Escobar ส่ง UTA ElWAN ไปยังเรือนจำ เป็นเวลา 7 นาที ในข้อหา ปูน2 หลบหนีนอกเมือง","date":"23/3/2565 23:33:47"}
+[23:38:59] [ERROR] [112] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Escobar Escobar ส่ง Mix Kanita ไปยังเรือนจำ เป็นเวลา 4 นาที ในข้อหา สมรู้ื","date":"23/3/2565 23:38:57"}
+[23:52:49] [ERROR] [112] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Escobar Escobar หน่วยงาน: police ประกาศ: หมอมา สน หน่อยครับ","date":"23/3/2565 23:52:47"}
+[23:53:04] [ERROR] [112] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Escobar Escobar หน่วยงาน: police ประกาศ: หมอมา สนหน่อยครับ","date":"23/3/2565 23:53:02"}
+[23:53:44] [ERROR] [112] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Escobar Escobar หน่วยงาน: police ประกาศ: หมอมา สน หน่อยครับ","date":"23/3/2565 23:53:42"}
+[23:57:45] [ERROR] [112] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Escobar Escobar ส่ง Yuji Kimita ไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา ปูร1ถุง","date":"23/3/2565 23:57:43"}

@@ -1,0 +1,9 @@
+================================================================
+======== SteamID64 (Hex): 11000013e4317d5 | Date: 22/5/2565
+================================================================
+[22:49:21] [ERROR] [37] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 2649} Data: {"event":"VaultGetItem","content":"Hin Lu นำ แท่งทองคำ จำนวน 50 ออกจากตู้นิรภัย","date":"22/5/2565 22:49:18"}
+[22:51:24] [ERROR] [37] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 2256} Data: {"event":"VaultGetItem","content":"Hin Lu นำ ไม้ดิบ จำนวน 50 ออกจากตู้นิรภัย","date":"22/5/2565 22:51:21"}
+[22:51:26] [ERROR] [37] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 314} Data: {"event":"VaultGetItem","content":"Hin Lu นำ แร่เหล็ก จำนวน 50 ออกจากตู้นิรภัย","date":"22/5/2565 22:51:25"}
+[22:52:26] [ERROR] [37] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 2759} Data: {"event":"VaultGetItem","content":"Hin Lu นำ แร่เหล็ก จำนวน 50 ออกจากตู้นิรภัย","date":"22/5/2565 22:52:22"}
+[22:53:25] [ERROR] [37] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 4421} Data: {"event":"VaultGetItem","content":"Hin Lu นำ ไม้ดิบ จำนวน 50 ออกจากตู้นิรภัย","date":"22/5/2565 22:53:21"}
+[22:53:29] [ERROR] [37] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 274} Data: {"event":"VaultGetItem","content":"Hin Lu นำ แตงโม จำนวน 50 ออกจากตู้นิรภัย","date":"22/5/2565 22:53:24"}

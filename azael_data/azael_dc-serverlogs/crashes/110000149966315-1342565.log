@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 110000149966315 | Date: 13/4/2565
+================================================================
+[19:33:46] [ERROR] [21] Discord: request to https://discordapp.com/api/webhooks/962005472687308840/cAdYNpKVL7Rt25qwiuQMSfGEuKImqGJhlQPii9ZQcPS_q7nNSg7S6FawP8jcWzwSunVo failed, reason: connect ETIMEDOUT 162.159.129.233:443 Data: {"event":"NC_GiveItem","content":"Karum Soduk ส่ง หิน ให้กับ Lupin Intaro จำนวน 20","date":"13/4/2565 19:33:23"}
+[23:34:34] [ERROR] [96] Discord: request to https://discordapp.com/api/webhooks/939495243731050536/rhXHbKYXutrlOR7yZPC-DXwqdZHXa3vTmSZ-oBhqhbR0PGkJN-8RYkNm_S10hvAZ0bgb failed, reason: connect ETIMEDOUT 162.159.130.233:443 Data: {"event":"Logout","content":"ออกจากเซิร์ฟเวอร์ (Exiting)","date":"13/4/2565 23:34:11"}

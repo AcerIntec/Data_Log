@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 110000136a5b55a | Date: 24/3/2565
+================================================================
+[14:47:54] [ERROR] [32] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Dead","content":"ฆ่า Noah Smit โดย Broken Bottle","date":"24/3/2565 14:47:42"}
+[14:48:12] [ERROR] [32] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Dead","content":"เสียชีวิต โดย ตกจากที่สูง หรือ ขาดอาหาร","date":"24/3/2565 14:47:58"}
+[14:54:33] [ERROR] [32] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Dead","content":"ฆ่า Noah Smit โดย Broken Bottle","date":"24/3/2565 14:54:31"}
+[16:19:44] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tokyo Paradise ถูก M  Moris ชุบชีวิต","date":"24/3/2565 16:19:40"}
+[16:20:02] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tokyo Paradise ได้รับการรักษา จาก M  Moris","date":"24/3/2565 16:19:58"}

@@ -1,0 +1,16 @@
+================================================================
+======== SteamID64 (Hex): 11000014c385c1e | Date: 28/3/2565
+================================================================
+[13:40:00] [ERROR] [20] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"28/3/2565 13:39:58"}
+[13:40:00] [ERROR] [20] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ชุบชีวิต Samain Kajornklai ได้รับ $0","date":"28/3/2565 13:39:58"}
+[13:40:20] [ERROR] [20] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"28/3/2565 13:40:18"}
+[13:40:20] [ERROR] [20] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Atom Demon ทำการรักษา Samain Kajornklai","date":"28/3/2565 13:40:18"}
+[13:58:59] [ERROR] [20] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"28/3/2565 13:58:57"}
+[13:58:59] [ERROR] [20] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ชุบชีวิต Samain Kajornklai ได้รับ $0","date":"28/3/2565 13:58:57"}
+[13:59:32] [ERROR] [20] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"28/3/2565 13:59:30"}
+[13:59:33] [ERROR] [20] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ชุบชีวิต Niclolas Sanchez ได้รับ $0","date":"28/3/2565 13:59:31"}
+[13:59:56] [ERROR] [20] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"28/3/2565 13:59:54"}
+[13:59:56] [ERROR] [20] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ชุบชีวิต Samon Kajornklai ได้รับ $0","date":"28/3/2565 13:59:54"}
+[21:10:37] [ERROR] [42] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Atom Demon เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 21:10:35"}
+[21:13:48] [ERROR] [42] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Atom Demon เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 21:13:46"}
+[22:16:47] [ERROR] [87] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Atom Demon เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"28/3/2565 22:16:45"}

@@ -1,0 +1,7 @@
+================================================================
+======== SteamID64 (Hex): 11000014afc5bf7 | Date: 27/3/2565
+================================================================
+[00:33:13] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Alice  Kajornklai เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"27/3/2565 00:33:11"}
+[00:34:57] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Alice  Kajornklai ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"27/3/2565 00:34:55"}
+[00:38:00] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Alice  Kajornklai ถูก Mark Angel ชุบชีวิต","date":"27/3/2565 00:37:56"}
+[00:38:23] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Alice  Kajornklai ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 00:38:19"}

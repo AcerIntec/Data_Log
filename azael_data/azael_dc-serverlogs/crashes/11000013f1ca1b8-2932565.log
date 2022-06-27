@@ -1,0 +1,16 @@
+================================================================
+======== SteamID64 (Hex): 11000013f1ca1b8 | Date: 29/3/2565
+================================================================
+[02:15:59] [ERROR] [28] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Neptune Ellis ได้รับการรักษา จาก Shindo Hassadin","date":"29/3/2565 02:15:55"}
+[03:27:31] [ERROR] [43] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Neptune Ellis ถูก Shindo Hassadin ชุบชีวิต","date":"29/3/2565 03:27:27"}
+[04:49:17] [ERROR] [43] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Neptune Ellis เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 04:49:15"}
+[04:53:29] [ERROR] [43] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Neptune Ellis เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 04:53:27"}
+[13:51:11] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Neptune Ellis เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 13:51:09"}
+[13:56:37] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Neptune Ellis เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"29/3/2565 13:56:35"}
+[14:15:49] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Neptune Ellis เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"29/3/2565 14:15:47"}
+[14:19:49] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Neptune Ellis เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 14:19:47"}
+[14:21:46] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Neptune Ellis เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 14:21:44"}
+[21:15:18] [ERROR] [45] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Neptune Ellis เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 21:15:16"}
+[21:15:39] [ERROR] [45] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Neptune Ellis ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"29/3/2565 21:15:37"}
+[21:16:13] [ERROR] [45] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Neptune Ellis ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"29/3/2565 21:16:11"}
+[23:45:20] [ERROR] [45] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Neptune Ellis ถูก Mark Angel ชุบชีวิต","date":"29/3/2565 23:45:16"}

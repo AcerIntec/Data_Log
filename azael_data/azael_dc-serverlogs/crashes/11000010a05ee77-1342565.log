@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 11000010a05ee77 | Date: 13/4/2565
+================================================================
+[19:33:44] [ERROR] [43] Discord: request to https://discordapp.com/api/webhooks/962005640463659058/MfpZgbQvGvWeNR4CbR6sGM2Sn9hEg6_A2Q948VZw__WuSIjU3eKJpLMpJj1WT3c-_QNp failed, reason: connect ETIMEDOUT 162.159.129.233:443 Data: {"event":"NC_GiveWeapon","content":"Samain Kajornklai ส่ง Weapon_watergun และ กระสุน จำนวน 1 ให้กับ Mark Angel","date":"13/4/2565 19:33:21"}
+[19:38:23] [ERROR] [43] Discord: request to https://discordapp.com/api/webhooks/940505457536167997/nNeDDu91k7_7XqTBZpqb-fH9lzUSmY6vmSGeGRFsztrj_7QGDrmEvTy3GAbY6Bn7pSSM failed, reason: connect ETIMEDOUT 162.159.134.233:443 Data: {"event":"Dead","content":"เสียชีวิต โดย ตกจากที่สูง หรือ ขาดอาหาร","date":"13/4/2565 19:38:00"}

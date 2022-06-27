@@ -1,0 +1,6 @@
+================================================================
+======== SteamID64 (Hex): 110000142402c00 | Date: 28/3/2565
+================================================================
+[22:49:55] [ERROR] [96] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Foxy Noir เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 22:49:53"}
+[22:52:42] [ERROR] [96] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Foxy Noir เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"28/3/2565 22:52:40"}
+[23:52:12] [ERROR] [119] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Foxy Noir ถูก Geostis Noir ชุบชีวิต","date":"28/3/2565 23:52:08"}

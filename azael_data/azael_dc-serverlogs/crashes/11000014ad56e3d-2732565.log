@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 11000014ad56e3d | Date: 27/3/2565
+================================================================
+[02:05:28] [ERROR] [13] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Johny Dev ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 02:05:25"}
+[02:12:44] [ERROR] [13] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Johny Dev ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 02:12:40"}
+[19:27:56] [ERROR] [2] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Johny Dev เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"27/3/2565 19:27:54"}
+[22:34:46] [ERROR] [9] Discord: Only absolute URLs are supported Data: {"event":"PoliceHijack","content":"[PL] Johny Dev งัดรถ ทะเบียน QBM 215 ","date":"27/3/2565 22:34:44"}
+[23:57:00] [ERROR] [9] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Johny Dev หน่วยงาน: police ประกาศ: งดทำงานดำก่อนประเทศรี 10 นาที","date":"27/3/2565 23:56:58"}

@@ -1,0 +1,7 @@
+================================================================
+======== SteamID64 (Hex): 110000135668905 | Date: 27/3/2565
+================================================================
+[18:54:19] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Friedrice Norice หน่วยงาน: police ประกาศ: ทำงานดำได้ตามปกตินะครับ","date":"27/3/2565 18:54:17"}
+[19:12:16] [ERROR] [22] No player data found. Data: {"event":"Chat","content":"/-ChangeStatus","date":"27/3/2565 19:12:16"}
+[22:54:21] [ERROR] [65] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Friedrice Norice หน่วยงาน: police ประกาศ: สามารถทำงานดำได้นะครับ","date":"27/3/2565 22:54:19"}
+[23:19:23] [ERROR] [65] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Friedrice Norice หน่วยงาน: police ประกาศ: ทำงานดำได้ตามปกตินะครับ","date":"27/3/2565 23:19:21"}

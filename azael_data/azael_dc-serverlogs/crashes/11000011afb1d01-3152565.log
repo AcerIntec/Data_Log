@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 11000011afb1d01 | Date: 31/5/2565
+================================================================
+[18:47:50] [ERROR] [2] Discord: Error sending webhook: 503 status code. Response: upstream connect error or disconnect/reset before headers. reset reason: connection failure Data: {"event":"deposit","content":"**TEE YAI** ได้ฝากเงินจำนวน`` 5000 `` บาท","date":"31/5/2565 18:47:33"}

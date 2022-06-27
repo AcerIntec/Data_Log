@@ -1,0 +1,10 @@
+================================================================
+======== SteamID64 (Hex): 11000010a05ee77 | Date: 25/3/2565
+================================================================
+[00:00:30] [ERROR] [67] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samain Kajornklai ใช้ Aed จำนวน 1","date":"25/3/2565 00:00:28"}
+[00:00:50] [ERROR] [67] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samain Kajornklai ใช้ Aed จำนวน 1","date":"25/3/2565 00:00:48"}
+[00:11:14] [ERROR] [67] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Samain Kajornklai ถูก Naruto Demlo ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา หล่อเกินใจ","date":"25/3/2565 00:11:10"}
+[00:12:56] [ERROR] [67] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samain Kajornklai ใช้ Aed จำนวน 1","date":"25/3/2565 00:12:54"}
+[00:14:34] [ERROR] [67] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samain Kajornklai ใช้ Aed จำนวน 1","date":"25/3/2565 00:14:32"}
+[00:19:30] [ERROR] [67] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samain Kajornklai ถูก Bug Sarauri ชุบชีวิต","date":"25/3/2565 00:19:26"}
+[00:19:43] [ERROR] [67] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samain Kajornklai ได้รับการรักษา จาก Bug Sarauri","date":"25/3/2565 00:19:39"}

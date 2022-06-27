@@ -1,0 +1,49 @@
+================================================================
+======== SteamID64 (Hex): 11000014c6f2616 | Date: 19/3/2565
+================================================================
+[00:05:17] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"19/3/2565 00:05:15"}
+[00:05:17] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ชุบชีวิต Sears  Demlo ได้รับ $0","date":"19/3/2565 00:05:15"}
+[00:14:09] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Bug Sarauri ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"19/3/2565 00:14:07"}
+[00:15:24] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Bug Sarauri เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"19/3/2565 00:15:23"}
+[00:46:18] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"19/3/2565 00:46:16"}
+[00:46:18] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ชุบชีวิต Yellow Demlo ได้รับ $0","date":"19/3/2565 00:46:16"}
+[00:49:42] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Bug Sarauri หน่วยงาน: ambulance ประกาศ: ฉีดยาไได้เฉพาะ รพ. เท่านั้นนะครับ","date":"19/3/2565 00:49:40"}
+[01:04:09] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ชุบชีวิต Kanom Krub ได้รับ $0","date":"19/3/2565 01:04:07"}
+[01:04:09] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"19/3/2565 01:04:07"}
+[01:11:12] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"19/3/2565 01:11:10"}
+[01:11:12] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ชุบชีวิต Shark Paradise ได้รับ $0","date":"19/3/2565 01:11:10"}
+[01:15:13] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"19/3/2565 01:15:11"}
+[01:15:13] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ชุบชีวิต Sears  Demlo ได้รับ $0","date":"19/3/2565 01:15:11"}
+[01:15:36] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"19/3/2565 01:15:34"}
+[01:15:36] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Bug Sarauri ทำการรักษา Sears  Demlo","date":"19/3/2565 01:15:34"}
+[01:17:12] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Bug Sarauri หน่วยงาน: ambulance ประกาศ: ขอ ตร. 1 คนค้าบมีรถ ตร หลุด","date":"19/3/2565 01:17:10"}
+[01:20:52] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Bug Sarauri หน่วยงาน: ambulance ประกาศ: ขอ ตร. 1 คนค้าบมีรถ ตร หลุด","date":"19/3/2565 01:20:50"}
+[01:23:36] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Bug Sarauri ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"19/3/2565 01:23:34"}
+[01:26:25] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Bug Sarauri หน่วยงาน: ambulance ประกาศ: ขอ ตร. 1 คนค้าบมีรถ ตร หลุด","date":"19/3/2565 01:26:23"}
+[01:38:54] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Bug Sarauri ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"19/3/2565 01:38:52"}
+[01:50:02] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"19/3/2565 01:50:00"}
+[01:50:02] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ชุบชีวิต Niclolas  Kwon ได้รับ $0","date":"19/3/2565 01:50:00"}
+[01:50:22] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ชุบชีวิต Yellow Demlo ได้รับ $0","date":"19/3/2565 01:50:20"}
+[01:50:22] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"19/3/2565 01:50:20"}
+[01:50:54] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"19/3/2565 01:50:52"}
+[01:50:54] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ชุบชีวิต Wodwild Lynn ได้รับ $0","date":"19/3/2565 01:50:52"}
+[01:51:15] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"19/3/2565 01:51:13"}
+[01:51:15] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ชุบชีวิต Niclolas  Kwon ได้รับ $0","date":"19/3/2565 01:51:13"}
+[02:08:10] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Bug Sarauri หน่วยงาน: ambulance ประกาศ: หมอ เหม่อ 5 นาทีนะค้าบ","date":"19/3/2565 02:08:08"}
+[02:28:37] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"19/3/2565 02:28:35"}
+[02:28:37] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ชุบชีวิต Friedrice  Norice ได้รับ $0","date":"19/3/2565 02:28:35"}
+[02:28:53] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"19/3/2565 02:28:51"}
+[02:28:53] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Bug Sarauri ทำการรักษา Friedrice  Norice","date":"19/3/2565 02:28:51"}
+[02:38:18] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Bug Sarauri ถูก Shark Paradise ส่งตัวไปยังเรือนจำ เป็นเวลา 10 นาที ในข้อหา ปูน+หลบหนี","date":"19/3/2565 02:38:14"}
+[02:51:09] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ถูก Yellow Demlo ชุบชีวิต","date":"19/3/2565 02:51:06"}
+[02:58:59] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Bug Sarauri ถูก Friedrice  Norice ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา ปูน1ถุง+หลบหนี","date":"19/3/2565 02:58:55"}
+[03:06:06] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Bug Sarauri ถูก Niclolas  Kwon ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา เจ้าชู้","date":"19/3/2565 03:06:03"}
+[03:08:59] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Bug Sarauri ถูก Niclolas  Kwon ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา เจ้าชู่","date":"19/3/2565 03:08:55"}
+[03:22:26] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Bug Sarauri ถูก Niclolas  Kwon ส่งตัวไปยังเรือนจำ เป็นเวลา 15 นาที ในข้อหา หลบหนี + ปูน1","date":"19/3/2565 03:22:22"}
+[03:35:36] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Bug Sarauri ถูก Friedrice  Norice ส่งตัวไปยังเรือนจำ เป็นเวลา 2 นาที ในข้อหา หมอเหงา+ปูน1","date":"19/3/2565 03:35:33"}
+[03:49:25] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Bug Sarauri หน่วยงาน: ambulance ประกาศ: หมอ ขออนุญาติออกเวรนะครับ ฝันเปี้ยกครับ","date":"19/3/2565 03:49:23"}
+[15:56:11] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ถูก Yellow Demlo ชุบชีวิต","date":"19/3/2565 15:56:07"}
+[15:57:15] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ถูก Yellow Demlo ชุบชีวิต","date":"19/3/2565 15:57:11"}
+[15:57:57] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ถูก Yellow Demlo ชุบชีวิต","date":"19/3/2565 15:57:53"}
+[16:04:18] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Bug Sarauri เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"19/3/2565 16:04:16"}
+[16:11:09] [ERROR] [7] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ถูก M  Moris ชุบชีวิต","date":"19/3/2565 16:11:06"}

@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 11000014b05c45c | Date: 19/4/2565
+================================================================
+[22:17:55] [ERROR] [60] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 8383} Data: {"event":"VaultGetItem","content":"Star Master นำ แท่งทองคำ จำนวน 50 ออกจากตู้นิรภัย","date":"19/4/2565 22:17:46"}
+[22:18:03] [ERROR] [60] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 300} Data: {"event":"VaultGetItem","content":"Star Master นำ แท่งทองแดง จำนวน 50 ออกจากตู้นิรภัย","date":"19/4/2565 22:17:51"}

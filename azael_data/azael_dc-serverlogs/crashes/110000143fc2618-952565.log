@@ -1,0 +1,42 @@
+================================================================
+======== SteamID64 (Hex): 110000143fc2618 | Date: 9/5/2565
+================================================================
+[15:54:09] [ERROR] [21] No player data found. Data: {"event":"LsCustom","content":"Slan SikXo แต่งรถ Kamacho ทะเบียน DJC 761  และ เสียค่าใช้จ่าย $400","date":"9/5/2565 15:54:09"}
+[15:54:14] [ERROR] [21] No player data found. Data: {"event":"LsCustom","content":"Slan SikXo แต่งรถ Kamacho ทะเบียน DJC 761  และ เสียค่าใช้จ่าย $350","date":"9/5/2565 15:54:14"}
+[15:54:19] [ERROR] [21] No player data found. Data: {"event":"LsCustom","content":"Slan SikXo แต่งรถ Kamacho ทะเบียน DJC 761  และ เสียค่าใช้จ่าย $350","date":"9/5/2565 15:54:19"}
+[15:54:22] [ERROR] [21] No player data found. Data: {"event":"LsCustom","content":"Slan SikXo แต่งรถ Kamacho ทะเบียน DJC 761  และ เสียค่าใช้จ่าย $400","date":"9/5/2565 15:54:22"}
+[15:54:34] [ERROR] [21] No player data found. Data: {"event":"LsCustom","content":"Slan SikXo แต่งรถ Kamacho ทะเบียน DJC 761  และ เสียค่าใช้จ่าย $300","date":"9/5/2565 15:54:34"}
+[15:55:42] [ERROR] [21] No player data found. Data: {"event":"LsCustom","content":"Slan SikXo แต่งรถ Kamacho ทะเบียน DJC 761  และ เสียค่าใช้จ่าย $250","date":"9/5/2565 15:55:42"}
+[15:56:12] [ERROR] [21] No player data found. Data: {"event":"LsCustom","content":"Slan SikXo แต่งรถ Kamacho ทะเบียน DJC 761  และ เสียค่าใช้จ่าย $250","date":"9/5/2565 15:56:12"}
+[15:56:52] [ERROR] [21] No player data found. Data: {"event":"LsCustom","content":"Slan SikXo แต่งรถ Kamacho ทะเบียน DJC 761  และ เสียค่าใช้จ่าย $250","date":"9/5/2565 15:56:52"}
+[15:57:02] [ERROR] [21] No player data found. Data: {"event":"LsCustom","content":"Slan SikXo แต่งรถ Kamacho ทะเบียน DJC 761  และ เสียค่าใช้จ่าย $250","date":"9/5/2565 15:57:02"}
+[15:57:54] [ERROR] [21] No player data found. Data: {"event":"NC_GiveItem","content":"Slan Sanchez ส่ง StarLeon ให้กับ FUJI    SikXo จำนวน 1","date":"9/5/2565 15:57:54"}
+[15:58:16] [ERROR] [21] No player data found. Data: {"event":"NC_GiveItem","content":"Slan Sanchez ได้รับ StarLeon จาก FUJI    SikXo จำนวน 1","date":"9/5/2565 15:58:16"}
+[15:58:37] [ERROR] [21] No player data found. Data: {"event":"NC_GiveItem","content":"Slan Sanchez ส่ง Albatross Coin ให้กับ Jordi  Name จำนวน 2","date":"9/5/2565 15:58:37"}
+[16:01:24] [ERROR] [21] No player data found. Data: {"event":"BankTransferPhone","content":"Slan Sanchez โอนเงิน ไปยัง FUJI    SikXo จำนวน $20,000 ในบัญชีคงเหลือ $188,715","date":"9/5/2565 16:01:24"}
+[16:02:18] [ERROR] [21] No player data found. Data: {"event":"NC_GiveItem","content":"Slan Sanchez ส่ง กล้วยดิบ ให้กับ FUJI    SikXo จำนวน 10","date":"9/5/2565 16:02:18"}
+[16:02:27] [ERROR] [21] No player data found. Data: {"event":"NC_GiveItem","content":"Slan Sanchez ส่ง ส้มดิบ ให้กับ FUJI    SikXo จำนวน 10","date":"9/5/2565 16:02:27"}
+[16:04:36] [ERROR] [21] No player data found. Data: {"event":"DocRemoveItem","content":"Slan Sanchez ใช้ ผ้าพันแผล จำนวน 1","date":"9/5/2565 16:04:36"}
+[16:04:36] [ERROR] [21] No player data found. Data: {"event":"DocHeal","content":"Slan Sanchez ทำการรักษา Jordi  Name","date":"9/5/2565 16:04:36"}
+[16:05:44] [ERROR] [21] No player data found. Data: {"event":"JobDutyAmbulance","content":"Slan Sanchez หน่วยงาน ambulance ออกเวร","date":"9/5/2565 16:05:44"}
+[16:16:37] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 2","date":"9/5/2565 16:16:37"}
+[16:16:52] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 1","date":"9/5/2565 16:16:52"}
+[16:17:06] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 2","date":"9/5/2565 16:17:06"}
+[16:17:21] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 2","date":"9/5/2565 16:17:21"}
+[16:17:32] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 2","date":"9/5/2565 16:17:32"}
+[16:17:47] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 1","date":"9/5/2565 16:17:47"}
+[16:18:00] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 2","date":"9/5/2565 16:18:00"}
+[16:18:12] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 1","date":"9/5/2565 16:18:12"}
+[16:18:23] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 1","date":"9/5/2565 16:18:23"}
+[16:18:38] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 2","date":"9/5/2565 16:18:38"}
+[16:18:53] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 2","date":"9/5/2565 16:18:53"}
+[16:19:04] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 2","date":"9/5/2565 16:19:04"}
+[16:19:18] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 2","date":"9/5/2565 16:19:18"}
+[16:19:30] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 2","date":"9/5/2565 16:19:30"}
+[16:19:44] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 1","date":"9/5/2565 16:19:44"}
+[16:19:58] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 1","date":"9/5/2565 16:19:58"}
+[16:20:12] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 2","date":"9/5/2565 16:20:12"}
+[16:20:33] [ERROR] [21] No player data found. Data: {"event":"JobCoke","content":"Slan Sanchez ได้รับ โคเคน จำนวน 1","date":"9/5/2565 16:20:33"}
+[16:21:32] [ERROR] [21] No player data found. Data: {"event":"NC_GiveKeyCar","content":"Slan Sanchez ได้รับ กุญแจยานพาหนะ ทะเบียน DJC 761 จาก FUJI    SikXo","date":"9/5/2565 16:21:32"}
+[16:25:53] [ERROR] [21] No player data found. Data: {"event":"Chat","content":"ฦฑฮ","date":"9/5/2565 16:25:53"}
+[16:26:33] [ERROR] [21] No player data found. Data: {"event":"JobDutyAmbulance","content":"Slan Sanchez หน่วยงาน ambulance เข้าเวร","date":"9/5/2565 16:26:33"}

@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 11000014ae5a0ee | Date: 24/3/2565
+================================================================
+[14:47:30] [ERROR] [37] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"24/3/2565 14:47:18"}
+[14:48:13] [ERROR] [37] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"24/3/2565 14:48:03"}

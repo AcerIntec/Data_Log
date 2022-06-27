@@ -1,0 +1,16 @@
+================================================================
+======== SteamID64 (Hex): 11000010a05ee77 | Date: 23/3/2565
+================================================================
+[01:08:39] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":"Samain Kajornklai ซื้อรถ 1416125959 ทะเบียน ZZN 908 ราคา $5,000","date":"23/3/2565 01:08:37"}
+[01:14:24] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Samain Kajornklai หน่วยงาน: ambulance ประกาศ: หมอกำลังไปครับ","date":"23/3/2565 01:14:22"}
+[01:20:19] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samain Kajornklai ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"23/3/2565 01:20:17"}
+[01:20:19] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samain Kajornklai ทำการรักษา Chanom Iris","date":"23/3/2565 01:20:17"}
+[01:43:16] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samain Kajornklai ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"23/3/2565 01:43:14"}
+[01:43:16] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samain Kajornklai ชุบชีวิต Naruto Demlo ได้รับ $0","date":"23/3/2565 01:43:14"}
+[01:43:35] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samain Kajornklai ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"23/3/2565 01:43:33"}
+[01:43:35] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samain Kajornklai ทำการรักษา Naruto Demlo","date":"23/3/2565 01:43:33"}
+[01:45:58] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samain Kajornklai ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"23/3/2565 01:45:56"}
+[01:45:58] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samain Kajornklai ชุบชีวิต Chanom Iris ได้รับ $0","date":"23/3/2565 01:45:56"}
+[01:46:15] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samain Kajornklai ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"23/3/2565 01:46:13"}
+[01:46:15] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samain Kajornklai ทำการรักษา Chanom Iris","date":"23/3/2565 01:46:13"}
+[22:00:25] [ERROR] [117] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Samain Kajornklai ถูก Escobar Escobar ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา ปูน4","date":"23/3/2565 22:00:21"}

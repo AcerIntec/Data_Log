@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 110000134279393 | Date: 29/3/2565
+================================================================
+[16:46:41] [ERROR] [37] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Yuji Kimita เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 16:46:39"}
+[16:49:45] [ERROR] [37] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Yuji Kimita เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"29/3/2565 16:49:43"}
+[19:38:32] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yuji Kimita ถูก Mac Torres ชุบชีวิต","date":"29/3/2565 19:38:28"}
+[19:38:50] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yuji Kimita ได้รับการรักษา จาก Mac Torres","date":"29/3/2565 19:38:46"}
+[22:14:02] [ERROR] [103] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yuji Kimita ได้รับการรักษา จาก Shindo Hassadin","date":"29/3/2565 22:13:58"}

@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 11000014b24af2c | Date: 1/5/2565
+================================================================
+[21:52:25] [ERROR] [69] Discord: request to https://discordapp.com/api/webhooks/962004925963976774/dWoNO8qy_q6WPNCFjY04fRfjGkoNaRKifusg-oVVCbrzn9sKqoshl2jsc1rIa_QVM7w2 failed, reason: connect ETIMEDOUT 162.159.129.233:443 Data: {"event":"NC_GiveMoney","content":"Enjoys Kwon ได้รับ เงิน จาก Marcus JR จำนวน $600","date":"1/5/2565 21:52:00"}
+[21:54:30] [ERROR] [69] Discord: request to https://discord.com/api/webhooks/946004504858476545/6POckAWmcu4wxpQT48utAK235xk74v-t4yKp-cR3VQMH7pBm5oHhSuho80BJUxZJokey failed, reason: read ECONNRESET Data: {"event":"BankTransferPhone","content":"Enjoys Kwon ได้รับเงิน จาก TEE YAI จำนวน $10,000 มีเงินในบัญชีทั้งหมด $240,099","date":"1/5/2565 21:54:20"}

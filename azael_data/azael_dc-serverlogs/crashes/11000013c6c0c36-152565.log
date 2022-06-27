@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 11000013c6c0c36 | Date: 1/5/2565
+================================================================
+[21:55:41] [ERROR] [94] Discord: request to https://discordapp.com/api/webhooks/962006100201332858/m-gtx5EnLzBCHSpTJO2tH8lbOmGwtfruNAghx5rcOzXBzzV5p0D-AuJiehMUpa3Vh2OT failed, reason: socket hang up Data: {"event":"NC_PoliceTakeItem","content":"ARN DEMONMOON ถูกยึด unjail10 โดย  M Moris จำนวน 1","date":"1/5/2565 21:55:21"}
+[21:56:02] [ERROR] [94] Discord: request to https://discord.com/api/webhooks/957612705664106556/hamvH_2Q3m78F81pS7xS3yfrm9n7RafCGUl4oP2GamPTxRYtR-gKCSSSu4rWYBQxvJoZ failed, reason: connect ETIMEDOUT 162.159.128.233:443 Data: {"event":"PoliceJail","content":"ARN DEMONMOON ถูก  M Moris ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา หลบหนี+ปูน 1","date":"1/5/2565 21:55:37"}

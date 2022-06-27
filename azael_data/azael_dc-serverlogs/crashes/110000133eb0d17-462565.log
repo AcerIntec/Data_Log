@@ -1,0 +1,7 @@
+================================================================
+======== SteamID64 (Hex): 110000133eb0d17 | Date: 4/6/2565
+================================================================
+[03:42:24] [ERROR] [79] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 1269} Data: {"event":"VaultGetItem","content":"HAM TARO นำ กะหล่ำปลี จำนวน 50 ออกจากตู้นิรภัย","date":"4/6/2565 03:42:22"}
+[03:43:20] [ERROR] [79] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 6437} Data: {"event":"VaultGetItem","content":"HAM TARO นำ กะหล่ำปลี จำนวน 50 ออกจากตู้นิรภัย","date":"4/6/2565 03:43:19"}
+[03:45:26] [ERROR] [79] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 1523} Data: {"event":"VaultGetItem","content":"HAM TARO นำ กะหล่ำปลี จำนวน 50 ออกจากตู้นิรภัย","date":"4/6/2565 03:45:22"}
+[03:46:22] [ERROR] [79] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 6673} Data: {"event":"VaultGetItem","content":"HAM TARO นำ กะหล่ำปลี จำนวน 50 ออกจากตู้นิรภัย","date":"4/6/2565 03:46:20"}

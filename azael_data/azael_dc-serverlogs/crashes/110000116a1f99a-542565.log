@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 110000116a1f99a | Date: 5/4/2565
+================================================================
+[20:24:56] [ERROR] [9] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Mac Torres เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"5/4/2565 20:24:54"}
+[20:45:26] [ERROR] [9] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Mac Torres ถูก Enjoys Kwon ชุบชีวิต","date":"5/4/2565 20:45:23"}
+[20:45:42] [ERROR] [9] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Mac Torres ได้รับการรักษา จาก Enjoys Kwon","date":"5/4/2565 20:45:38"}
+[21:16:58] [ERROR] [9] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Mac Torres ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"5/4/2565 21:16:56"}
+[21:16:58] [ERROR] [9] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Mac Torres ทำการรักษา Shark Paradise","date":"5/4/2565 21:16:57"}

@@ -1,0 +1,14 @@
+================================================================
+======== SteamID64 (Hex): 11000014b05c45c | Date: 6/4/2565
+================================================================
+[22:17:23] [ERROR] [54] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Star Master ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"6/4/2565 22:17:21"}
+[22:34:53] [ERROR] [54] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Star Master ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"6/4/2565 22:34:51"}
+[22:34:53] [ERROR] [54] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Star Master ชุบชีวิต Shindo Hassadin ได้รับ $0","date":"6/4/2565 22:34:51"}
+[22:35:10] [ERROR] [54] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Star Master ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"6/4/2565 22:35:08"}
+[22:35:10] [ERROR] [54] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Star Master ทำการรักษา Shindo Hassadin","date":"6/4/2565 22:35:08"}
+[23:00:46] [ERROR] [54] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Star Master ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"6/4/2565 23:00:44"}
+[23:00:46] [ERROR] [54] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Star Master ทำการรักษา Some Orochi","date":"6/4/2565 23:00:44"}
+[23:17:52] [ERROR] [54] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Star Master ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"6/4/2565 23:17:50"}
+[23:17:52] [ERROR] [54] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Star Master ชุบชีวิต Enjoys Kwon ได้รับ $0","date":"6/4/2565 23:17:50"}
+[23:18:06] [ERROR] [54] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Star Master ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"6/4/2565 23:18:04"}
+[23:18:06] [ERROR] [54] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Star Master ทำการรักษา Enjoys Kwon","date":"6/4/2565 23:18:04"}

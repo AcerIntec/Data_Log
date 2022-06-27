@@ -1,0 +1,10 @@
+================================================================
+======== SteamID64 (Hex): 11000013f1ca1b8 | Date: 31/3/2565
+================================================================
+[00:54:27] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Neptune Ellis เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"31/3/2565 00:54:25"}
+[00:54:54] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Neptune Ellis เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"31/3/2565 00:54:52"}
+[00:59:21] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Neptune Ellis เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"31/3/2565 00:59:19"}
+[01:10:27] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Neptune Ellis เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"31/3/2565 01:10:25"}
+[21:05:29] [ERROR] [37] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Neptune Ellis สัก FTW เสียค่าใช้จ่าย $195 ให้ ร้านสัก","date":"31/3/2565 21:05:27"}
+[21:14:14] [ERROR] [37] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Neptune Ellis เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"31/3/2565 21:14:12"}
+[21:15:05] [ERROR] [37] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Neptune Ellis ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"31/3/2565 21:15:03"}

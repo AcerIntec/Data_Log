@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 110000113e6b20a | Date: 28/3/2565
+================================================================
+[22:42:10] [ERROR] [93] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Karoft Magma เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 22:42:08"}
+[22:43:08] [ERROR] [93] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Karoft Magma ซื้อ ตุ้มหู เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"28/3/2565 22:43:06"}
+[22:57:25] [ERROR] [93] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Karoft Magma ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"28/3/2565 22:57:23"}
+[23:21:41] [ERROR] [93] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Karoft Magma ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"28/3/2565 23:21:39"}
+[23:30:19] [ERROR] [93] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Karoft Magma เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"28/3/2565 23:30:17"}

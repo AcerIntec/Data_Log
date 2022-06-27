@@ -1,0 +1,16 @@
+================================================================
+======== SteamID64 (Hex): 11000014b193958 | Date: 28/3/2565
+================================================================
+[00:35:03] [ERROR] [21] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Tos History เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 00:35:01"}
+[00:35:36] [ERROR] [21] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Tos History เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 00:35:34"}
+[00:36:39] [ERROR] [21] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Tos History ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"28/3/2565 00:36:37"}
+[00:37:38] [ERROR] [21] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Tos History ซื้อ ตุ้มหู เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"28/3/2565 00:37:36"}
+[00:41:54] [ERROR] [21] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Tos History เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"28/3/2565 00:41:52"}
+[00:44:59] [ERROR] [21] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Tos History เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"28/3/2565 00:44:57"}
+[21:11:51] [ERROR] [39] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Tos History เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 21:11:49"}
+[21:18:10] [ERROR] [39] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Tos History เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"28/3/2565 21:18:08"}
+[21:25:21] [ERROR] [39] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Tos History เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 21:25:19"}
+[21:25:50] [ERROR] [39] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Tos History เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 21:25:48"}
+[21:31:17] [ERROR] [70] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Tos History ซื้อ ตุ้มหู เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"28/3/2565 21:31:15"}
+[23:26:11] [ERROR] [70] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Tos History เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 23:26:09"}
+[23:26:33] [ERROR] [70] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Tos History เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 23:26:31"}

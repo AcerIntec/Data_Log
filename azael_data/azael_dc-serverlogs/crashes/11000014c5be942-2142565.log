@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 11000014c5be942 | Date: 21/4/2565
+================================================================
+[11:33:14] [ERROR] [69] Discord: request to https://discordapp.com/api/webhooks/962004925963976774/dWoNO8qy_q6WPNCFjY04fRfjGkoNaRKifusg-oVVCbrzn9sKqoshl2jsc1rIa_QVM7w2 failed, reason: connect ETIMEDOUT 162.159.129.233:443 Data: {"event":"NC_GiveMoney","content":"Zenoz Ravana ส่ง เงิน ให้กับ Tako Yaki จำนวน $1,600","date":"21/4/2565 11:32:51"}
+[11:33:19] [ERROR] [69] Discord: request to https://discordapp.com/api/webhooks/962005472687308840/cAdYNpKVL7Rt25qwiuQMSfGEuKImqGJhlQPii9ZQcPS_q7nNSg7S6FawP8jcWzwSunVo failed, reason: connect ETIMEDOUT 162.159.129.233:443 Data: {"event":"NC_GiveItem","content":"Zenoz Ravana ได้รับ กล่องซ่อมรถ จาก Tako Yaki จำนวน 2","date":"21/4/2565 11:32:54"}

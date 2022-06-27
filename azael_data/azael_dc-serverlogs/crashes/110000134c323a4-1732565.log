@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 110000134c323a4 | Date: 17/3/2565
+================================================================
+[17:58:05] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Arjeck Jinna ถูก Bug Sarauri ชุบชีวิต","date":"17/3/2565 17:58:02"}
+[17:58:31] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Arjeck Jinna ได้รับการรักษา จาก Bug Sarauri","date":"17/3/2565 17:58:27"}
+[18:16:23] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"PoliceBuyWeapon","content":"Arjeck Jinna ซื้อ Pump shotgun และ กระสุน จำนวน 100 ราคา $10,000","date":"17/3/2565 18:16:21"}
+[18:18:43] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Arjeck Jinna หน่วยงาน: police ประกาศ: test","date":"17/3/2565 18:18:41"}
+[18:24:37] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"PoliceImPound","content":"[HSD]Arjeck ส่งรถ ทะเบียน GDC 596 ไปยังพาวท์","date":"17/3/2565 18:24:35"}

@@ -1,0 +1,6 @@
+================================================================
+======== SteamID64 (Hex): 1100001128603be | Date: 23/3/2565
+================================================================
+[02:08:05] [ERROR] [37] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"REEB Kajornkai เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"23/3/2565 02:08:03"}
+[02:13:05] [ERROR] [37] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"REEB Kajornkai ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"23/3/2565 02:13:03"}
+[02:43:17] [ERROR] [37] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"REEB Kajornkai ถูก Sears  Demlo ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา หลบหนี + ปูน 11 ถุง","date":"23/3/2565 02:43:13"}

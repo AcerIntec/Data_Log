@@ -1,0 +1,12 @@
+================================================================
+======== SteamID64 (Hex): 11000011470d453 | Date: 23/3/2565
+================================================================
+[01:07:03] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":"Niclolas  Kwon ซื้อรถ -1860923259 ทะเบียน XCW 235 ราคา $10,000","date":"23/3/2565 01:07:01"}
+[01:07:06] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":"Niclolas  Kwon ซื้อรถ 0 ทะเบียน CNA 646 ราคา $0","date":"23/3/2565 01:07:02"}
+[01:07:23] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":"Niclolas  Kwon ซื้อรถ 1416125959 ทะเบียน JNH 688 ราคา $5,000","date":"23/3/2565 01:07:21"}
+[01:27:22] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Niclolas  Kwon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"23/3/2565 01:27:20"}
+[01:27:22] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Niclolas  Kwon ชุบชีวิต Mix Kanita ได้รับ $0","date":"23/3/2565 01:27:20"}
+[02:19:42] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Niclolas  Kwon สัก Toxic Spider เสียค่าใช้จ่าย $295 ให้ ร้านสัก","date":"23/3/2565 02:19:40"}
+[02:21:25] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Niclolas  Kwon สัก Flaming Skull เสียค่าใช้จ่าย $380 ให้ ร้านสัก","date":"23/3/2565 02:21:23"}
+[02:21:48] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Niclolas  Kwon สัก Holy Mary เสียค่าใช้จ่าย $513 ให้ ร้านสัก","date":"23/3/2565 02:21:46"}
+[22:05:16] [ERROR] [107] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Niclolas  Kwon ถูก Sears  Demlo ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา หลบหนี","date":"23/3/2565 22:05:12"}

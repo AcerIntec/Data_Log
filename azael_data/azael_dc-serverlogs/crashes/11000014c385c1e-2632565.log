@@ -1,0 +1,33 @@
+================================================================
+======== SteamID64 (Hex): 11000014c385c1e | Date: 26/3/2565
+================================================================
+[19:07:37] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Atom Demon เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"26/3/2565 19:07:35"}
+[19:08:19] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Atom Demon ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"26/3/2565 19:08:17"}
+[19:14:38] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":"Atom Demon ซื้อรถ -974922913 ทะเบียน QEH 314 ราคา $5,000","date":"26/3/2565 19:14:36"}
+[19:35:01] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Atom Demon เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"26/3/2565 19:34:59"}
+[20:00:04] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ถูก Enjoys Kwon ชุบชีวิต","date":"26/3/2565 20:00:00"}
+[20:22:42] [ERROR] [83] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ถูก Enjoys Kwon ชุบชีวิต","date":"26/3/2565 20:22:39"}
+[20:23:32] [ERROR] [83] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ถูก Enjoys Kwon ชุบชีวิต","date":"26/3/2565 20:23:28"}
+[20:38:39] [ERROR] [83] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ถูก Enjoys Kwon ชุบชีวิต","date":"26/3/2565 20:38:35"}
+[20:51:14] [ERROR] [92] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ถูก Enjoys Kwon ชุบชีวิต","date":"26/3/2565 20:51:10"}
+[21:23:25] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 21:23:23"}
+[21:23:25] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ชุบชีวิต JOE SAWAWA ได้รับ $0","date":"26/3/2565 21:23:23"}
+[21:49:51] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 21:49:49"}
+[21:49:51] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ชุบชีวิต Mark Angel ได้รับ $0","date":"26/3/2565 21:49:49"}
+[22:18:51] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 22:18:49"}
+[22:18:51] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ชุบชีวิต Kanom Krub ได้รับ $0","date":"26/3/2565 22:18:49"}
+[22:19:14] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 22:19:12"}
+[22:19:15] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Atom Demon ทำการรักษา Kanom Krub","date":"26/3/2565 22:19:13"}
+[22:33:11] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Atom Demon เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"26/3/2565 22:33:09"}
+[23:07:05] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 23:07:03"}
+[23:07:05] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ชุบชีวิต Srithan Jidpong ได้รับ $0","date":"26/3/2565 23:07:03"}
+[23:33:02] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 23:33:00"}
+[23:33:02] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ชุบชีวิต Sears  Demlo ได้รับ $0","date":"26/3/2565 23:33:00"}
+[23:33:20] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 23:33:18"}
+[23:33:20] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Atom Demon ทำการรักษา Sears  Demlo","date":"26/3/2565 23:33:18"}
+[23:40:01] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 23:39:59"}
+[23:40:01] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Atom Demon ชุบชีวิต Matthew Sebastian Matthew Sebastian ได้รับ $0","date":"26/3/2565 23:39:59"}
+[23:40:17] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 23:40:15"}
+[23:40:17] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Atom Demon ทำการรักษา Matthew Sebastian Matthew Sebastian","date":"26/3/2565 23:40:15"}
+[23:42:36] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Atom Demon ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 23:42:34"}
+[23:42:36] [ERROR] [102] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Atom Demon ทำการรักษา Jack Decimo","date":"26/3/2565 23:42:34"}

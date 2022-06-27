@@ -1,0 +1,12 @@
+================================================================
+======== SteamID64 (Hex): 11000011d2a6b96 | Date: 28/3/2565
+================================================================
+[00:32:59] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Tee Magma เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 00:32:58"}
+[00:34:35] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Tee Magma เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 00:34:33"}
+[00:40:28] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Tee Magma เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"28/3/2565 00:40:26"}
+[21:05:56] [ERROR] [38] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Tee Magma เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 21:05:54"}
+[21:14:27] [ERROR] [38] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Tee Magma สัก Celtic Band เสียค่าใช้จ่าย $593 ให้ ร้านสัก","date":"28/3/2565 21:14:25"}
+[21:14:41] [ERROR] [38] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Tee Magma สัก Mesh Band เสียค่าใช้จ่าย $200 ให้ ร้านสัก","date":"28/3/2565 21:14:39"}
+[21:14:45] [ERROR] [38] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Tee Magma ลบรอยสัก","date":"28/3/2565 21:14:43"}
+[21:17:13] [ERROR] [38] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Tee Magma เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"28/3/2565 21:17:11"}
+[21:30:41] [ERROR] [65] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Tee Magma ซื้อ ตุ้มหู เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"28/3/2565 21:30:39"}

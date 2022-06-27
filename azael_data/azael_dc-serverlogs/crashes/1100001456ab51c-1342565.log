@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 1100001456ab51c | Date: 13/4/2565
+================================================================
+[20:23:42] [ERROR] [17] Discord: request to https://discordapp.com/api/webhooks/962005640463659058/MfpZgbQvGvWeNR4CbR6sGM2Sn9hEg6_A2Q948VZw__WuSIjU3eKJpLMpJj1WT3c-_QNp failed, reason: connect ETIMEDOUT 162.159.135.233:443 Data: {"event":"NC_GiveWeapon","content":"Somkid JP ส่ง Weapon_watergun และ กระสุน จำนวน 1 ให้กับ Arjeck Jinna","date":"13/4/2565 20:23:19"}

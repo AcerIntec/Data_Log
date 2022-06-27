@@ -1,0 +1,10 @@
+================================================================
+======== SteamID64 (Hex): 11000010a05ee77 | Date: 24/3/2565
+================================================================
+[15:43:49] [ERROR] [36] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samain Kajornklai ถูก Samon Kajornkli ชุบชีวิต","date":"24/3/2565 15:43:45"}
+[15:44:02] [ERROR] [36] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samain Kajornklai ได้รับการรักษา จาก Samon Kajornkli","date":"24/3/2565 15:43:58"}
+[15:44:19] [ERROR] [36] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samain Kajornklai ถูก Samon Kajornkli ชุบชีวิต","date":"24/3/2565 15:44:15"}
+[17:07:20] [ERROR] [36] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samain Kajornklai ใช้ Aed จำนวน 1","date":"24/3/2565 17:07:18"}
+[17:08:38] [ERROR] [36] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samain Kajornklai ใช้ Aed จำนวน 1","date":"24/3/2565 17:08:36"}
+[17:26:14] [ERROR] [8] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samain Kajornklai ใช้ Aed จำนวน 1","date":"24/3/2565 17:26:12"}
+[23:18:35] [ERROR] [67] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samain Kajornklai ใช้ Aed จำนวน 1","date":"24/3/2565 23:18:34"}

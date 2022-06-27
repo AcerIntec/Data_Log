@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 1100001482b506f | Date: 13/4/2565
+================================================================
+[19:33:48] [ERROR] [41] Discord: request to https://discordapp.com/api/webhooks/962005472687308840/cAdYNpKVL7Rt25qwiuQMSfGEuKImqGJhlQPii9ZQcPS_q7nNSg7S6FawP8jcWzwSunVo failed, reason: connect ETIMEDOUT 162.159.129.233:443 Data: {"event":"NC_GiveItem","content":"Lupin Intaro ได้รับ หิน จาก Karum Soduk จำนวน 20","date":"13/4/2565 19:33:23"}
+[19:34:04] [ERROR] [41] Discord: request to https://discordapp.com/api/webhooks/962005472687308840/cAdYNpKVL7Rt25qwiuQMSfGEuKImqGJhlQPii9ZQcPS_q7nNSg7S6FawP8jcWzwSunVo failed, reason: read ECONNRESET Data: {"event":"NC_GiveItem","content":"Lupin Intaro ได้รับ แท่งทองแดง จาก Karum Soduk จำนวน 15","date":"13/4/2565 19:33:19"}

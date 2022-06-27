@@ -1,0 +1,26 @@
+================================================================
+======== SteamID64 (Hex): 11000014b69eadb | Date: 9/5/2565
+================================================================
+[21:29:37] [ERROR] [33] No player data found. Data: {"event":"DocRemoveItem","content":"Lucky Hunter ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/5/2565 21:29:37"}
+[21:29:37] [ERROR] [33] No player data found. Data: {"event":"DocHeal","content":"Lucky Hunter ทำการรักษา Dan Skyfall","date":"9/5/2565 21:29:37"}
+[21:29:50] [ERROR] [33] No player data found. Data: {"event":"NC_GiveMoney","content":"Lucky Hunter ได้รับ เงิน จาก Dan Skyfall จำนวน $600","date":"9/5/2565 21:29:50"}
+[22:07:52] [ERROR] [33] No player data found. Data: {"event":"DocRemoveItem","content":"Lucky Hunter ใช้ ผ้าพันแผล จำนวน 1","date":"9/5/2565 22:07:52"}
+[22:07:52] [ERROR] [33] No player data found. Data: {"event":"NC_GiveMoney","content":"Lucky Hunter ได้รับ เงิน จาก TEE YAI จำนวน $300","date":"9/5/2565 22:07:52"}
+[22:07:52] [ERROR] [33] No player data found. Data: {"event":"DocHeal","content":"Lucky Hunter ทำการรักษา TEE YAI","date":"9/5/2565 22:07:52"}
+[22:14:51] [ERROR] [33] No player data found. Data: {"event":"DocRemoveItem","content":"Lucky Hunter ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/5/2565 22:14:51"}
+[22:14:51] [ERROR] [33] No player data found. Data: {"event":"DocHeal","content":"Lucky Hunter ทำการรักษา Srithan Jidpong","date":"9/5/2565 22:14:51"}
+[22:15:02] [ERROR] [33] No player data found. Data: {"event":"NC_GiveMoney","content":"Lucky Hunter ได้รับ เงิน จาก Srithan Jidpong จำนวน $300","date":"9/5/2565 22:15:02"}
+[22:24:18] [ERROR] [33] No player data found. Data: {"event":"DocRemoveItem","content":"Lucky Hunter ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/5/2565 22:24:18"}
+[22:24:18] [ERROR] [33] No player data found. Data: {"event":"DocHeal","content":"Lucky Hunter ทำการรักษา Matthew Sebastian Matthew Sebastian","date":"9/5/2565 22:24:18"}
+[22:24:27] [ERROR] [33] No player data found. Data: {"event":"NC_GiveMoney","content":"Lucky Hunter ได้รับ เงิน จาก Matthew Sebastian Matthew Sebastian จำนวน $300","date":"9/5/2565 22:24:27"}
+[23:00:47] [ERROR] [33] No player data found. Data: {"event":"BankDeposit","content":"Lucky Hunter ฝากเงิน จำนวน $4,000 คงเหลือในกระเป๋า $1,020 มีเงินในบัญชี $27,650","date":"9/5/2565 23:00:47"}
+[23:06:34] [ERROR] [33] No player data found. Data: {"event":"DocRemoveItem","content":"Lucky Hunter ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/5/2565 23:06:34"}
+[23:06:35] [ERROR] [33] No player data found. Data: {"event":"DocHeal","content":"Lucky Hunter ทำการรักษา Shindo Hassadin","date":"9/5/2565 23:06:35"}
+[23:06:44] [ERROR] [33] No player data found. Data: {"event":"NC_GiveMoney","content":"Lucky Hunter ได้รับ เงิน จาก Shindo Hassadin จำนวน $600","date":"9/5/2565 23:06:44"}
+[23:33:13] [ERROR] [33] No player data found. Data: {"event":"DocRemoveItem","content":"Lucky Hunter ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"9/5/2565 23:33:13"}
+[23:33:15] [ERROR] [33] No player data found. Data: {"event":"DocRevive","content":"Lucky Hunter ชุบชีวิต Enjoys Kwon ได้รับ $0","date":"9/5/2565 23:33:15"}
+[23:33:38] [ERROR] [33] No player data found. Data: {"event":"DocRemoveItem","content":"Lucky Hunter ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/5/2565 23:33:38"}
+[23:33:39] [ERROR] [33] No player data found. Data: {"event":"DocHeal","content":"Lucky Hunter ทำการรักษา Enjoys Kwon","date":"9/5/2565 23:33:39"}
+[23:33:39] [ERROR] [33] No player data found. Data: {"event":"NC_GiveMoney","content":"Lucky Hunter ได้รับ เงิน จาก Enjoys Kwon จำนวน $1,600","date":"9/5/2565 23:33:39"}
+[23:40:08] [ERROR] [33] No player data found. Data: {"event":"BankDeposit","content":"Lucky Hunter ฝากเงิน จำนวน $2,000 คงเหลือในกระเป๋า $1,220 มีเงินในบัญชี $30,250","date":"9/5/2565 23:40:08"}
+[23:47:51] [ERROR] [33] No player data found. Data: {"event":"JobDutyAmbulance","content":"Lucky Hunter หน่วยงาน ambulance ออกเวร","date":"9/5/2565 23:47:51"}

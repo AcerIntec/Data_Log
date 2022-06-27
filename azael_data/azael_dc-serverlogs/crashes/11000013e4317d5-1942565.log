@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 11000013e4317d5 | Date: 19/4/2565
+================================================================
+[22:17:57] [ERROR] [112] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 6365} Data: {"event":"VaultGetItem","content":"Hin Lu นำ แท่งทองแดง จำนวน 50 ออกจากตู้นิรภัย","date":"19/4/2565 22:17:47"}

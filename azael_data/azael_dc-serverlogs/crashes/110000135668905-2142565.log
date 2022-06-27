@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 110000135668905 | Date: 21/4/2565
+================================================================
+[11:31:13] [ERROR] [67] Discord: request to https://discordapp.com/api/webhooks/945997986931048448/CSn3PO40gz7OoXCOLs-tOWrLvkdSe3NXb7_gP-RsOe5L952zNZALFqSVcS3jO-OF9oZM failed, reason: connect ETIMEDOUT 162.159.129.233:443 Data: {"event":"BankDeposit","content":"Khaopad Maisaikhao ฝากเงิน จำนวน $14,000 คงเหลือในกระเป๋า $1,070 มีเงินในบัญชี $67,993","date":"21/4/2565 11:30:50"}
+[11:36:51] [ERROR] [67] Discord: request to https://discordapp.com/api/webhooks/939495243731050536/rhXHbKYXutrlOR7yZPC-DXwqdZHXa3vTmSZ-oBhqhbR0PGkJN-8RYkNm_S10hvAZ0bgb failed, reason: connect ETIMEDOUT 162.159.133.233:443 Data: {"event":"Logout","content":"ออกจากเซิร์ฟเวอร์ (Exiting)","date":"21/4/2565 11:36:28"}

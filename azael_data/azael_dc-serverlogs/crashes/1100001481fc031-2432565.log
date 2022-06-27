@@ -1,0 +1,21 @@
+================================================================
+======== SteamID64 (Hex): 1100001481fc031 | Date: 24/3/2565
+================================================================
+[12:36:41] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Deemo Grandiwall ถูก Noah Blackcalen ชุบชีวิต","date":"24/3/2565 12:36:37"}
+[12:36:58] [ERROR] [18] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Deemo Grandiwall ได้รับการรักษา จาก Noah Blackcalen","date":"24/3/2565 12:36:54"}
+[14:15:35] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Deemo Grandiwall ถูก Noah Blackcalen ชุบชีวิต","date":"24/3/2565 14:15:31"}
+[14:15:49] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Deemo Grandiwall ได้รับการรักษา จาก Noah Blackcalen","date":"24/3/2565 14:15:45"}
+[14:25:38] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Deemo Grandiwall เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"24/3/2565 14:25:36"}
+[14:26:48] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Deemo Grandiwall ซื้อ หน้ากาก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"24/3/2565 14:26:46"}
+[14:47:43] [ERROR] [26] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"24/3/2565 14:47:35"}
+[14:47:54] [ERROR] [26] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"24/3/2565 14:47:35"}
+[14:47:56] [ERROR] [26] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"24/3/2565 14:47:42"}
+[14:47:56] [ERROR] [26] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"24/3/2565 14:47:43"}
+[14:47:59] [ERROR] [26] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"24/3/2565 14:47:42"}
+[14:48:01] [ERROR] [26] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"24/3/2565 14:47:43"}
+[14:48:02] [ERROR] [26] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Dead","content":"ถูก [HSD]YELLOW ฆ่า โดย Broken Bottle","date":"24/3/2565 14:47:56"}
+[14:51:38] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Deemo Grandiwall เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"24/3/2565 14:51:36"}
+[14:52:57] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Deemo Grandiwall เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"24/3/2565 14:52:55"}
+[14:53:15] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Deemo Grandiwall ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"24/3/2565 14:53:13"}
+[14:53:49] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Deemo Grandiwall เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"24/3/2565 14:53:47"}
+[14:58:08] [ERROR] [26] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Deemo Grandiwall เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"24/3/2565 14:58:06"}

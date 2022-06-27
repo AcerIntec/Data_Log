@@ -1,0 +1,17 @@
+================================================================
+======== SteamID64 (Hex): 11000013e4317d5 | Date: 26/3/2565
+================================================================
+[15:27:16] [ERROR] [80] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Hin Lu ถูก  M Moris ชุบชีวิต","date":"26/3/2565 15:27:13"}
+[15:27:34] [ERROR] [80] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Hin Lu ได้รับการรักษา จาก  M Moris","date":"26/3/2565 15:27:30"}
+[16:12:45] [ERROR] [105] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Hin Lu ได้รับการรักษา จาก  M Moris","date":"26/3/2565 16:12:41"}
+[17:00:41] [ERROR] [105] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Hin Lu ถูก  M Moris ชุบชีวิต","date":"26/3/2565 17:00:37"}
+[17:00:58] [ERROR] [105] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Hin Lu ได้รับการรักษา จาก  M Moris","date":"26/3/2565 17:00:54"}
+[17:18:49] [ERROR] [105] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Hin Lu ถูก Chanom Iris ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา ปูน2ถุง","date":"26/3/2565 17:18:45"}
+[17:54:56] [ERROR] [105] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Hin Lu ถูก Enjoys Kwon ชุบชีวิต","date":"26/3/2565 17:54:53"}
+[17:55:15] [ERROR] [105] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Hin Lu ได้รับการรักษา จาก Enjoys Kwon","date":"26/3/2565 17:55:11"}
+[20:12:16] [ERROR] [31] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Hin Lu เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"26/3/2565 20:12:14"}
+[20:43:34] [ERROR] [31] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Hin Lu ถูก Enjoys Kwon ชุบชีวิต","date":"26/3/2565 20:43:31"}
+[20:43:47] [ERROR] [31] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Hin Lu ได้รับการรักษา จาก Enjoys Kwon","date":"26/3/2565 20:43:43"}
+[21:38:55] [ERROR] [31] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Hin Lu ถูก  M Moris ชุบชีวิต","date":"26/3/2565 21:38:51"}
+[21:39:11] [ERROR] [31] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Hin Lu ได้รับการรักษา จาก  M Moris","date":"26/3/2565 21:39:07"}
+[21:52:58] [ERROR] [31] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Hin Lu ถูก Mark Angel ชุบชีวิต","date":"26/3/2565 21:52:54"}

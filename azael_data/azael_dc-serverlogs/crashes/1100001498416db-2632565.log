@@ -1,0 +1,61 @@
+================================================================
+======== SteamID64 (Hex): 1100001498416db | Date: 26/3/2565
+================================================================
+[12:10:52] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":" M Moris ซื้อรถ -974922913 ทะเบียน GDQ 240 ราคา $5,000","date":"26/3/2565 12:10:50"}
+[12:34:00] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":" M Moris เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"26/3/2565 12:33:58"}
+[15:27:14] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 15:27:12"}
+[15:27:14] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":" M Moris ชุบชีวิต Hin Lu ได้รับ $0","date":"26/3/2565 15:27:12"}
+[15:27:32] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 15:27:30"}
+[15:27:32] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Hin Lu","date":"26/3/2565 15:27:30"}
+[15:53:56] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 15:53:54"}
+[15:53:56] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":" M Moris ชุบชีวิต Yellow Demlo ได้รับ $0","date":"26/3/2565 15:53:54"}
+[15:54:09] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 15:54:07"}
+[15:54:09] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Yellow Demlo","date":"26/3/2565 15:54:07"}
+[16:11:15] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 16:11:13"}
+[16:11:15] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Arjeck Jinna","date":"26/3/2565 16:11:13"}
+[16:11:38] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 16:11:36"}
+[16:11:38] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":" M Moris ชุบชีวิต Arthur Lu ได้รับ $0","date":"26/3/2565 16:11:36"}
+[16:11:57] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 16:11:55"}
+[16:11:57] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Arthur Lu","date":"26/3/2565 16:11:55"}
+[16:12:43] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 16:12:41"}
+[16:12:43] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Hin Lu","date":"26/3/2565 16:12:41"}
+[16:13:07] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 16:13:05"}
+[16:13:07] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Somtui Onfloy","date":"26/3/2565 16:13:05"}
+[16:13:29] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 16:13:27"}
+[16:13:29] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Somchan Delacour","date":"26/3/2565 16:13:27"}
+[16:14:04] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ผ้าพันแผล จำนวน 1","date":"26/3/2565 16:14:02"}
+[16:14:04] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Bug Sarauri","date":"26/3/2565 16:14:02"}
+[16:17:23] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 16:17:21"}
+[16:17:23] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":" M Moris ชุบชีวิต Tako Yaki ได้รับ $0","date":"26/3/2565 16:17:21"}
+[16:17:38] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 16:17:36"}
+[16:17:38] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Tako Yaki","date":"26/3/2565 16:17:36"}
+[16:18:22] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 16:18:20"}
+[16:18:22] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Johnwick Wickwick","date":"26/3/2565 16:18:20"}
+[16:31:48] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 16:31:46"}
+[16:31:48] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":" M Moris ชุบชีวิต Tommy Magma ได้รับ $0","date":"26/3/2565 16:31:46"}
+[16:32:04] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 16:32:02"}
+[16:32:04] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Tommy Magma","date":"26/3/2565 16:32:02"}
+[17:00:38] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 17:00:36"}
+[17:00:39] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":" M Moris ชุบชีวิต Hin Lu ได้รับ $0","date":"26/3/2565 17:00:37"}
+[17:00:56] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 17:00:54"}
+[17:00:56] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Hin Lu","date":"26/3/2565 17:00:54"}
+[17:03:27] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 17:03:25"}
+[17:03:27] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":" M Moris ชุบชีวิต Yellow Demlo ได้รับ $0","date":"26/3/2565 17:03:25"}
+[17:03:40] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 17:03:38"}
+[17:03:40] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Yellow Demlo","date":"26/3/2565 17:03:38"}
+[17:28:03] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 17:28:01"}
+[17:28:03] [ERROR] [101] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Chanom Iris","date":"26/3/2565 17:28:01"}
+[19:39:54] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 19:39:52"}
+[19:39:54] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":" M Moris ชุบชีวิต Tommy Magma ได้รับ $0","date":"26/3/2565 19:39:52"}
+[19:40:07] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 19:40:05"}
+[19:40:07] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Tommy Magma","date":"26/3/2565 19:40:05"}
+[21:38:53] [ERROR] [108] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 21:38:51"}
+[21:38:53] [ERROR] [108] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":" M Moris ชุบชีวิต Hin Lu ได้รับ $0","date":"26/3/2565 21:38:51"}
+[21:39:09] [ERROR] [108] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 21:39:07"}
+[21:39:09] [ERROR] [108] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Hin Lu","date":"26/3/2565 21:39:07"}
+[22:50:59] [ERROR] [108] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"26/3/2565 22:50:57"}
+[22:50:59] [ERROR] [108] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":" M Moris ชุบชีวิต Mason Mount ได้รับ $0","date":"26/3/2565 22:50:57"}
+[22:51:12] [ERROR] [108] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 22:51:11"}
+[22:51:13] [ERROR] [108] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Mason Mount","date":"26/3/2565 22:51:11"}
+[22:51:27] [ERROR] [108] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 22:51:25"}
+[22:51:27] [ERROR] [108] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Naruto Demlo","date":"26/3/2565 22:51:25"}

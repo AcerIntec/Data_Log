@@ -1,0 +1,16 @@
+================================================================
+======== SteamID64 (Hex): 11000014c7a1d81 | Date: 18/3/2565
+================================================================
+[00:35:32] [ERROR] [19] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":"Shindo Hassadin ซื้อรถ 1416125959 ทะเบียน JWQ 011 ราคา $5,000","date":"18/3/2565 00:35:30"}
+[01:29:51] [ERROR] [19] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"18/3/2565 01:29:49"}
+[01:29:51] [ERROR] [19] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Yellow Demlo ได้รับ $0","date":"18/3/2565 01:29:49"}
+[01:33:36] [ERROR] [19] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Shindo Hassadin ถูก Niclolas  Kwon ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา เจ้าชู้","date":"18/3/2565 01:33:32"}
+[23:24:08] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"18/3/2565 23:24:07"}
+[23:24:08] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Shark Paradise ได้รับ $0","date":"18/3/2565 23:24:07"}
+[23:31:58] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ถูก M  Moris ชุบชีวิต","date":"18/3/2565 23:31:54"}
+[23:36:37] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"18/3/2565 23:36:35"}
+[23:36:37] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต M  Moris ได้รับ $0","date":"18/3/2565 23:36:35"}
+[23:44:31] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ถูก Yuji Kimita ชุบชีวิต","date":"18/3/2565 23:44:27"}
+[23:45:30] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ถูก Yuji Kimita ชุบชีวิต","date":"18/3/2565 23:45:26"}
+[23:48:52] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ถูก Yuji Kimita ชุบชีวิต","date":"18/3/2565 23:48:48"}
+[23:50:53] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ถูก Yuji Kimita ชุบชีวิต","date":"18/3/2565 23:50:49"}

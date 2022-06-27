@@ -1,0 +1,16 @@
+================================================================
+======== SteamID64 (Hex): 110000116a1f99a | Date: 30/3/2565
+================================================================
+[00:18:43] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Mac Torres สัก Ghost Dragon เสียค่าใช้จ่าย $2,633 ให้ ร้านสัก","date":"30/3/2565 00:18:41"}
+[20:25:02] [ERROR] [23] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Mac Torres เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"30/3/2565 20:25:00"}
+[20:25:27] [ERROR] [23] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Mac Torres เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"30/3/2565 20:25:25"}
+[20:26:43] [ERROR] [23] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Mac Torres ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"30/3/2565 20:26:41"}
+[23:04:56] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Mac Torres ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"30/3/2565 23:04:54"}
+[23:04:56] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Mac Torres ชุบชีวิต PaPo Escobar ได้รับ $0","date":"30/3/2565 23:04:54"}
+[23:05:09] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Mac Torres ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"30/3/2565 23:05:07"}
+[23:05:09] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Mac Torres ทำการรักษา PaPo Escobar","date":"30/3/2565 23:05:07"}
+[23:13:27] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Mac Torres ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"30/3/2565 23:13:25"}
+[23:13:27] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Mac Torres ชุบชีวิต Some Orochi ได้รับ $0","date":"30/3/2565 23:13:25"}
+[23:16:25] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Mac Torres ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"30/3/2565 23:16:23"}
+[23:16:25] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Mac Torres ชุบชีวิต Srithan Jidpong ได้รับ $0","date":"30/3/2565 23:16:23"}
+[23:55:25] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Mac Torres ถูก Shindo Hassadin ชุบชีวิต","date":"30/3/2565 23:55:21"}

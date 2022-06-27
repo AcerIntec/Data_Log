@@ -1,0 +1,7 @@
+================================================================
+======== SteamID64 (Hex): 11000014c6f2616 | Date: 25/3/2565
+================================================================
+[00:19:28] [ERROR] [74] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"25/3/2565 00:19:26"}
+[00:19:28] [ERROR] [74] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Bug Sarauri ชุบชีวิต Samain Kajornklai ได้รับ $0","date":"25/3/2565 00:19:26"}
+[00:19:40] [ERROR] [74] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"25/3/2565 00:19:38"}
+[00:19:40] [ERROR] [74] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Bug Sarauri ทำการรักษา Samain Kajornklai","date":"25/3/2565 00:19:38"}

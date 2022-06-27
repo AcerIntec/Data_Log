@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 11000010f000ea3 | Date: 13/4/2565
+================================================================
+[19:37:34] [ERROR] [46] Discord: request to https://discordapp.com/api/webhooks/948783770910204025/1vn8Bu-OmBIoX8Ql6EO_M7oATkwnXEi8C-sgtdaavIHr68Hn2KqemAbTHb3sTdTuGI-h failed, reason: connect ETIMEDOUT 162.159.134.233:443 Data: {"event":"Chat","content":"pm","date":"13/4/2565 19:37:11"}
+[20:30:30] [ERROR] [65] Discord: request to https://discordapp.com/api/webhooks/939494987790422026/3MGxgpoB1NgAElx1l7HfAGNvG0-Nb8VXSOqb0oFY2H-X0M4qNyxZzyN4geF4eF5OPySa failed, reason: connect ETIMEDOUT 162.159.134.233:443 Data: {"event":"Login","content":"เข้าสู่เซิร์ฟเวอร์","date":"13/4/2565 20:30:07"}

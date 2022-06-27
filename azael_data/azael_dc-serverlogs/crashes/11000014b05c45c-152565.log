@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 11000014b05c45c | Date: 1/5/2565
+================================================================
+[20:35:57] [ERROR] [67] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"JobDutyAmbulance","content":"Star Master หน่วยงาน ambulance ออกเวร","date":"1/5/2565 20:35:45"}

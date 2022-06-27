@@ -1,0 +1,20 @@
+================================================================
+======== SteamID64 (Hex): 11000014c6f2616 | Date: 10/5/2565
+================================================================
+[19:34:58] [ERROR] [5] No player data found. Data: {"event":"NC_GiveMoney","content":"Bug Sarauri ได้รับ เงิน จาก Naruto Demlo จำนวน $300","date":"10/5/2565 19:34:58"}
+[19:35:02] [ERROR] [5] No player data found. Data: {"event":"DocRemoveItem","content":"Bug Sarauri ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"10/5/2565 19:35:02"}
+[19:35:02] [ERROR] [5] No player data found. Data: {"event":"DocHeal","content":"Bug Sarauri ทำการรักษา Naruto Demlo","date":"10/5/2565 19:35:02"}
+[19:47:20] [ERROR] [5] No player data found. Data: {"event":"VaultGetItem","content":"Bug Sarauri นำ ผ้าพันแผล จำนวน 67 ออกจากตู้นิรภัย","date":"10/5/2565 19:47:20"}
+[19:48:07] [ERROR] [5] No player data found. Data: {"event":"JobDutyAmbulance","content":"Bug Sarauri หน่วยงาน ambulance ออกเวร","date":"10/5/2565 19:48:07"}
+[20:02:16] [ERROR] [5] No player data found. Data: {"event":"Chat","content":"/e smoke","date":"10/5/2565 20:02:16"}
+[20:09:28] [ERROR] [5] No player data found. Data: {"event":"JobDutyAmbulance","content":"Bug Sarauri หน่วยงาน ambulance เข้าเวร","date":"10/5/2565 20:09:28"}
+[20:14:49] [ERROR] [5] No player data found. Data: {"event":"VaultPutItem","content":"Bug Sarauri ฝาก ปูน จำนวน 2 เข้าตู้นิรภัย","date":"10/5/2565 20:14:49"}
+[20:14:52] [ERROR] [5] No player data found. Data: {"event":"VaultPutItem","content":"Bug Sarauri ฝาก สายไฟ จำนวน 2 เข้าตู้นิรภัย","date":"10/5/2565 20:14:52"}
+[20:14:54] [ERROR] [5] No player data found. Data: {"event":"VaultPutItem","content":"Bug Sarauri ฝาก Stonepack จำนวน 2 เข้าตู้นิรภัย","date":"10/5/2565 20:14:54"}
+[20:15:00] [ERROR] [5] No player data found. Data: {"event":"VaultPutItem","content":"Bug Sarauri ฝาก Ironroll จำนวน 2 เข้าตู้นิรภัย","date":"10/5/2565 20:15:00"}
+[20:15:03] [ERROR] [5] No player data found. Data: {"event":"VaultPutItem","content":"Bug Sarauri ฝาก Albatross Coin จำนวน 244 เข้าตู้นิรภัย","date":"10/5/2565 20:15:03"}
+[20:15:06] [ERROR] [5] No player data found. Data: {"event":"VaultPutItem","content":"Bug Sarauri ฝาก MickeyMouse จำนวน 1 เข้าตู้นิรภัย","date":"10/5/2565 20:15:06"}
+[20:15:09] [ERROR] [5] No player data found. Data: {"event":"VaultGetItem","content":"Bug Sarauri นำ กาชาโปรโมท จำนวน 10 ออกจากตู้นิรภัย","date":"10/5/2565 20:15:09"}
+[20:20:07] [ERROR] [5] No player data found. Data: {"event":"NC_GiveItem","content":"Bug Sarauri ส่ง Bunny ให้กับ Mac Torres จำนวน 1","date":"10/5/2565 20:20:07"}
+[20:20:18] [ERROR] [5] No player data found. Data: {"event":"NC_GiveItem","content":"Bug Sarauri ได้รับ Bunny จาก Mac Torres จำนวน 1","date":"10/5/2565 20:20:18"}
+[20:35:50] [ERROR] [5] No player data found. Data: {"event":"JobDutyAmbulance","content":"Bug Sarauri หน่วยงาน ambulance ออกเวร","date":"10/5/2565 20:35:50"}

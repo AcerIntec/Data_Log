@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 11000014b05c45c | Date: 21/4/2565
+================================================================
+[11:27:29] [ERROR] [73] Discord: request to https://discordapp.com/api/webhooks/940505457536167997/nNeDDu91k7_7XqTBZpqb-fH9lzUSmY6vmSGeGRFsztrj_7QGDrmEvTy3GAbY6Bn7pSSM failed, reason: connect ETIMEDOUT 162.159.133.233:443 Data: {"event":"Dead","content":"เสียชีวิต โดย ยานพาหนะ (NPC ฆ่า หรือ หล่นจากยานพาหนะ)","date":"21/4/2565 11:27:06"}

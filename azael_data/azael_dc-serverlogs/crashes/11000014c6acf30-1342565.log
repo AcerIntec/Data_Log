@@ -1,0 +1,6 @@
+================================================================
+======== SteamID64 (Hex): 11000014c6acf30 | Date: 13/4/2565
+================================================================
+[20:28:31] [ERROR] [58] Discord: request to https://discordapp.com/api/webhooks/951768849752133633/cvMOJjWZOA_lkF062As8aU1gW5sCm2d61ZbDbAzK0z1uSFYnK91RNh5mWeNC9UE4GFf3 failed, reason: connect ETIMEDOUT 162.159.130.233:443 Data: {"event":"VaultPutItem","content":"Shark  DabDaw ฝาก แท่งทองแดง จำนวน 34 เข้าตู้นิรภัย","date":"13/4/2565 20:28:08"}
+[20:28:39] [ERROR] [58] Discord: request to https://discordapp.com/api/webhooks/951768849752133633/cvMOJjWZOA_lkF062As8aU1gW5sCm2d61ZbDbAzK0z1uSFYnK91RNh5mWeNC9UE4GFf3 failed, reason: connect ETIMEDOUT 162.159.130.233:443 Data: {"event":"VaultPutItem","content":"Shark  DabDaw ฝาก เพชร จำนวน 9 เข้าตู้นิรภัย","date":"13/4/2565 20:28:16"}
+[20:30:56] [ERROR] [58] Discord: request to https://discordapp.com/api/webhooks/951768849752133633/cvMOJjWZOA_lkF062As8aU1gW5sCm2d61ZbDbAzK0z1uSFYnK91RNh5mWeNC9UE4GFf3 failed, reason: read ECONNRESET Data: {"event":"VaultPutItem","content":"Shark  DabDaw ฝาก หิน จำนวน 100 เข้าตู้นิรภัย","date":"13/4/2565 20:28:12"}

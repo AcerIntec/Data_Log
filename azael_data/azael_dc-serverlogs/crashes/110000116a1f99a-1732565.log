@@ -1,0 +1,7 @@
+================================================================
+======== SteamID64 (Hex): 110000116a1f99a | Date: 17/3/2565
+================================================================
+[01:09:49] [ERROR] [4] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"LsCustom","content":"[MD]Mac Torres แต่งรถ Blista Kanjo ทะเบียน FZN 827  และ เสียค่าใช้จ่าย $320","date":"17/3/2565 01:09:28"}
+[01:10:02] [ERROR] [4] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"Chat","content":"/-ChangeStatus","date":"17/3/2565 01:09:50"}
+[01:10:22] [ERROR] [4] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"LsCustom","content":"[MD]Mac Torres แต่งรถ Blista Kanjo ทะเบียน FZN 827  และ เสียค่าใช้จ่าย $800","date":"17/3/2565 01:10:00"}
+[01:10:33] [ERROR] [4] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"LsCustom","content":"[MD]Mac Torres แต่งรถ Blista Kanjo ทะเบียน FZN 827  และ เสียค่าใช้จ่าย $1,600","date":"17/3/2565 01:10:21"}

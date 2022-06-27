@@ -1,0 +1,13 @@
+================================================================
+======== SteamID64 (Hex): 11000014b62476a | Date: 28/3/2565
+================================================================
+[20:36:03] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Somchan Delacour เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"28/3/2565 20:36:02"}
+[20:38:21] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Somchan Delacour เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 20:38:19"}
+[20:41:49] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Somchan Delacour เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 20:41:47"}
+[20:45:17] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Somchan Delacour เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 20:45:15"}
+[20:51:55] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Somchan Delacour เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"28/3/2565 20:51:53"}
+[20:52:54] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Somchan Delacour ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"28/3/2565 20:52:52"}
+[21:29:36] [ERROR] [49] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Somchan Delacour ถูก Mac Torres ชุบชีวิต","date":"28/3/2565 21:29:33"}
+[21:29:51] [ERROR] [49] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Somchan Delacour ได้รับการรักษา จาก Mac Torres","date":"28/3/2565 21:29:47"}
+[21:46:32] [ERROR] [49] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Somchan Delacour ถูก Mac Torres ชุบชีวิต","date":"28/3/2565 21:46:28"}
+[21:46:58] [ERROR] [49] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Somchan Delacour ได้รับการรักษา จาก Mac Torres","date":"28/3/2565 21:46:54"}

@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 11000014b94cc8f | Date: 13/4/2565
+================================================================
+[00:56:42] [ERROR] [26] Discord: request to https://discordapp.com/api/webhooks/939495243731050536/rhXHbKYXutrlOR7yZPC-DXwqdZHXa3vTmSZ-oBhqhbR0PGkJN-8RYkNm_S10hvAZ0bgb failed, reason: connect ETIMEDOUT 162.159.134.233:443 Data: {"event":"Logout","content":"ออกจากเซิร์ฟเวอร์ (Server->client connection timed out. Last seen 44424 msec ago.)","date":"13/4/2565 00:56:08"}

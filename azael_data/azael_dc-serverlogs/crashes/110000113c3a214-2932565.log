@@ -1,0 +1,15 @@
+================================================================
+======== SteamID64 (Hex): 110000113c3a214 | Date: 29/3/2565
+================================================================
+[15:16:30] [ERROR] [55] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Ninja Magma สัก Celtic Band เสียค่าใช้จ่าย $593 ให้ ร้านสัก","date":"29/3/2565 15:16:28"}
+[15:18:03] [ERROR] [55] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Ninja Magma เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"29/3/2565 15:18:01"}
+[15:28:25] [ERROR] [55] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Ninja Magma เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 15:28:23"}
+[15:35:51] [ERROR] [55] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Ninja Magma ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"29/3/2565 15:35:49"}
+[15:36:31] [ERROR] [55] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Ninja Magma ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"29/3/2565 15:36:29"}
+[15:41:11] [ERROR] [55] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Ninja Magma ซื้อ หน้ากาก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"29/3/2565 15:41:09"}
+[17:02:00] [ERROR] [55] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Ninja Magma ได้รับการรักษา จาก Mark Angel","date":"29/3/2565 17:01:54"}
+[17:11:12] [ERROR] [55] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Ninja Magma ได้รับการรักษา จาก Mark Angel","date":"29/3/2565 17:11:09"}
+[17:58:50] [ERROR] [55] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Ninja Magma ถูก Mark Angel ชุบชีวิต","date":"29/3/2565 17:58:47"}
+[17:59:04] [ERROR] [55] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Ninja Magma ได้รับการรักษา จาก Mark Angel","date":"29/3/2565 17:59:00"}
+[18:03:44] [ERROR] [55] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Ninja Magma ได้รับการรักษา จาก Mark Angel","date":"29/3/2565 18:03:40"}
+[22:15:09] [ERROR] [104] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Ninja Magma ได้รับการรักษา จาก Atom Demon","date":"29/3/2565 22:15:05"}

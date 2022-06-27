@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 11000013e772190 | Date: 19/4/2565
+================================================================
+[22:17:59] [ERROR] [91] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 4317} Data: {"event":"VaultGetItem","content":"Some Orochi นำ แท่งทองแดง จำนวน 50 ออกจากตู้นิรภัย","date":"19/4/2565 22:17:49"}

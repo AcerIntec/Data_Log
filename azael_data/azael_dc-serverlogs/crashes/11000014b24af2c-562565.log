@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 11000014b24af2c | Date: 5/6/2565
+================================================================
+[21:34:50] [ERROR] [9] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 9105} Data: {"event":"VaultGetItem","content":"Enjoys Kwon นำ Onyx จำนวน 1 ออกจากตู้นิรภัย","date":"5/6/2565 21:34:47"}
+[21:34:54] [ERROR] [9] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 5024} Data: {"event":"VaultGetItem","content":"Enjoys Kwon นำ Stonepack จำนวน 7 ออกจากตู้นิรภัย","date":"5/6/2565 21:34:51"}

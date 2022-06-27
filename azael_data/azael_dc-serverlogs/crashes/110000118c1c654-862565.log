@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 110000118c1c654 | Date: 8/6/2565
+================================================================
+[01:34:52] [ERROR] [24] Discord: request to https://discordapp.com/api/webhooks/951768849752133633/cvMOJjWZOA_lkF062As8aU1gW5sCm2d61ZbDbAzK0z1uSFYnK91RNh5mWeNC9UE4GFf3 failed, reason: connect ETIMEDOUT 162.159.129.233:443 Data: {"event":"VaultPutItem","content":"CHANIG YAI ฝาก ถุงพลาสติก จำนวน 40 เข้าตู้นิรภัย","date":"8/6/2565 01:34:29"}

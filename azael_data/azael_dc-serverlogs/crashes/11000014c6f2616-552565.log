@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 11000014c6f2616 | Date: 5/5/2565
+================================================================
+[22:19:15] [ERROR] [74] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 3674} Data: {"event":"VaultPutItem","content":"Bug Sarauri ฝาก หิน จำนวน 120 เข้าตู้นิรภัย","date":"5/5/2565 22:19:12"}

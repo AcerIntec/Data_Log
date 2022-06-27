@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 110000136862fd1 | Date: 26/3/2565
+================================================================
+[20:27:05] [ERROR] [70] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Being Belong เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"26/3/2565 20:27:03"}
+[20:28:10] [ERROR] [70] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Being Belong ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"26/3/2565 20:28:08"}
+[20:39:10] [ERROR] [70] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Being Belong ซื้อ หน้ากาก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"26/3/2565 20:39:08"}
+[23:17:14] [ERROR] [133] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Being Belong สัก Snake Head Outline เสียค่าใช้จ่าย $105 ให้ ร้านสัก","date":"26/3/2565 23:17:12"}
+[23:17:16] [ERROR] [133] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Being Belong ลบรอยสัก","date":"26/3/2565 23:17:15"}

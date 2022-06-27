@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 11000011c27b66c | Date: 13/4/2565
+================================================================
+[00:56:56] [ERROR] [15] Discord: request to https://discordapp.com/api/webhooks/939495243731050536/rhXHbKYXutrlOR7yZPC-DXwqdZHXa3vTmSZ-oBhqhbR0PGkJN-8RYkNm_S10hvAZ0bgb failed, reason: connect ETIMEDOUT 162.159.134.233:443 Data: {"event":"Logout","content":"ออกจากเซิร์ฟเวอร์ (Server->client connection timed out. Last seen 49561 msec ago.)","date":"13/4/2565 00:56:14"}
+[20:23:19] [ERROR] [45] Discord: request to https://discordapp.com/api/webhooks/962004925963976774/dWoNO8qy_q6WPNCFjY04fRfjGkoNaRKifusg-oVVCbrzn9sKqoshl2jsc1rIa_QVM7w2 failed, reason: connect ETIMEDOUT 162.159.135.233:443 Data: {"event":"NC_GiveMoney","content":"Brian Zeno ได้รับ เงิน จาก Chawhy Wisdom จำนวน $20","date":"13/4/2565 20:22:53"}

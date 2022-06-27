@@ -1,0 +1,48 @@
+================================================================
+======== SteamID64 (Hex): 11000014c7a1d81 | Date: 1/4/2565
+================================================================
+[02:27:42] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Shindo Hassadin สัก Cranial Rose เสียค่าใช้จ่าย $488 ให้ ร้านสัก","date":"1/4/2565 02:27:40"}
+[02:27:48] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Shindo Hassadin สัก $100 Bill เสียค่าใช้จ่าย $175 ให้ ร้านสัก","date":"1/4/2565 02:27:46"}
+[02:28:12] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Shindo Hassadin สัก Peace เสียค่าใช้จ่าย $393 ให้ ร้านสัก","date":"1/4/2565 02:28:10"}
+[02:28:17] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Shindo Hassadin ลบรอยสัก","date":"1/4/2565 02:28:15"}
+[02:29:12] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Shindo Hassadin สัก Rich เสียค่าใช้จ่าย $163 ให้ ร้านสัก","date":"1/4/2565 02:29:10"}
+[02:30:35] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Shindo Hassadin สัก Green เสียค่าใช้จ่าย $75 ให้ ร้านสัก","date":"1/4/2565 02:30:33"}
+[02:31:03] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Shindo Hassadin ลบรอยสัก","date":"1/4/2565 02:31:01"}
+[02:31:11] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Shindo Hassadin สัก Dialed In เสียค่าใช้จ่าย $931 ให้ ร้านสัก","date":"1/4/2565 02:31:09"}
+[02:31:59] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Shindo Hassadin สัก Western Stylized เสียค่าใช้จ่าย $207 ให้ ร้านสัก","date":"1/4/2565 02:31:57"}
+[02:32:01] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Shindo Hassadin สัก FTW เสียค่าใช้จ่าย $195 ให้ ร้านสัก","date":"1/4/2565 02:31:57"}
+[02:32:03] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Shindo Hassadin สัก Cash is King เสียค่าใช้จ่าย $250 ให้ ร้านสัก","date":"1/4/2565 02:32:02"}
+[17:27:43] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"1/4/2565 17:27:41"}
+[17:27:43] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Lupin Intaro ได้รับ $0","date":"1/4/2565 17:27:41"}
+[17:28:18] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"1/4/2565 17:28:16"}
+[17:28:18] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา Lupin Intaro","date":"1/4/2565 17:28:16"}
+[17:36:28] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"1/4/2565 17:36:26"}
+[17:36:28] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Lupin Intaro ได้รับ $0","date":"1/4/2565 17:36:27"}
+[17:41:35] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"1/4/2565 17:41:33"}
+[17:41:35] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Lupin Intaro ได้รับ $0","date":"1/4/2565 17:41:33"}
+[17:41:53] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"1/4/2565 17:41:51"}
+[17:41:53] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา Lupin Intaro","date":"1/4/2565 17:41:51"}
+[17:45:57] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"1/4/2565 17:45:55"}
+[17:45:58] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Lupin Intaro ได้รับ $0","date":"1/4/2565 17:45:56"}
+[17:46:23] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"1/4/2565 17:46:21"}
+[17:46:23] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา Lupin Intaro","date":"1/4/2565 17:46:21"}
+[17:51:31] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"1/4/2565 17:51:29"}
+[17:51:31] [ERROR] [30] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Lupin Intaro ได้รับ $0","date":"1/4/2565 17:51:29"}
+[18:38:58] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"1/4/2565 18:38:56"}
+[18:38:58] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Lupin Intaro ได้รับ $0","date":"1/4/2565 18:38:56"}
+[18:39:17] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"1/4/2565 18:39:15"}
+[18:39:17] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา Lupin Intaro","date":"1/4/2565 18:39:16"}
+[18:40:27] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"1/4/2565 18:40:25"}
+[18:40:27] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Lupin Intaro ได้รับ $0","date":"1/4/2565 18:40:25"}
+[18:44:26] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"1/4/2565 18:44:24"}
+[18:44:26] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Lupin Intaro ได้รับ $0","date":"1/4/2565 18:44:24"}
+[18:44:43] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"1/4/2565 18:44:41"}
+[18:44:43] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา Lupin Intaro","date":"1/4/2565 18:44:41"}
+[18:57:27] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"1/4/2565 18:57:25"}
+[18:57:27] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา Yellow Demlo","date":"1/4/2565 18:57:25"}
+[19:29:40] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"1/4/2565 19:29:38"}
+[19:29:40] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา Lupin Intaro","date":"1/4/2565 19:29:39"}
+[21:20:57] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"1/4/2565 21:20:55"}
+[21:20:57] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Yellow Demlo ได้รับ $0","date":"1/4/2565 21:20:55"}
+[21:21:25] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"1/4/2565 21:21:23"}
+[21:21:25] [ERROR] [4] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา Yellow Demlo","date":"1/4/2565 21:21:23"}

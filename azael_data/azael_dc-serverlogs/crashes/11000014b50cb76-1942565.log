@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 11000014b50cb76 | Date: 19/4/2565
+================================================================
+[22:18:01] [ERROR] [38] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 2325} Data: {"event":"VaultGetItem","content":"Somtui Onfloy นำ แท่งทองแดง จำนวน 50 ออกจากตู้นิรภัย","date":"19/4/2565 22:17:49"}

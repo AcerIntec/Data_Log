@@ -1,0 +1,9 @@
+================================================================
+======== SteamID64 (Hex): 110000116a1f99a | Date: 3/4/2565
+================================================================
+[22:58:02] [ERROR] [44] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Mac Torres ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"3/4/2565 22:58:00"}
+[22:58:02] [ERROR] [44] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Mac Torres ชุบชีวิต Bug Sarauri ได้รับ $0","date":"3/4/2565 22:58:00"}
+[22:58:23] [ERROR] [44] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Mac Torres ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"3/4/2565 22:58:21"}
+[22:58:24] [ERROR] [44] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Mac Torres ทำการรักษา Bug Sarauri","date":"3/4/2565 22:58:22"}
+[23:29:53] [ERROR] [44] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Mac Torres ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"3/4/2565 23:29:51"}
+[23:29:53] [ERROR] [44] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Mac Torres ทำการรักษา Some Orochi","date":"3/4/2565 23:29:51"}

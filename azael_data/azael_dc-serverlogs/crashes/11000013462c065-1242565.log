@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 11000013462c065 | Date: 12/4/2565
+================================================================
+[22:38:10] [ERROR] [65] Discord: request to https://discordapp.com/api/webhooks/940505457536167997/nNeDDu91k7_7XqTBZpqb-fH9lzUSmY6vmSGeGRFsztrj_7QGDrmEvTy3GAbY6Bn7pSSM failed, reason: connect ETIMEDOUT 162.159.135.233:443 Data: {"event":"Dead","content":"ฆ่า [PL] Naruto Demlo โดย Fist","date":"12/4/2565 22:37:45"}
+[22:38:12] [ERROR] [65] Discord: request to https://discordapp.com/api/webhooks/940505457536167997/nNeDDu91k7_7XqTBZpqb-fH9lzUSmY6vmSGeGRFsztrj_7QGDrmEvTy3GAbY6Bn7pSSM failed, reason: connect ETIMEDOUT 162.159.135.233:443 Data: {"event":"Dead","content":"เสียชีวิต โดย ตกจากที่สูง หรือ ขาดอาหาร","date":"12/4/2565 22:37:48"}

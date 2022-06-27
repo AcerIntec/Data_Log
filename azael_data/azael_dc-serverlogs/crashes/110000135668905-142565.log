@@ -1,0 +1,13 @@
+================================================================
+======== SteamID64 (Hex): 110000135668905 | Date: 1/4/2565
+================================================================
+[11:42:07] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Friedrice Norice เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"1/4/2565 11:42:05"}
+[11:49:23] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Friedrice Norice เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"1/4/2565 11:49:21"}
+[12:33:17] [ERROR] [3] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Friedrice Norice ซื้อ หน้ากาก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"1/4/2565 12:33:15"}
+[15:51:47] [ERROR] [3] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Friedrice Norice หน่วยงาน: police ประกาศ: ทำงานดำได้ตามปกตินะครับ","date":"1/4/2565 15:51:45"}
+[17:24:36] [ERROR] [33] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Friedrice Norice หน่วยงาน: police ประกาศ: ทำงานดำได้ตามปกติครับ","date":"1/4/2565 17:24:34"}
+[18:34:02] [ERROR] [8] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Friedrice Norice หน่วยงาน: police ประกาศ: ทำงานดำได้ตามปกคิครับ","date":"1/4/2565 18:34:00"}
+[19:02:01] [ERROR] [8] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Friedrice Norice หน่วยงาน: police ประกาศ: ทำงานดำได้ตามปกคิครับ","date":"1/4/2565 19:01:59"}
+[19:05:53] [ERROR] [8] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Friedrice Norice ได้รับการรักษา จาก Atom Demon","date":"1/4/2565 19:05:49"}
+[19:47:09] [ERROR] [8] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Friedrice Norice หน่วยงาน: police ประกาศ: ตร.เขียนผิดค้าบ","date":"1/4/2565 19:47:07"}
+[20:18:33] [ERROR] [8] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Friedrice Norice หน่วยงาน: police ประกาศ: ตร.ขออนุญาติออกเวรครับ","date":"1/4/2565 20:18:31"}

@@ -1,0 +1,9 @@
+================================================================
+======== SteamID64 (Hex): 11000013e772190 | Date: 29/3/2565
+================================================================
+[15:03:29] [ERROR] [38] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Some Orochi ถูก  M Moris ชุบชีวิต","date":"29/3/2565 15:03:25"}
+[15:03:43] [ERROR] [38] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Some Orochi ได้รับการรักษา จาก  M Moris","date":"29/3/2565 15:03:39"}
+[22:02:12] [ERROR] [44] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Some Orochi ได้รับการรักษา จาก Enjoys Kwon","date":"29/3/2565 22:02:08"}
+[22:14:28] [ERROR] [44] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Some Orochi ถูก Shindo Hassadin ชุบชีวิต","date":"29/3/2565 22:14:24"}
+[22:14:50] [ERROR] [44] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Some Orochi ได้รับการรักษา จาก Shindo Hassadin","date":"29/3/2565 22:14:47"}
+[22:52:51] [ERROR] [44] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Some Orochi เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 22:52:49"}

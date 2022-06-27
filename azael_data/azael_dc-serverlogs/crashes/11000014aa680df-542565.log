@@ -1,0 +1,15 @@
+================================================================
+======== SteamID64 (Hex): 11000014aa680df | Date: 5/4/2565
+================================================================
+[14:24:09] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก  M Moris ชุบชีวิต","date":"5/4/2565 14:24:05"}
+[14:24:24] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก  M Moris","date":"5/4/2565 14:24:20"}
+[14:38:27] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก  M Moris ชุบชีวิต","date":"5/4/2565 14:38:24"}
+[14:38:44] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก  M Moris","date":"5/4/2565 14:38:41"}
+[20:52:00] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Srithan Jidpong","date":"5/4/2565 20:51:57"}
+[21:26:17] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Somchan Delacour ชุบชีวิต","date":"5/4/2565 21:26:13"}
+[21:26:59] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Somchan Delacour ชุบชีวิต","date":"5/4/2565 21:26:55"}
+[21:29:38] [ERROR] [16] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Somchan Delacour","date":"5/4/2565 21:29:34"}
+[22:19:21] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Somchan Delacour ชุบชีวิต","date":"5/4/2565 22:19:17"}
+[22:19:53] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Somchan Delacour","date":"5/4/2565 22:19:49"}
+[22:35:47] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Somchan Delacour ชุบชีวิต","date":"5/4/2565 22:35:43"}
+[22:36:06] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Somchan Delacour","date":"5/4/2565 22:36:02"}

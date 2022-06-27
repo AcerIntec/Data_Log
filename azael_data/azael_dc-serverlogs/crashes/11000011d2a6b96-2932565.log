@@ -1,0 +1,14 @@
+================================================================
+======== SteamID64 (Hex): 11000011d2a6b96 | Date: 29/3/2565
+================================================================
+[01:07:24] [ERROR] [29] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Tee Magma เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"29/3/2565 01:07:22"}
+[02:47:46] [ERROR] [29] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tee Magma ถูก Shindo Hassadin ชุบชีวิต","date":"29/3/2565 02:47:42"}
+[02:48:09] [ERROR] [29] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tee Magma ได้รับการรักษา จาก Shindo Hassadin","date":"29/3/2565 02:48:05"}
+[03:12:54] [ERROR] [29] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Tee Magma สัก Dragons เสียค่าใช้จ่าย $625 ให้ ร้านสัก","date":"29/3/2565 03:12:52"}
+[03:12:59] [ERROR] [29] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Tee Magma ลบรอยสัก","date":"29/3/2565 03:12:57"}
+[03:14:00] [ERROR] [29] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Tee Magma สัก Royal Kiss เสียค่าใช้จ่าย $383 ให้ ร้านสัก","date":"29/3/2565 03:13:58"}
+[03:14:02] [ERROR] [29] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Tee Magma สัก Death Behind เสียค่าใช้จ่าย $488 ให้ ร้านสัก","date":"29/3/2565 03:14:00"}
+[03:14:13] [ERROR] [29] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Tee Magma สัก Dead Lies เสียค่าใช้จ่าย $622 ให้ ร้านสัก","date":"29/3/2565 03:14:10"}
+[04:31:32] [ERROR] [29] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tee Magma ถูก Mark Angel ชุบชีวิต","date":"29/3/2565 04:31:28"}
+[04:31:54] [ERROR] [29] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tee Magma ได้รับการรักษา จาก Mark Angel","date":"29/3/2565 04:31:50"}
+[17:12:05] [ERROR] [66] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tee Magma ได้รับการรักษา จาก Mark Angel","date":"29/3/2565 17:12:01"}

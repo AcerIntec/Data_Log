@@ -1,0 +1,7 @@
+================================================================
+======== SteamID64 (Hex): 11000013c6c0c36 | Date: 29/3/2565
+================================================================
+[20:41:12] [ERROR] [73] No player data found. Data: {"event":"Login","content":"เข้าสู่เซิร์ฟเวอร์","date":"29/3/2565 20:41:12"}
+[21:25:59] [ERROR] [74] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"ARN DEMONMOON เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 21:25:57"}
+[21:27:42] [ERROR] [74] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"ARN DEMONMOON เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"29/3/2565 21:27:40"}
+[21:29:30] [ERROR] [74] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"ARN DEMONMOON ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"29/3/2565 21:29:28"}

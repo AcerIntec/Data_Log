@@ -1,0 +1,11 @@
+================================================================
+======== SteamID64 (Hex): 11000014ae4d5da | Date: 30/3/2565
+================================================================
+[12:16:00] [ERROR] [3] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Srithan Jidpong เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"30/3/2565 12:15:58"}
+[13:05:27] [ERROR] [3] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Srithan Jidpong ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"30/3/2565 13:05:25"}
+[13:05:27] [ERROR] [3] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Srithan Jidpong ทำการรักษา Somkid JP","date":"30/3/2565 13:05:25"}
+[14:13:55] [ERROR] [3] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Srithan Jidpong ถูก Shindo Hassadin ชุบชีวิต","date":"30/3/2565 14:13:51"}
+[22:49:58] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Srithan Jidpong เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"30/3/2565 22:49:56"}
+[23:13:04] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Srithan Jidpong ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"30/3/2565 23:13:03"}
+[23:13:05] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Srithan Jidpong ชุบชีวิต PaPo Escobar ได้รับ $0","date":"30/3/2565 23:13:03"}
+[23:16:27] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Srithan Jidpong ถูก Mac Torres ชุบชีวิต","date":"30/3/2565 23:16:23"}

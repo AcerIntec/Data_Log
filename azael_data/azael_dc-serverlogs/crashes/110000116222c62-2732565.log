@@ -1,0 +1,6 @@
+================================================================
+======== SteamID64 (Hex): 110000116222c62 | Date: 27/3/2565
+================================================================
+[02:12:30] [ERROR] [43] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Mikey Larsen ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 02:12:26"}
+[05:00:00] [ERROR] [52] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Mikey Larsen ถูก Mark Angel ชุบชีวิต","date":"27/3/2565 04:59:57"}
+[05:00:16] [ERROR] [52] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Mikey Larsen ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 05:00:13"}

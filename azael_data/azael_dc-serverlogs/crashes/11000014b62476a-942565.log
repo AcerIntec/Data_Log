@@ -1,0 +1,14 @@
+================================================================
+======== SteamID64 (Hex): 11000014b62476a | Date: 9/4/2565
+================================================================
+[15:23:50] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Somchan Delacour ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/4/2565 15:23:48"}
+[15:23:50] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Somchan Delacour ทำการรักษา Enjoys Kwon","date":"9/4/2565 15:23:48"}
+[15:26:06] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Somchan Delacour ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"9/4/2565 15:26:04"}
+[15:26:06] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Somchan Delacour ชุบชีวิต Naruto Demlo ได้รับ $0","date":"9/4/2565 15:26:04"}
+[15:26:29] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Somchan Delacour ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/4/2565 15:26:27"}
+[15:26:29] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Somchan Delacour ทำการรักษา Naruto Demlo","date":"9/4/2565 15:26:27"}
+[15:46:30] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Somchan Delacour ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"9/4/2565 15:46:28"}
+[15:52:38] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Somchan Delacour ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"9/4/2565 15:52:36"}
+[15:52:39] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Somchan Delacour ชุบชีวิต Lookhin Klinglhunlhun ได้รับ $0","date":"9/4/2565 15:52:37"}
+[15:52:53] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Somchan Delacour ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/4/2565 15:52:51"}
+[15:52:54] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Somchan Delacour ทำการรักษา Lookhin Klinglhunlhun","date":"9/4/2565 15:52:52"}

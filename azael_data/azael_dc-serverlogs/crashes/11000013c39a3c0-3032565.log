@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 11000013c39a3c0 | Date: 30/3/2565
+================================================================
+[11:02:08] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Noir ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"30/3/2565 11:02:06"}
+[11:02:09] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Geostis Noir ชุบชีวิต White Roger ได้รับ $0","date":"30/3/2565 11:02:07"}
+[11:06:05] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Geostis Noir ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"30/3/2565 11:06:03"}
+[11:06:05] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Geostis Noir ทำการรักษา White Roger","date":"30/3/2565 11:06:03"}
+[11:28:20] [ERROR] [41] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Geostis Noir เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"30/3/2565 11:28:18"}

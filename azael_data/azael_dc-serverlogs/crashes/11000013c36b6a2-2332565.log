@@ -1,0 +1,14 @@
+================================================================
+======== SteamID64 (Hex): 11000013c36b6a2 | Date: 23/3/2565
+================================================================
+[13:22:52] [ERROR] [59] No player data found. Data: {"event":"Chat","content":"/-ChangeStatus","date":"23/3/2565 13:22:52"}
+[13:22:52] [ERROR] [59] No player data found. Data: {"event":"Chat","content":"/-ChangeStatus","date":"23/3/2565 13:22:52"}
+[15:13:15] [ERROR] [59] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Arthur Lu เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"23/3/2565 15:13:13"}
+[15:14:32] [ERROR] [59] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Arthur Lu ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"23/3/2565 15:14:30"}
+[15:15:51] [ERROR] [59] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Arthur Lu ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"23/3/2565 15:15:49"}
+[15:19:26] [ERROR] [59] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Arthur Lu ซื้อ ตุ้มหู เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"23/3/2565 15:19:24"}
+[16:20:11] [ERROR] [59] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Arthur Lu ถูก Naruto Demlo ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา หลบหนี","date":"23/3/2565 16:20:07"}
+[17:07:49] [ERROR] [59] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Arthur Lu ถูก Noah Blackcalen ชุบชีวิต","date":"23/3/2565 17:07:45"}
+[17:08:07] [ERROR] [59] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Arthur Lu ได้รับการรักษา จาก Noah Blackcalen","date":"23/3/2565 17:08:03"}
+[17:48:39] [ERROR] [59] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Arthur Lu ถูก Bug Sarauri ชุบชีวิต","date":"23/3/2565 17:48:36"}
+[17:49:09] [ERROR] [59] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Arthur Lu ได้รับการรักษา จาก Bug Sarauri","date":"23/3/2565 17:49:06"}

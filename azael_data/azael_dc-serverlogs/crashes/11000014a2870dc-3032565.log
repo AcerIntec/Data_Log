@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 11000014a2870dc | Date: 30/3/2565
+================================================================
+[10:18:02] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"White Roger ได้รับการรักษา จาก Noah Blackcalen","date":"30/3/2565 10:17:58"}
+[11:02:11] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"White Roger ถูก Geostis Noir ชุบชีวิต","date":"30/3/2565 11:02:07"}
+[11:06:07] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"White Roger ได้รับการรักษา จาก Geostis Noir","date":"30/3/2565 11:06:03"}
+[11:30:31] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"White Roger สัก Katana เสียค่าใช้จ่าย $1,147 ให้ ร้านสัก","date":"30/3/2565 11:30:29"}
+[11:30:54] [ERROR] [27] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"White Roger สัก Mesh Band เสียค่าใช้จ่าย $200 ให้ ร้านสัก","date":"30/3/2565 11:30:52"}

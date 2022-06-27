@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 11000014b6dc128 | Date: 14/5/2565
+================================================================
+[03:10:05] [ERROR] [7] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 1011} Data: {"event":"VaultPutItem","content":"Primrose  JR ฝาก เนื้อหมูแพค จำนวน 25 เข้าตู้นิรภัย","date":"14/5/2565 03:09:10"}

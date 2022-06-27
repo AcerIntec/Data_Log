@@ -1,0 +1,11 @@
+================================================================
+======== SteamID64 (Hex): 11000014aa680df | Date: 6/4/2565
+================================================================
+[03:44:29] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Shindo Hassadin ชุบชีวิต","date":"6/4/2565 03:44:25"}
+[03:45:11] [ERROR] [10] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Shindo Hassadin","date":"6/4/2565 03:45:07"}
+[22:54:04] [ERROR] [62] No player data found. Data: {"event":"Dead","content":"เสียชีวิต โดย ตกจากที่สูง หรือ ขาดอาหาร","date":"6/4/2565 22:54:04"}
+[22:57:03] [ERROR] [62] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Bug Sarauri ชุบชีวิต","date":"6/4/2565 22:56:59"}
+[23:50:53] [ERROR] [62] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Bug Sarauri ชุบชีวิต","date":"6/4/2565 23:50:49"}
+[23:51:25] [ERROR] [62] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Bug Sarauri ชุบชีวิต","date":"6/4/2565 23:51:21"}
+[23:52:22] [ERROR] [62] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Bug Sarauri ชุบชีวิต","date":"6/4/2565 23:52:18"}
+[23:52:42] [ERROR] [62] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Bug Sarauri","date":"6/4/2565 23:52:38"}

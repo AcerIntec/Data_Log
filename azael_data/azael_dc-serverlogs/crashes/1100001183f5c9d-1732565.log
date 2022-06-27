@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 1100001183f5c9d | Date: 17/3/2565
+================================================================
+[01:11:18] [ERROR] [7] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"BuyVehicle","content":"Alexis lonely ซื้อรถ elegy ทะเบียน RDC 399 ราคา $290,000","date":"17/3/2565 01:11:06"}

@@ -1,0 +1,16 @@
+================================================================
+======== SteamID64 (Hex): 11000014aa680df | Date: 1/4/2565
+================================================================
+[15:50:24] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Srithan Jidpong ชุบชีวิต","date":"1/4/2565 15:50:20"}
+[15:50:40] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Srithan Jidpong","date":"1/4/2565 15:50:37"}
+[17:09:37] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Srithan Jidpong","date":"1/4/2565 17:09:33"}
+[17:13:50] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Yellow Demlo สัก Dog Tags เสียค่าใช้จ่าย $449 ให้ ร้านสัก","date":"1/4/2565 17:13:49"}
+[17:15:04] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Yellow Demlo สัก Skeleton Party เสียค่าใช้จ่าย $550 ให้ ร้านสัก","date":"1/4/2565 17:15:02"}
+[17:16:45] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Yellow Demlo สัก Grim Reaper Smoking Gun เสียค่าใช้จ่าย $488 ให้ ร้านสัก","date":"1/4/2565 17:16:43"}
+[17:17:19] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Yellow Demlo สัก X Marks The Spot เสียค่าใช้จ่าย $836 ให้ ร้านสัก","date":"1/4/2565 17:17:17"}
+[17:18:17] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"TattooShop","content":"Yellow Demlo สัก Trust No One เสียค่าใช้จ่าย $95 ให้ ร้านสัก","date":"1/4/2565 17:18:15"}
+[17:23:23] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Yellow Demlo เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"1/4/2565 17:23:21"}
+[17:28:53] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Yellow Demlo ซื้อ หน้ากาก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"1/4/2565 17:28:51"}
+[18:57:29] [ERROR] [2] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Shindo Hassadin","date":"1/4/2565 18:57:25"}
+[21:20:59] [ERROR] [2] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Yellow Demlo ถูก Shindo Hassadin ชุบชีวิต","date":"1/4/2565 21:20:55"}
+[21:21:27] [ERROR] [2] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Yellow Demlo ได้รับการรักษา จาก Shindo Hassadin","date":"1/4/2565 21:21:23"}

@@ -1,0 +1,9 @@
+================================================================
+======== SteamID64 (Hex): 11000014c7a1d81 | Date: 9/4/2565
+================================================================
+[21:10:25] [ERROR] [13] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/4/2565 21:10:23"}
+[21:10:26] [ERROR] [13] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา  M Moris","date":"9/4/2565 21:10:24"}
+[21:10:42] [ERROR] [13] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/4/2565 21:10:40"}
+[21:10:42] [ERROR] [13] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา Donuts  Me","date":"9/4/2565 21:10:40"}
+[21:16:53] [ERROR] [13] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"9/4/2565 21:16:51"}
+[21:16:53] [ERROR] [13] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา Sears  Demlo","date":"9/4/2565 21:16:51"}

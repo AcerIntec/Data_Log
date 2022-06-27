@@ -1,0 +1,11 @@
+================================================================
+======== SteamID64 (Hex): 1100001498416db | Date: 29/3/2565
+================================================================
+[10:04:47] [ERROR] [56] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":" M Moris เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 10:04:45"}
+[10:06:15] [ERROR] [56] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":" M Moris เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"29/3/2565 10:06:13"}
+[14:22:13] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"29/3/2565 14:22:11"}
+[14:22:13] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":" M Moris ชุบชีวิต Martin Peraony ได้รับ $0","date":"29/3/2565 14:22:11"}
+[15:03:27] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"29/3/2565 15:03:25"}
+[15:03:27] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":" M Moris ชุบชีวิต Some Orochi ได้รับ $0","date":"29/3/2565 15:03:25"}
+[15:03:41] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":" M Moris ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"29/3/2565 15:03:39"}
+[15:03:41] [ERROR] [22] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":" M Moris ทำการรักษา Some Orochi","date":"29/3/2565 15:03:39"}

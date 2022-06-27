@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 11000014b95dbdf | Date: 31/3/2565
+================================================================
+[02:27:32] [ERROR] [51] No player data found. Data: {"event":"Dead","content":"เสียชีวิต โดย ตกจากที่สูง หรือ ขาดอาหาร","date":"31/3/2565 02:27:32"}
+[02:46:34] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tommy Magma ถูก Tony    Jareansuk ชุบชีวิต","date":"31/3/2565 02:46:30"}
+[03:15:10] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tommy Magma ถูก Mark Angel ชุบชีวิต","date":"31/3/2565 03:15:06"}
+[03:16:03] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tommy Magma ได้รับการรักษา จาก Mark Angel","date":"31/3/2565 03:15:59"}
+[03:25:59] [ERROR] [51] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tommy Magma ได้รับการรักษา จาก Tony    Jareansuk","date":"31/3/2565 03:25:55"}

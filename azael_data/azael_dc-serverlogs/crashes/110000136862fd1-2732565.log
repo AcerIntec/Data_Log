@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 110000136862fd1 | Date: 27/3/2565
+================================================================
+[00:20:23] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Being Belong เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"27/3/2565 00:20:21"}
+[01:05:34] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Being Belong เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"27/3/2565 01:05:32"}
+[01:05:52] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Being Belong เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"27/3/2565 01:05:50"}
+[02:01:08] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Being Belong ถูก Mark Angel ชุบชีวิต","date":"27/3/2565 02:01:04"}
+[02:01:24] [ERROR] [12] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Being Belong ได้รับการรักษา จาก Mark Angel","date":"27/3/2565 02:01:20"}

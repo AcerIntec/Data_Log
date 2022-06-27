@@ -1,0 +1,10 @@
+================================================================
+======== SteamID64 (Hex): 1100001472dee4b | Date: 26/3/2565
+================================================================
+[15:04:06] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":"Tony    Jareansuk ซื้อรถ -974922913 ทะเบียน IWA 785 ราคา $5,000","date":"26/3/2565 15:04:04"}
+[15:08:10] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 15:08:08"}
+[15:08:10] [ERROR] [79] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tony    Jareansuk ทำการรักษา Arjeck Jinna","date":"26/3/2565 15:08:08"}
+[16:16:34] [ERROR] [110] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 16:16:32"}
+[16:16:34] [ERROR] [110] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tony    Jareansuk ทำการรักษา Ninja Magma","date":"26/3/2565 16:16:32"}
+[16:16:53] [ERROR] [110] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Tony    Jareansuk ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"26/3/2565 16:16:51"}
+[16:16:53] [ERROR] [110] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tony    Jareansuk ทำการรักษา Friedrice Norice","date":"26/3/2565 16:16:51"}

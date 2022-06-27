@@ -1,0 +1,8 @@
+================================================================
+======== SteamID64 (Hex): 11000014c65fcce | Date: 29/3/2565
+================================================================
+[12:46:18] [ERROR] [14] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Fatec Kazami เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 12:46:16"}
+[13:13:09] [ERROR] [17] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Fatec Kazami เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 13:13:07"}
+[13:16:22] [ERROR] [17] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Fatec Kazami ซื้อ แว่นตา เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"29/3/2565 13:16:20"}
+[16:30:45] [ERROR] [17] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Fatec Kazami ถูก Mark Angel ชุบชีวิต","date":"29/3/2565 16:30:41"}
+[16:31:13] [ERROR] [17] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Fatec Kazami ได้รับการรักษา จาก Mark Angel","date":"29/3/2565 16:31:09"}

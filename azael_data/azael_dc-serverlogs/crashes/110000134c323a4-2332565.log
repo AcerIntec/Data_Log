@@ -1,0 +1,6 @@
+================================================================
+======== SteamID64 (Hex): 110000134c323a4 | Date: 23/3/2565
+================================================================
+[11:43:57] [ERROR] [52] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Arjeck Jinna เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"23/3/2565 11:43:55"}
+[11:45:01] [ERROR] [52] Discord: Only absolute URLs are supported Data: {"event":"AccessoriesShop","content":"Arjeck Jinna ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"23/3/2565 11:44:59"}
+[11:47:45] [ERROR] [52] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Arjeck Jinna เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"23/3/2565 11:47:43"}

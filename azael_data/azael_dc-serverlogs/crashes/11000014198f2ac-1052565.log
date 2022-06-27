@@ -1,0 +1,25 @@
+================================================================
+======== SteamID64 (Hex): 11000014198f2ac | Date: 10/5/2565
+================================================================
+[19:16:14] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"MrSongNami Song ฝาก สายไฟ จำนวน 1 เข้าตู้นิรภัย","date":"10/5/2565 19:16:14"}
+[19:16:17] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"MrSongNami Song ฝาก ปูน จำนวน 2 เข้าตู้นิรภัย","date":"10/5/2565 19:16:17"}
+[19:16:21] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"MrSongNami Song ฝาก ส้มดิบ จำนวน 50 เข้าตู้นิรภัย","date":"10/5/2565 19:16:21"}
+[19:16:23] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"MrSongNami Song ฝาก กะหล่ำปลี จำนวน 2 เข้าตู้นิรภัย","date":"10/5/2565 19:16:23"}
+[19:16:27] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"MrSongNami Song ฝาก ถุงพลาสติก จำนวน 1 เข้าตู้นิรภัย","date":"10/5/2565 19:16:27"}
+[19:16:29] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"MrSongNami Song ฝาก ถุงพลาสติก จำนวน 3 เข้าตู้นิรภัย","date":"10/5/2565 19:16:29"}
+[19:16:30] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"MrSongNami Song ฝาก ข้าวสาร จำนวน 1 เข้าตู้นิรภัย","date":"10/5/2565 19:16:30"}
+[19:16:35] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"MrSongNami Song ฝาก Albatross Coin จำนวน 13 เข้าตู้นิรภัย","date":"10/5/2565 19:16:35"}
+[19:32:29] [ERROR] [8] No player data found. Data: {"event":"BankWithdraw","content":"MrSongNami Song ถอนเงิน จำนวน $10,000 ในบัญชีคงเหลือ $158,540 มีเงินในกระเป๋า $10,022","date":"10/5/2565 19:32:29"}
+[19:38:06] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"MrSongNami Song ฝาก แร่ดิบ จำนวน 25 เข้าตู้นิรภัย","date":"10/5/2565 19:38:06"}
+[20:15:58] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"MrSongNami Song ฝาก แร่ดิบ จำนวน 300 เข้าตู้นิรภัย","date":"10/5/2565 20:15:58"}
+[20:16:00] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"MrSongNami Song ฝาก เพชร จำนวน 2 เข้าตู้นิรภัย","date":"10/5/2565 20:16:00"}
+[20:16:03] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"MrSongNami Song ฝาก ถุงพลาสติก จำนวน 2 เข้าตู้นิรภัย","date":"10/5/2565 20:16:03"}
+[20:16:05] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"MrSongNami Song ฝาก Albatross Coin จำนวน 1 เข้าตู้นิรภัย","date":"10/5/2565 20:16:05"}
+[20:16:08] [ERROR] [8] No player data found. Data: {"event":"VaultPutItem","content":"MrSongNami Song ฝาก Ironroll จำนวน 1 เข้าตู้นิรภัย","date":"10/5/2565 20:16:08"}
+[20:23:57] [ERROR] [8] No player data found. Data: {"event":"DocHeal","content":"MrSongNami Song ได้รับการรักษา จาก Mac Torres","date":"10/5/2565 20:23:57"}
+[20:24:10] [ERROR] [8] No player data found. Data: {"event":"NC_GiveMoney","content":"MrSongNami Song ส่ง เงิน ให้กับ Mac Torres จำนวน $700","date":"10/5/2565 20:24:10"}
+[20:32:26] [ERROR] [8] No player data found. Data: {"event":"BankTransferPhone","content":"MrSongNami Song โอนเงิน ไปยัง Sirichai Kanya จำนวน $100,000 ในบัญชีคงเหลือ $58,990","date":"10/5/2565 20:32:26"}
+[20:44:32] [ERROR] [8] No player data found. Data: {"event":"LsCustom","content":"Song แต่งรถ Surano ทะเบียน NRG 108  และ เสียค่าใช้จ่าย $420","date":"10/5/2565 20:44:32"}
+[20:58:52] [ERROR] [8] No player data found. Data: {"event":"NC_GiveKeyCar","content":"MrSongNami Song ส่ง กุญแจยานพาหนะ ทะเบียน NRG 108 ให้กับ Jod Howdy","date":"10/5/2565 20:58:52"}
+[21:23:25] [ERROR] [8] No player data found. Data: {"event":"DocHeal","content":"MrSongNami Song ได้รับการรักษา จาก Lucky Hunter","date":"10/5/2565 21:23:25"}
+[21:24:12] [ERROR] [8] No player data found. Data: {"event":"NC_GiveMoney","content":"MrSongNami Song ส่ง เงิน ให้กับ Lucky Hunter จำนวน $1,500","date":"10/5/2565 21:24:12"}

@@ -1,0 +1,7 @@
+================================================================
+======== SteamID64 (Hex): 11000014b3939bc | Date: 16/4/2565
+================================================================
+[12:25:08] [ERROR] [12] No player data found. Data: {"event":"TattooShop","content":"Chanom Iris สัก Script Dollar Sign เสียค่าใช้จ่าย $88 ให้ ร้านสัก","date":"16/4/2565 12:25:08"}
+[13:08:59] [ERROR] [12] No player data found. Data: {"event":"BankWithdraw","content":"Chanom Iris ถอนเงิน จำนวน $5,000 ในบัญชีคงเหลือ $10,600 มีเงินในกระเป๋า $5,242","date":"16/4/2565 13:08:59"}
+[13:52:42] [ERROR] [12] No player data found. Data: {"event":"AccessoriesShop","content":"Chanom Iris ซื้อ หมวก เสียค่าใช้จ่าย $250 ให้ ร้านเครื่องประดับ","date":"16/4/2565 13:52:42"}
+[14:36:09] [ERROR] [12] No player data found. Data: {"event":"Chat","content":"/ืquit","date":"16/4/2565 14:36:09"}

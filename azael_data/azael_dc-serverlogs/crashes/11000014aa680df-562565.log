@@ -1,0 +1,9 @@
+================================================================
+======== SteamID64 (Hex): 11000014aa680df | Date: 5/6/2565
+================================================================
+[21:34:47] [ERROR] [19] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 11323} Data: {"event":"VaultPutItem","content":"Yellow Demlo ฝาก BlueQuartz จำนวน 6 เข้าตู้นิรภัย","date":"5/6/2565 21:34:36"}
+[21:34:49] [ERROR] [19] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 9296} Data: {"event":"VaultPutItem","content":"Yellow Demlo ฝาก Stonepack จำนวน 2 เข้าตู้นิรภัย","date":"5/6/2565 21:34:39"}
+[21:34:52] [ERROR] [19] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 7209} Data: {"event":"VaultPutItem","content":"Yellow Demlo ฝาก Onyx จำนวน 3 เข้าตู้นิรภัย","date":"5/6/2565 21:34:40"}
+[21:34:53] [ERROR] [19] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 5281} Data: {"event":"VaultPutItem","content":"Yellow Demlo ฝาก Ironroll จำนวน 2 เข้าตู้นิรภัย","date":"5/6/2565 21:34:42"}
+[21:34:55] [ERROR] [19] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 3294} Data: {"event":"VaultPutItem","content":"Yellow Demlo ฝาก เพชร จำนวน 8 เข้าตู้นิรภัย","date":"5/6/2565 21:34:44"}
+[21:34:58] [ERROR] [19] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 1214} Data: {"event":"VaultPutItem","content":"Yellow Demlo ฝาก Onyx จำนวน 3 เข้าตู้นิรภัย","date":"5/6/2565 21:34:52"}

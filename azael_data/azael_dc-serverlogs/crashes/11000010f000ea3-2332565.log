@@ -1,0 +1,25 @@
+================================================================
+======== SteamID64 (Hex): 11000010f000ea3 | Date: 23/3/2565
+================================================================
+[00:25:13] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"23/3/2565 00:25:11"}
+[01:07:25] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocBuyCar","content":"Samon Kajornkli ซื้อรถ -974922913 ทะเบียน TMX 321 ราคา $5,000","date":"23/3/2565 01:07:25"}
+[01:14:54] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"23/3/2565 01:14:52"}
+[01:14:54] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Samon Kajornkli ชุบชีวิต Yuji Kimita ได้รับ $0","date":"23/3/2565 01:14:52"}
+[01:15:21] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"23/3/2565 01:15:19"}
+[01:15:21] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา Yuji Kimita","date":"23/3/2565 01:15:19"}
+[01:23:34] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"23/3/2565 01:23:32"}
+[01:23:34] [ERROR] [1] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Samon Kajornkli ทำการรักษา Yuji Kimita","date":"23/3/2565 01:23:32"}
+[14:41:46] [ERROR] [60] Discord: Only absolute URLs are supported Data: {"event":"AnnounceAgency","content":"Samon Kajornkli หน่วยงาน: ambulance ประกาศ: หมอพร้อม ยาพร้อม เราทำได้","date":"23/3/2565 14:41:44"}
+[15:12:22] [ERROR] [60] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"23/3/2565 15:12:20"}
+[18:14:03] [ERROR] [60] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"23/3/2565 18:14:01"}
+[18:15:13] [ERROR] [60] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"23/3/2565 18:15:12"}
+[18:15:46] [ERROR] [60] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"23/3/2565 18:15:44"}
+[18:16:38] [ERROR] [60] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"23/3/2565 18:16:36"}
+[18:17:24] [ERROR] [60] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"23/3/2565 18:17:22"}
+[21:42:06] [ERROR] [119] Discord: Only absolute URLs are supported Data: {"event":"PoliceJail","content":"Samon Kajornkli ถูก Escobar Escobar ส่งตัวไปยังเรือนจำ เป็นเวลา 5 นาที ในข้อหา สายไฟ2","date":"23/3/2565 21:42:03"}
+[21:54:43] [ERROR] [119] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"23/3/2565 21:54:41"}
+[22:00:58] [ERROR] [119] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"23/3/2565 22:00:56"}
+[22:01:23] [ERROR] [119] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"23/3/2565 22:01:21"}
+[22:06:23] [ERROR] [119] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"23/3/2565 22:06:21"}
+[22:06:41] [ERROR] [119] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"23/3/2565 22:06:39"}
+[22:31:11] [ERROR] [119] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Samon Kajornkli ใช้ Aed จำนวน 1","date":"23/3/2565 22:31:09"}

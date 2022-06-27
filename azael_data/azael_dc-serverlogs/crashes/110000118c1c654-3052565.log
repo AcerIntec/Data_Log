@@ -1,0 +1,5 @@
+================================================================
+======== SteamID64 (Hex): 110000118c1c654 | Date: 30/5/2565
+================================================================
+[00:52:37] [ERROR] [46] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 11520} Data: {"event":"VaultGetItem","content":"CHANIG YAI นำ ปูน จำนวน 5 ออกจากตู้นิรภัย","date":"30/5/2565 00:52:35"}
+[00:52:42] [ERROR] [46] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 6587} Data: {"event":"VaultGetItem","content":"CHANIG YAI นำ สายไฟ จำนวน 3 ออกจากตู้นิรภัย","date":"30/5/2565 00:52:40"}

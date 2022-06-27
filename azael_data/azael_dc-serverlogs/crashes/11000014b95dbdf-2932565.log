@@ -1,0 +1,12 @@
+================================================================
+======== SteamID64 (Hex): 11000014b95dbdf | Date: 29/3/2565
+================================================================
+[01:28:10] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"ClotheShop","content":"Tommy Magma เสียค่าใช้จ่าย $500 ให้ ร้านเสื้อผ้า","date":"29/3/2565 01:28:08"}
+[01:33:23] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"BarberShop","content":"Tommy Magma เสียค่าใช้จ่าย $500 ให้ ร้านตัดผม","date":"29/3/2565 01:33:21"}
+[02:47:04] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tommy Magma ถูก Shindo Hassadin ชุบชีวิต","date":"29/3/2565 02:47:00"}
+[02:58:04] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tommy Magma ถูก Shindo Hassadin ชุบชีวิต","date":"29/3/2565 02:58:00"}
+[03:39:56] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tommy Magma ถูก Mark Angel ชุบชีวิต","date":"29/3/2565 03:39:53"}
+[03:40:16] [ERROR] [32] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tommy Magma ได้รับการรักษา จาก Mark Angel","date":"29/3/2565 03:40:12"}
+[21:42:49] [ERROR] [84] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tommy Magma ถูก Mac Torres ชุบชีวิต","date":"29/3/2565 21:42:45"}
+[21:43:06] [ERROR] [84] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Tommy Magma ได้รับการรักษา จาก Mac Torres","date":"29/3/2565 21:43:02"}
+[22:36:30] [ERROR] [84] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Tommy Magma ถูก Atom Demon ชุบชีวิต","date":"29/3/2565 22:36:24"}

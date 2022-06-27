@@ -1,0 +1,13 @@
+================================================================
+======== SteamID64 (Hex): 11000014c7a1d81 | Date: 2/4/2565
+================================================================
+[00:49:55] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"2/4/2565 00:49:53"}
+[00:49:55] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา Yellow Demlo","date":"2/4/2565 00:49:53"}
+[01:10:03] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"2/4/2565 01:10:01"}
+[01:10:03] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Yellow Demlo ได้รับ $0","date":"2/4/2565 01:10:01"}
+[01:10:22] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"2/4/2565 01:10:20"}
+[01:10:22] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา Yellow Demlo","date":"2/4/2565 01:10:20"}
+[02:08:26] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"2/4/2565 02:08:24"}
+[02:08:26] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Bug Sarauri ได้รับ $0","date":"2/4/2565 02:08:25"}
+[02:17:35] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"2/4/2565 02:17:33"}
+[02:17:35] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา Bug Sarauri","date":"2/4/2565 02:17:33"}

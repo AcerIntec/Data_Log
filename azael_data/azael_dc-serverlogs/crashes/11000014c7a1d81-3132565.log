@@ -1,0 +1,12 @@
+================================================================
+======== SteamID64 (Hex): 11000014c7a1d81 | Date: 31/3/2565
+================================================================
+[20:53:43] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ถูก Mark Angel ชุบชีวิต","date":"31/3/2565 20:53:40"}
+[21:46:04] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"31/3/2565 21:46:02"}
+[21:46:04] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Shark Paradise ได้รับ $0","date":"31/3/2565 21:46:02"}
+[21:46:34] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ ชุดปฐมพยาบาล จำนวน 1","date":"31/3/2565 21:46:32"}
+[21:46:34] [ERROR] [11] Discord: Only absolute URLs are supported Data: {"event":"DocHeal","content":"Shindo Hassadin ทำการรักษา Shark Paradise","date":"31/3/2565 21:46:32"}
+[23:49:53] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"31/3/2565 23:49:51"}
+[23:49:53] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Niclolas Sanchez ได้รับ $0","date":"31/3/2565 23:49:51"}
+[23:50:07] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRemoveItem","content":"Shindo Hassadin ใช้ เครื่องปั้มหัวใจ จำนวน 1","date":"31/3/2565 23:50:05"}
+[23:50:07] [ERROR] [5] Discord: Only absolute URLs are supported Data: {"event":"DocRevive","content":"Shindo Hassadin ชุบชีวิต Srithan Jidpong ได้รับ $0","date":"31/3/2565 23:50:05"}

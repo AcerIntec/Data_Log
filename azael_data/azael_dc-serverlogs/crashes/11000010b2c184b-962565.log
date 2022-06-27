@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 11000010b2c184b | Date: 9/6/2565
+================================================================
+[18:37:12] [ERROR] [1] Discord: Error sending webhook: 500 status code. Response: {"message": "500: Internal Server Error", "code": 0} Data: {"event":"VaultPutItem","content":"Butsop PP ฝาก กะหล่ำปลี จำนวน 25 เข้าตู้นิรภัย","date":"9/6/2565 18:37:10"}

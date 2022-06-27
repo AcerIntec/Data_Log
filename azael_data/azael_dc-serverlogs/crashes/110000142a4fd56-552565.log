@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 110000142a4fd56 | Date: 5/5/2565
+================================================================
+[22:19:14] [ERROR] [72] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 3911} Data: {"event":"VaultGetItem","content":"BOY LONDON นำ สตอเบอร์รีแพ็ค จำนวน 25 ออกจากตู้นิรภัย","date":"5/5/2565 22:19:06"}

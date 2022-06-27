@@ -1,0 +1,4 @@
+================================================================
+======== SteamID64 (Hex): 110000135668905 | Date: 4/6/2565
+================================================================
+[22:46:34] [ERROR] [11] Discord: Error sending webhook: 429 status code. Response: {  "global": false,   "message": "The resource is being rate limited.",   "retry_after": 3599} Data: {"event":"VaultGetItem","content":"Khaopad Demlo นำ แท่งทองคำ จำนวน 50 ออกจากตู้นิรภัย","date":"4/6/2565 22:46:31"}
